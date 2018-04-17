@@ -1,0 +1,73 @@
+AUGSBURG	B-loc
+-	O
+
+1860	B-org
+München	I-org
+heeft	O
+de	O
+eerste	O
+wedstrijd	O
+in	O
+de	O
+tweede	O
+ronde	O
+van	O
+de	O
+Intertotocompetitie	B-eve
+tegen	O
+FK	B-org
+Sartid	I-org
+Smederevo	I-org
+met	O
+3	O
+-	O
+1	O
+gewonnen	O
+.	O
+
+De	O
+return	O
+is	O
+zaterdag	O
+in	O
+Joegoslavië	B-loc
+.	O
+
+De	O
+uiteindelijke	O
+winnaar	O
+komt	O
+in	O
+actie	O
+tegen	O
+RKC	B-org
+Waalwijk	I-org
+.	O
+
+De	O
+Duitse	B-loc
+doelpunten	O
+kwamen	O
+op	O
+naam	O
+van	O
+Martin	B-per
+Max	I-per
+(	O
+2	O
+)	O
+en	O
+Vidar	B-per
+Riseth	I-per
+.	O
+
+Boris	B-per
+Vascovic	I-per
+hield	O
+de	O
+hoop	O
+voor	O
+Smederevo	B-org
+levend	O
+.	O
+

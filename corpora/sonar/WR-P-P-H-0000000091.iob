@@ -1,0 +1,62 @@
+American	B-loc
+footballclub	O
+Berlin	B-org
+Thunder	I-org
+heeft	O
+de	O
+World	B-pro
+Bowl	I-pro
+veroverd	O
+.	O
+
+In	O
+de	O
+finale	O
+in	O
+de	O
+Arena	B-loc
+in	O
+Amsterdam	B-loc
+,	O
+versloeg	O
+de	O
+Duitse	B-loc
+ploeg	O
+het	O
+favoriete	O
+Barcelona	B-org
+Dragons	I-org
+met	O
+24	O
+-	O
+17	O
+.	O
+
+In	O
+de	O
+competitie	O
+had	O
+Berlin	B-org
+twee	O
+keer	O
+verloren	O
+van	O
+de	O
+Spanjaarden	B-loc
+.	O
+
+Op	O
+de	O
+foto	O
+kust	O
+Joe	B-per
+Wesley	I-per
+de	O
+glazen	O
+World	B-pro
+Bowl	I-pro
+.	O
+
+FOTO	O
+AP	B-org
+

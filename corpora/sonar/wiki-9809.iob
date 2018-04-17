@@ -1,0 +1,264 @@
+Peer	B-loc
+(	O
+België	B-loc
+)	O
+
+Peer	B-loc
+is	O
+een	O
+stad	O
+in	O
+de	O
+provincie	O
+Limburg	B-loc
+in	O
+België	B-loc
+.	O
+
+De	O
+stad	O
+heeft	O
+ruim	O
+15.500	O
+inwoners	O
+.	O
+
+Het	O
+is	O
+een	O
+Mariastad	B-misc
+en	O
+was	O
+ook	O
+één	O
+van	O
+de	O
+Goede	B-misc
+Steden	I-misc
+van	O
+het	O
+prinsbisdom	O
+Luik	B-loc
+.	O
+
+De	O
+naam	O
+Peer	B-loc
+is	O
+afkomstig	O
+van	O
+«	O
+pirgus	O
+»	O
+(	O
+betekent	O
+verharde	O
+weg	O
+)	O
+.	O
+
+Anno	O
+2003	O
+telt	O
+Peer	B-loc
+25	O
+gemeenteraadsleden	O
+waaronder	O
+1	O
+burgemeester	O
+,	O
+5	O
+schepenen	O
+en	O
+19	O
+raadsleden	O
+.	O
+
+De	O
+burgemeester	O
+van	O
+Peer	B-loc
+heet	O
+Theo	B-per
+Kelchtermans	I-per
+.	O
+
+Kernen	O
+
+Peer	B-loc
+telt	O
+7	O
+kerkdorpen	O
+:	O
+Peer	B-loc
+zelf	O
+,	O
+Linde	B-loc
+Peer	I-loc
+,	O
+Wijchmaal	B-loc
+,	O
+Wauberg	B-loc
+,	O
+Grote-Brogel	B-loc
+,	O
+Kleine-Brogel	B-loc
+en	O
+Erpekom	B-loc
+.	O
+
+Bezienswaardigheden	O
+
+de	O
+Sint-Trudokerk	B-loc
+uit	O
+1422	O
+.	O
+
+In	O
+de	O
+kerk	O
+staan	O
+zeer	O
+oude	O
+beelden	O
+.	O
+
+het	O
+stadhuis	O
+in	O
+Maaslandse	B-loc
+renaissance	O
+uit	O
+1637	O
+
+het	O
+Armand	B-org
+Preud'homme	I-org
+Museum	I-org
+
+het	O
+museum	O
+van	O
+de	O
+Koninklijke	B-org
+Harmonie	I-org
+van	O
+Peer	B-loc
+
+het	O
+militair	O
+domein	O
+met	O
+luchtmachtbasis	O
+in	O
+Kleine-Brogel	B-loc
+,	O
+thuisbasis	O
+van	O
+de	O
+Tiende	B-org
+Tactische	I-org
+Wing	I-org
+en	O
+de	O
+Belgische	B-loc
+F-16	B-pro
+.	O
+
+Voorzien	O
+van	O
+een	O
+spotterscorner	O
+.	O
+
+recreatiedomein	O
+Erperheide	B-loc
+
+een	O
+van	O
+Europa's	B-misc
+grootste	O
+overdekte	O
+skipistes	O
+
+«	O
+Darco	B-per
+»	O
+,	O
+het	O
+paard	O
+waar	O
+Ludo	B-per
+Philippaerts	I-per
+grote	O
+successen	O
+mee	O
+behaalde	O
+,	O
+is	O
+vereeuwigd	O
+in	O
+een	O
+bronzen	O
+beeld	O
+.	O
+
+Bekende	O
+inwoners	O
+
+De	O
+componist	O
+Armand	B-per
+Preud'homme	I-per
+werd	O
+op	O
+21	O
+februari	O
+1904	O
+geboren	O
+in	O
+de	O
+Kloosterstraat	B-loc
+37	O
+van	O
+Peer	B-loc
+.	O
+
+Met	O
+medewerking	O
+van	O
+de	O
+stad	O
+Peer	B-loc
+werd	O
+zijn	O
+geboortehuis	O
+later	O
+ingericht	O
+als	O
+het	O
+«	O
+Armand	B-org
+Preud'homme	I-org
+Museum	I-org
+»	O
+.	O
+
+De	O
+charmezanger	O
+Salim	B-per
+Seghers	I-per
+woont	O
+in	O
+Wijchmaal	B-loc
+,	O
+een	O
+deelgemeente	O
+van	O
+Peer	B-loc
+.	O
+
+Externe	O
+link	O
+

@@ -1,0 +1,566 @@
+Ronde	B-eve
+van	I-eve
+België	I-eve
+
+De	O
+Ronde	B-eve
+Van	I-eve
+België	I-eve
+is	O
+een	O
+meerdaagse	O
+wielerwedstrijd	O
+die	O
+jaarlijks	O
+in	O
+België	B-loc
+wordt	O
+verreden	O
+.	O
+
+De	O
+wedstrijd	O
+werd	O
+voor	O
+het	O
+eerst	O
+in	O
+1908	O
+verreden	O
+en	O
+vervolgens	O
+met	O
+uitzondering	O
+van	O
+de	O
+beide	O
+wereldoorlogen	O
+jaarlijks	O
+tot	O
+en	O
+met	O
+1981	O
+.	O
+
+Toen	O
+ondervond	O
+de	O
+ronde	O
+het	O
+nadeel	O
+van	O
+de	O
+Belgische	B-loc
+wielercultuur	O
+waar	O
+de	O
+nadruk	O
+veel	O
+meer	O
+op	O
+de	O
+eendaagse	O
+wedstrijden	O
+ligt	O
+.	O
+
+Ze	O
+is	O
+de	O
+twintig	O
+jaar	O
+die	O
+volgden	O
+af	O
+en	O
+toe	O
+georganiseerd	O
+,	O
+maar	O
+vanaf	O
+2002	O
+weer	O
+jaarlijks	O
+.	O
+
+Met	O
+de	O
+invoering	O
+van	O
+de	O
+UCI	B-eve
+ProTour	I-eve
+in	O
+2005	O
+leek	O
+de	O
+ronde	O
+op	O
+te	O
+gaan	O
+in	O
+de	O
+ENECO	B-eve
+Tour	I-eve
+,	O
+maar	O
+ze	O
+bleef	O
+toch	O
+bestaan	O
+.	O
+
+Ze	O
+maakt	O
+sindsdien	O
+deel	O
+uit	O
+van	O
+het	O
+Europese	B-loc
+continentale	O
+circuit	O
+.	O
+
+De	O
+wedstrijd	O
+bestaat	O
+meestal	O
+uit	O
+een	O
+aantal	O
+ritten	O
+in	O
+lijn	O
+en	O
+één	O
+tijdrit	O
+.	O
+
+Het	O
+is	O
+hier	O
+waar	O
+de	O
+wedstrijd	O
+meestal	O
+wordt	O
+beslist	O
+.	O
+
+Overzicht	O
+winnaars	O
+
+2006	O
+-	O
+Maarten	B-per
+Tjallingii	I-per
+
+2005	O
+-	O
+Tom	B-per
+Boonen	I-per
+
+2004	O
+-	O
+Sylvain	B-per
+Chavanel	I-per
+
+2003	O
+-	O
+Michael	B-per
+Rogers	I-per
+
+2002	O
+-	O
+Bart	B-per
+Voskamp	I-per
+
+1990	O
+-	O
+Frans	B-per
+Maassen	I-per
+
+1989	O
+-	O
+Sean	B-per
+Yates	I-per
+
+1988	O
+-	O
+Frans	B-per
+Maassen	I-per
+
+1986	O
+-	O
+Nico	B-per
+Emonds	I-per
+
+1985	O
+-	O
+Ludo	B-per
+Peeters	I-per
+
+1984	O
+-	O
+Eddy	B-per
+Planckaert	I-per
+
+1981	O
+-	O
+Ad	B-per
+Wijnands	I-per
+
+1980	O
+-	O
+Gerrie	B-per
+Knetemann	I-per
+
+1979	O
+-	O
+Daniel	B-per
+Willems	I-per
+
+1978	O
+-	O
+André	B-per
+Dierickx	I-per
+
+1977	O
+-	O
+Walter	B-per
+Planckaert	I-per
+
+1976	O
+-	O
+Michel	B-per
+Pollentier	I-per
+
+1975	O
+-	O
+Freddy	B-per
+Maertens	I-per
+
+1974	O
+-	O
+Roger	B-per
+Swerts	I-per
+
+1973	O
+-	O
+Leif	B-per
+Mortensen	I-per
+
+1972	O
+-	O
+Roger	B-per
+Swerts	I-per
+
+1971	O
+-	O
+Eddy	B-per
+Merckx	I-per
+
+1970	O
+-	O
+Eddy	B-per
+Merckx	I-per
+
+1969	O
+-	O
+Eric	B-per
+De	I-per
+Vlaeminck	I-per
+
+1968	O
+-	O
+Wilfried	B-per
+David	I-per
+
+1967	O
+-	O
+Carmine	B-per
+Preziosi	I-per
+
+1966	O
+-	O
+Vittorio	B-per
+Adorni	I-per
+
+1965	O
+-	O
+Jean	B-per
+Stablinski	I-per
+
+1964	O
+-	O
+Benoni	B-per
+Beheyt	I-per
+
+1963	O
+-	O
+Peter	B-per
+Post	I-per
+
+1962	O
+-	O
+Noël	B-per
+Foré	I-per
+
+1961	O
+-	O
+Rik	B-per
+van	I-per
+Looy	I-per
+
+1960	O
+-	O
+Alfons	B-per
+Sweeck	I-per
+
+1959	O
+-	O
+Armand	B-per
+Desmet	I-per
+
+1958	O
+-	O
+Noël	B-per
+Foré	I-per
+
+1957	O
+-	O
+Pino	B-per
+Cerami	I-per
+
+1956	O
+-	O
+André	B-per
+Vlaeyen	I-per
+
+1955	O
+-	O
+Alex	B-per
+Close	I-per
+
+1954	O
+-	O
+Henri	B-per
+Van	I-per
+Kerckhove	I-per
+
+1953	O
+-	O
+Florent	B-per
+Rondele	I-per
+
+1952	O
+-	O
+Henri	B-per
+Van	I-per
+Kerckhove	I-per
+
+1951	O
+-	O
+Lucien	B-per
+Matthijs	I-per
+
+1950	O
+-	O
+Albert	B-per
+Dubiusson	I-per
+
+1949	O
+-	O
+Ernest	B-per
+Sterckx	I-per
+
+1948	O
+-	O
+Stan	B-per
+Ockers	I-per
+
+1947	O
+-	O
+Maurice	B-per
+Van	I-per
+Herzele	I-per
+
+1946	O
+-	O
+Albert	B-per
+Ramon	I-per
+
+1945	O
+-	O
+Norbert	B-per
+Callens	I-per
+
+1939	O
+-	O
+Joseph	B-per
+Somers	I-per
+
+1938	O
+-	O
+François	B-per
+Neuville	I-per
+
+1937	O
+-	O
+Adolf	B-per
+Braeckeveldt	I-per
+
+1936	O
+-	O
+Emile	B-per
+Decroix	I-per
+
+1935	O
+-	O
+Jef	B-per
+Moerenhout	I-per
+
+1934	O
+-	O
+François	B-per
+Gardier	I-per
+
+1933	O
+-	O
+Jean	B-per
+Aerts	I-per
+
+1932	O
+-	O
+Léon	B-per
+Louyet	I-per
+
+1931	O
+-	O
+Maurice	B-per
+De	I-per
+Waele	I-per
+
+1930	O
+-	O
+Emile	B-per
+Joly	I-per
+
+1929	O
+-	O
+Armand	B-per
+Van	I-per
+Brueane	I-per
+
+1928	O
+-	O
+Jules	B-per
+Van	I-per
+Hevel	I-per
+
+1927	O
+-	O
+Paul	B-per
+Matton	I-per
+
+1926	O
+-	O
+Jean	B-per
+Debusschere	I-per
+
+1925	O
+-	O
+Denis	B-per
+Verschueren	I-per
+
+1924	O
+-	O
+Félix	B-per
+Sellier	I-per
+
+1923	O
+-	O
+Emile	B-per
+Masson	I-per
+
+1922	O
+-	O
+René	B-per
+Vermandel	I-per
+
+1921	O
+-	O
+René	B-per
+Vermandel	I-per
+
+1920	O
+-	O
+Louis	B-per
+Mottiat	I-per
+
+1919	O
+-	O
+Emile	B-per
+Masson	I-per
+
+1914	O
+-	O
+Louis	B-per
+Mottiat	I-per
+
+1913	O
+-	O
+Dieudonné	B-per
+Gauthy	I-per
+
+1912	O
+-	O
+Odile	B-per
+Defraye	I-per
+
+1911	O
+-	O
+René	B-per
+Vandenberghe	I-per
+
+1910	O
+-	O
+Jules	B-per
+Masselis	I-per
+
+1909	O
+-	O
+Paul	B-per
+Duboc	I-per
+
+1908	O
+-	O
+Lucien	B-per
+Petit-Breton	I-per
+
+Zie	O
+ook	O
+
+Ronde	B-eve
+van	I-eve
+België	I-eve
+2006	I-eve
+:	O
+het	O
+verloop	O
+en	O
+klassement	O
+van	O
+de	O
+wedstrijd	O
+in	O
+2006	O
+.	O
+
+Externe	O
+links	O
+
+Officiële	O
+website	O
+

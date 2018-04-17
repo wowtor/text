@@ -1,0 +1,123 @@
+Hemiksem	B-loc
+
+Hemiksem	B-loc
+is	O
+een	O
+gemeente	O
+in	O
+België	B-loc
+,	O
+gelegen	O
+aan	O
+de	O
+Schelde	B-loc
+ten	O
+zuiden	O
+van	O
+Antwerpen	B-loc
+.	O
+
+Hemiksem	B-loc
+telt	O
+meer	O
+dan	O
+9500	O
+inwoners	O
+.	O
+
+De	O
+gemeente	O
+maakt	O
+deel	O
+uit	O
+van	O
+de	O
+Rupelstreek	B-loc
+en	O
+ligt	O
+in	O
+het	O
+kanton	O
+Boom	B-loc
+.	O
+
+De	O
+huidige	O
+burgemeester	O
+is	O
+Eddy	B-per
+De	I-per
+Herdt	I-per
+(	O
+SP.A	B-org
+)	O
+.	O
+
+In	O
+Hemiksem	B-loc
+staan	O
+enkele	O
+historische	O
+gebouwen	O
+,	O
+de	O
+belangrijkste	O
+is	O
+de	O
+Sint-Bernardusabdij	B-loc
+gesticht	O
+in	O
+1243	O
+door	O
+de	O
+Cisterciënzers	B-org
+.	O
+
+Evolutie	O
+van	O
+het	O
+inwoneraantal	O
+
+19e	O
+eeuw	O
+
+20e	O
+eeuw	O
+tot	O
+aan	O
+herinrichting	O
+gemeenten	O
+
+Na	O
+de	O
+gemeentelijke	O
+herinrichting	O
+
+Geboren	O
+in	O
+Hemiksem	B-loc
+
+Jules	B-per
+Van	I-per
+Nuffel	I-per
+,	O
+componist	O
+en	O
+koordirigent	O
+
+Externe	O
+links	O
+
+Officiële	O
+website	O
+
+Website	O
+van	O
+Heemkring	B-org
+Hemiksem	I-org
+
+Website	O
+van	O
+Casablanca	B-eve
+Festival	I-eve
+

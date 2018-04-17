@@ -1,0 +1,227 @@
+<html>
+<head><title>Document Viewer</title>
+<script src="/static/d3.v3.min.js" charset="utf-8"></script>
+<script src="/static/text.js" charset="utf-8"></script>
+<style type="text/css">
+#document {
+    position: relative;
+    left: 200px;
+    width: 600px;
+}
+#typeselector {
+    position: fixed;
+    display: block;
+    top: 1em;
+    left: 1em;
+    width: 200px;
+}
+#aviewer {
+    position: fixed;
+    top: 1em;
+    left: 1000px;
+    width: 600px;
+}
+#aviewer > .box {
+    border: 1px solid black;
+    margin-top: 1em;
+}
+#aviewer > .box .atype {
+    font-weight: bold;
+}
+</style>
+</head>
+<body>
+<script type="text/javascript">
+var doc;
+var tokens;
+var COLORS = [
+    [1,.8,.8], // red
+    [.8,1,.8], // green
+    [.8,.8,1], // blue
+    [1,1,.8],
+    [1,.8,1],
+    [.8,1,1],
+    [.6,.8,1],
+    [.6,1,.8],
+    [.8,.6,1],
+    [.8,1,.6],
+    [1,.6,.8],
+    [1,.8,.6],
+];
+var typecolors = {};
+
+Object.entries = function(o) {
+    var entries = [];
+    for (key in o) {
+        entries.push([key, o[key]]);
+    }
+    return entries;
+}
+
+d3.json('/api', function(err, data) {
+    doc = new Document(data);
+
+    var types = doc.getTypes();
+    for (var i=0 ; i<types.length ; i++) {
+        typecolors[types[i]] = COLORS[i % COLORS.length];
+    }
+
+    tokens = doc.selectType(['token', 'punct', 'space']);
+    tokens.sortAnnotations();
+    for (var i=0 ; i<tokens.annotations.length ; i++) {
+        tokens.annotations[i].id = i;
+    }
+
+    d3.select('#document')
+        .on('mouseup', selectText)
+        .selectAll('span')
+        .data(tokens.annotations)
+        .enter()
+        .append('span')
+        .attr('id', function(a) {return a.id;})
+        .attr('class', function(a) {
+            var containing = doc.selectContains(a.span);
+            a.classes = [];
+            containing.annotations.forEach(function(ca) {
+                a.classes.push(ca.type);
+            });
+            return a.classes.join(' ');
+        })
+        .text(function(a) {return a.features.string;});
+
+    var div = d3.select('#typeselector')
+        .append('form')
+        .attr('id', 'typeselectorform')
+        .selectAll('div')
+        .data(doc.getTypes())
+        .enter()
+        .append('div');
+    div.append('input')
+        .attr('type', 'checkbox')
+        .attr('name', function(t) {return t;})
+        .property('checked', false)
+        .on('change', updateTypeSelector);
+    div.append('span')
+        .text(function(t) { return t;});
+
+    updateTypeSelector();
+});
+
+function getSelectedTypes() {
+    var form = document.getElementById('typeselectorform');
+    var types = doc.getTypes();
+    var selected = {}
+    for (var i=0 ; i<types.length ; i++) {
+        if (form[types[i]].checked)
+            selected[types[i]] = true;
+    }
+    return selected;
+}
+
+function updateTypeSelector() {
+    var selected = getSelectedTypes();
+    d3.select('#document').selectAll('span')
+        .data(tokens.annotations)
+        .style('background-color', function(a) {
+            for (var i=0 ; i<a.classes.length ; i++) {
+                if (a.classes[i] in selected) {
+                    var color = typecolors[a.classes[i]];
+                    var rgb = []
+                    for (var rgbi=0 ; rgbi<color.length ; rgbi++) {
+                        rgb.push(Math.floor(255*color[rgbi]));
+                    }
+                    return 'rgb('+rgb.join(',')+')';
+                }
+            }
+        });
+}
+
+function showAnnotations(span) {
+    // remove previous elements
+    d3.select('#aviewer')
+        .selectAll('div')
+        .data([])
+        .exit()
+        .remove();
+
+    // find selection
+    var selected = getSelectedTypes();
+    var types = [];
+    for (type in selected) {
+        types.push(type);
+    }
+    var containing = doc.selectOverlapping(span).selectType(types);
+
+    // add new elements
+    var form = d3.select('#aviewer')
+        .selectAll('div')
+        .data(containing.annotations)
+        .enter()
+        .append('div')
+        .classed('box', true)
+        .append('form')
+        .attr('id', function(a) {return 'ann'+a.id});
+
+    form
+        .append('div')
+        .classed('atype', true)
+        .text(function(a){return a.type})
+    form
+        .append('div')
+        .text(function(a){return '[' + a.span[0] + ', ' + a.span[1] + ']'})
+
+    featurediv = form
+        .append('div')
+        .selectAll('div')
+        .data(function(a){return Object.entries(a.features)})
+        .enter()
+        .append('div');
+
+    featurediv
+        .append('span')
+        .style({'padding-right': '2em'})
+        .text(function(e){return e[0]});
+    featurediv
+        .append('span')
+        .text(function(e){return e[1]});
+}
+
+function selectText() {
+    // lookup selected nodes
+    var selection = document.getSelection();
+    var first_node = selection.anchorNode;
+    var last_node = selection.focusNode;
+    if (first_node.parentNode.id > last_node.parentNode.id) {
+        var tmp = first_node;
+        first_node = last_node;
+        last_node = tmp;
+    }
+
+    // extend selection to token boundaries
+    selection.removeAllRanges();
+    var range = document.createRange();
+    range.setStartBefore(first_node);
+    range.setEndAfter(last_node);
+    selection.addRange(range);
+
+    var first_id = first_node.parentNode.id;
+    var last_id = last_node.parentNode.id;
+    if (first_id in tokens.annotations)
+        showAnnotations([tokens.annotations[first_id].span[0], tokens.annotations[last_id].span[1]]);
+    else
+        showAnnotations(-1,-1);
+    for (var i=first_id ; i<=last_id ; i++) {
+        //console.log(tokens.annotations[i].features.string);
+    }
+}
+</script>
+<div id="container">
+<div id="document">
+</div>
+<div id="typeselector">
+</div>
+<div id="aviewer">
+</div>
+</div>
+</body>
+</html>

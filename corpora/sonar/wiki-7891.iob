@@ -1,0 +1,902 @@
+Vlaamse	B-org
+Televisie	I-org
+Maatschappij	I-org
+
+De	O
+Vlaamse	B-org
+Televisie	I-org
+Maatschappij	I-org
+(	O
+VTM	B-org
+)	O
+is	O
+een	O
+Vlaamse	B-loc
+televisiezender	O
+.	O
+
+Ze	O
+zond	O
+voor	O
+het	O
+eerst	O
+uit	O
+op	O
+1	O
+februari	O
+1989	O
+.	O
+
+Het	O
+was	O
+destijds	O
+het	O
+eerste	O
+commerciële	O
+televisiestation	O
+in	O
+Vlaanderen	B-loc
+.	O
+
+Het	O
+is	O
+in	O
+handen	O
+van	O
+de	O
+Vlaamse	B-org
+Media	I-org
+Maatschappij	I-org
+(	O
+VMMa	B-org
+)	O
+.	O
+
+Deze	O
+televisiezender	O
+is	O
+,	O
+zoals	O
+het	O
+kabeldecreet	O
+vereist	O
+,	O
+alleen	O
+te	O
+zien	O
+via	O
+de	O
+kabeldistributiemaatschappijen	O
+,	O
+waardoor	O
+hij	O
+geen	O
+etherfrequentie	O
+kan	O
+krijgen	O
+.	O
+
+Sinds	O
+maart	O
+2006	O
+is	O
+VTM	B-org
+ook	O
+op	O
+satelliet	O
+te	O
+bekijken	O
+.	O
+
+Het	O
+signaal	O
+van	O
+o.a.	O
+VTM	B-org
+,	O
+KanaalTwee	B-org
+en	O
+Jim	B-org
+zit	O
+in	O
+het	O
+pakket	O
+van	O
+TV	B-org
+Vlaanderen	I-org
+.	O
+
+Geschiedenis	O
+
+Het	O
+kabeldecreet	O
+is	O
+er	O
+gekomen	O
+door	O
+de	O
+volgehouden	O
+inspanning	O
+van	O
+Patrick	B-per
+Dewael	I-per
+,	O
+toenmalig	O
+Gemeenschapsminister	B-misc
+voor	O
+Cultuur	B-misc
+in	O
+de	O
+Vlaamse	B-org
+Executieve	I-org
+,	O
+die	O
+het	O
+vooral	O
+heel	O
+groots	O
+zag	O
+op	O
+gebied	O
+van	O
+cultuur	O
+.	O
+
+VTM	B-org
+kon	O
+er	O
+komen	O
+doordat	O
+televisiereclame	O
+mogelijk	O
+was	O
+,	O
+zowel	O
+voor	O
+de	O
+'	O
+landelijke	O
+'	O
+commerciële	O
+televisie	O
+als	O
+voor	O
+de	O
+regionale	O
+televisiestations	O
+.	O
+
+In	O
+het	O
+begin	O
+was	O
+het	O
+aandeelhouderschap	O
+verdeeld	O
+onder	O
+de	O
+schrijvende	O
+pers	O
+,	O
+en	O
+dan	O
+vooral	O
+de	O
+dagbladpers	O
+.	O
+
+Momenteel	O
+zijn	O
+slechts	O
+twee	O
+bedrijven	O
+eigenaar	O
+van	O
+de	O
+Vlaamse	B-org
+Media	I-org
+Maatschappij	I-org
+,	O
+namelijk	O
+De	B-org
+Persgroep	I-org
+(	O
+Het	B-pro
+Laatste	I-pro
+Nieuws	I-pro
+,	O
+De	B-pro
+Morgen	I-pro
+,	O
+Het	B-pro
+Parool	I-pro
+,	O
+...	O
+)	O
+en	O
+Roularta	B-org
+(	O
+Knack	B-pro
+,	O
+Trends	B-pro
+,	O
+Le	B-pro
+Vif	I-pro
+,	O
+...	O
+)	O
+.	O
+
+Hoewel	O
+er	O
+een	O
+aantal	O
+voorwaarden	O
+aan	O
+de	O
+licentie	O
+verbonden	O
+waren	O
+(	O
+mede	O
+om	O
+het	O
+reclamemonopolie	O
+te	O
+kunnen	O
+verdedigen	O
+,	O
+dat	O
+nodig	O
+geacht	O
+werd	O
+omdat	O
+de	O
+markt	O
+te	O
+klein	O
+zou	O
+zijn	O
+)	O
+wordt	O
+VTM	B-org
+veelal	O
+verweten	O
+aan	O
+de	O
+basis	O
+van	O
+de	O
+'	O
+verkleutering	O
+'	O
+van	O
+de	O
+bevolking	O
+te	O
+liggen	O
+.	O
+
+Er	O
+wordt	O
+dan	O
+verwezen	O
+naar	O
+programma's	O
+als	O
+Rad	B-pro
+van	I-pro
+Fortuin	I-pro
+,	O
+Wedden	B-pro
+Dat	I-pro
+,	O
+Walters	B-pro
+Verjaardagshow	I-pro
+,	O
+enzovoort	O
+.	O
+
+Satirische	O
+programma's	O
+van	O
+de	O
+openbare	O
+omroep	O
+laten	O
+ook	O
+geen	O
+kans	O
+onbenut	O
+om	O
+aan	O
+te	O
+tonen	O
+dat	O
+het	O
+VTM	B-org
+nieuws	O
+op	O
+sensatie	O
+belust	O
+is	O
+.	O
+
+Op	O
+het	O
+eind	O
+van	O
+de	O
+jaren	O
+'90	O
+is	O
+het	O
+marktaandeel	O
+van	O
+VTM	B-org
+flink	O
+gedaald	O
+,	O
+van	O
+35	O
+%	O
+tot	O
+20	O
+à	O
+25	O
+%	O
+,	O
+vooral	O
+door	O
+een	O
+vernieuwingsoperatie	O
+bij	O
+VRT	B-org
+TV1	I-org
+(	O
+nu	O
+één	O
+)	O
+.	O
+
+In	O
+augustus	O
+2003	O
+werden	O
+Jan	B-per
+Verheyen	I-per
+en	O
+Bert	B-per
+Geenen	I-per
+aangesteld	O
+als	O
+programmadirecteurs	O
+.	O
+
+Zij	O
+moesten	O
+ervoor	O
+zorgen	O
+dat	O
+het	O
+besmeurde	O
+imago	O
+van	O
+VTM	B-org
+veranderde	O
+naar	O
+een	O
+fris	O
+,	O
+modern	O
+imago	O
+.	O
+
+Daarom	O
+werd	O
+besloten	O
+om	O
+de	O
+huisstijl	O
+van	O
+VTM	B-org
+te	O
+veranderen	O
+(	O
+het	O
+logo	O
+van	O
+VTM	B-org
+met	O
+de	O
+3	O
+verticale	O
+strepen	O
+werd	O
+vervangen	O
+door	O
+een	O
+witte	O
+VTM	B-org
+met	O
+een	O
+kleurenachtergrond	O
+)	O
+.	O
+
+In	O
+januari	O
+2005	O
+nam	O
+Jan	B-per
+Verheyen	I-per
+weer	O
+ontslag	O
+als	O
+programmadirecteur	O
+,	O
+naar	O
+eigen	O
+zeggen	O
+«	O
+omdat	O
+zijn	O
+taak	O
+volbracht	O
+was	O
+»	O
+.	O
+
+In	O
+juni	O
+2005	O
+werd	O
+Jan	B-per
+Segers	I-per
+aangesteld	O
+als	O
+algemeen	O
+directeur	O
+programmatie	O
+,	O
+van	O
+heel	O
+de	O
+VMMa	B-org
+.	O
+
+Dat	O
+was	O
+toen	O
+een	O
+nieuwe	O
+functie	O
+.	O
+
+Hij	O
+was	O
+tot	O
+dan	O
+creatief	O
+directeur	O
+van	O
+het	O
+productiehuis	O
+Eyeworks	B-org
+,	O
+de	O
+huisleverancier	O
+van	O
+VTM	B-org
+.	O
+
+Bert	B-per
+Geenen	I-per
+bleef	O
+antennemanager	O
+voor	O
+VTM	B-org
+.	O
+
+Jan	B-per
+Segers	I-per
+heeft	O
+de	O
+eindverantwoordelijkheid	O
+over	O
+alle	O
+tv-programma's	O
+,	O
+met	O
+uitzondering	O
+van	O
+de	O
+informatieprogramma's	O
+die	O
+onder	O
+de	O
+bevoegdheid	O
+van	O
+Eric	B-per
+Goens	I-per
+,	O
+de	O
+directeur	O
+Informatie	O
+,	O
+vallen	O
+.	O
+
+In	O
+augustus	O
+2006	O
+stapt	O
+Bert	B-per
+Geenen	I-per
+op	O
+om	O
+programmadirecteur	O
+te	O
+worden	O
+van	O
+Talpa	B-org
+Service	I-org
+III	I-org
+,	O
+de	O
+holdingmaatschappij	O
+van	O
+onder	O
+meer	O
+4FM	B-org
+.	O
+
+In	O
+2006	O
+start	O
+VTM	B-org
+met	O
+een	O
+proefproject	O
+rond	O
+digitale	O
+televisie	O
+.	O
+
+De	O
+tijdelijke	O
+televisiezender	O
+VTMzomer	B-org
+zendt	O
+van	O
+20	O
+juni	O
+tot	O
+22	O
+september	O
+uit	O
+op	O
+Belgacom	B-org
+TV	I-org
+.	O
+
+Verder	O
+heeft	O
+VTM	B-org
+digitale	O
+plannen	O
+rond	O
+een	O
+volwaardige	O
+nieuwszender	O
+,	O
+gepland	O
+voor	O
+het	O
+voorjaar	O
+van	O
+2007	O
+.	O
+
+De	O
+werktitel	O
+van	O
+deze	O
+nieuwszender	O
+is	O
+"	O
+24/7	O
+"	O
+.	O
+
+Programmatie	O
+VTM	B-org
+najaar	O
+2006	O
+
+Dit	O
+najaar	O
+keren	O
+een	O
+heleboel	O
+programma's	O
+terug	O
+met	O
+een	O
+nieuw	O
+seizoen	O
+.	O
+
+Ook	O
+zullen	O
+er	O
+een	O
+heleboel	O
+nieuwe	O
+programma's	O
+worden	O
+uitgezonden	O
+.	O
+
+Er	O
+zal	O
+alleszins	O
+gestreefd	O
+worden	O
+naar	O
+zo	O
+weinig	O
+mogelijk	O
+herhalingen	O
+.	O
+
+Onder	O
+andere	O
+deze	O
+programma's	O
+krijg	O
+je	O
+te	O
+zien	O
+in	O
+het	O
+najaar	O
+2006	O
+:	O
+
+Actualiteiten	O
+
+Het	B-pro
+Nieuws	I-pro
+
+Het	B-pro
+Weer	I-pro
+
+Telefacts	B-pro
+
+Splash	B-pro
+
+Royalty	B-pro
+
+Autowereld.tv	B-pro
+
+Soaps	O
+
+Familie	B-pro
+,	O
+seizoen	O
+16	O
+
+Wittekerke	B-pro
+,	O
+seizoen	O
+14	O
+
+Drama	O
+
+Aspe	B-pro
+,	O
+reeks	O
+2	O
+
+Zone	B-pro
+Stad	I-pro
+,	O
+reeks	O
+3	O
+
+Spoed	B-pro
+,	O
+reeks	O
+10	O
+
+De	B-pro
+Kavijaks	I-pro
+
+Koning	B-pro
+van	I-pro
+de	I-pro
+wereld	I-pro
+
+Sara	B-per
+
+Gooische	B-pro
+Vrouwen	I-pro
+
+House	B-per
+M.D.	I-per
+
+McLeod's	B-pro
+Daughters	I-pro
+
+Matroesjka's	B-pro
+,	O
+herhaling	O
+reeks	O
+1	O
+
+Comedy	O
+
+Lili	B-per
+en	I-per
+Marleen	I-per
+,	O
+reeks	O
+8	O
+
+Verschoten	B-pro
+&	I-pro
+Zoon	I-pro
+,	O
+reeks	O
+8	O
+
+De	B-pro
+kotmadam	I-pro
+,	O
+reeks	O
+16	O
+
+101	B-pro
+Vragen	I-pro
+aan	I-pro
+VTM	I-pro
+
+Sketch	B-pro
+Up	I-pro
+
+Are	B-pro
+you	I-pro
+being	I-pro
+served	I-pro
+?	I-pro
+
+Reality	O
+
+Wie	B-pro
+wordt	I-pro
+de	I-pro
+man	I-pro
+van	I-pro
+Wendy	I-pro
+?	I-pro
+
+Expeditie	B-pro
+Robinson	I-pro
+
+Allez	B-pro
+Allez	I-pro
+Zimbabwe	I-pro
+,	O
+reeks	O
+3	O
+
+SOS	B-pro
+Piet	I-pro
+
+De	B-pro
+Perfecte	I-pro
+Keuken	I-pro
+
+Huis	B-pro
+en	I-pro
+Thuis	I-pro
+
+Groene	B-pro
+Vingers	I-pro
+
+Schoon	B-pro
+en	I-pro
+Meedogenloos	I-pro
+
+Supernanny	B-pro
+
+Toast	B-pro
+Kannibaal	I-pro
+,	O
+reeks	O
+2	O
+
+Hou	B-pro
+van	I-pro
+Ons	I-pro
+
+EHLB	B-pro
+
+De	B-pro
+Pfaffs	I-pro
+,	O
+reeks	O
+5	O
+
+De	B-pro
+Planckaerts	I-pro
+,	O
+reeks	O
+4	O
+
+Mevrouw	B-pro
+Dekeyser	I-pro
+
+Beauty	B-pro
+&	I-pro
+de	I-pro
+Nerd	I-pro
+
+De	B-pro
+Nieuwe	I-pro
+Mama	I-pro
+
+Schildestrand	B-pro
+
+Spel	O
+,	O
+show	O
+en	O
+amusement	O
+
+1&70	O
+
+Sterren	B-pro
+op	I-pro
+de	I-pro
+dansvloer	I-pro
+
+Idool	B-pro
+2007	I-pro
+
+Just	B-pro
+The	I-pro
+Two	I-pro
+Of	I-pro
+Us	I-pro
+
+Dancing	B-pro
+on	I-pro
+Ice	I-pro
+
+Puzzeltijd	B-pro
+
+Zie	O
+ook	O
+
+Lijst	O
+van	O
+programma's	O
+van	O
+VMMa	B-org
+
+Externe	O
+links	O
+
+Officiële	O
+website	O
+
+VMMa	B-org
+
+VMMtv	B-org
+
+Studio's	B-org
+Amusement	I-org
+VMMa	B-org
+

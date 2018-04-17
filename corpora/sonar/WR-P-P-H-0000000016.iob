@@ -1,0 +1,53 @@
+TORONTO	B-loc
+-	O
+
+Het	O
+Nederlands	B-loc
+cricketteam	O
+heeft	O
+de	O
+openingswedstrijd	O
+in	O
+de	O
+ICC	B-eve
+Trophy	I-eve
+,	O
+het	O
+WK	B-eve
+voor	O
+B-landen	B-misc
+,	O
+winnend	O
+afgesloten	O
+.	O
+
+De	O
+Verenigde	B-loc
+Arabische	I-loc
+Emiraten	I-loc
+werden	O
+met	O
+90	O
+runs	O
+verschil	O
+verslagen	O
+.	O
+
+De	O
+tegenstander	O
+had	O
+halverwege	O
+nog	O
+de	O
+beste	O
+papieren	O
+en	O
+gooide	O
+Nederland	B-loc
+uit	O
+voor	O
+slechts	O
+144	O
+runs	O
+.	O
+

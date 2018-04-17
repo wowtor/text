@@ -1,0 +1,8456 @@
+Spring	O
+naar	O
+de	O
+inhoud	O
+
+Nederlands	B-loc
+
+/	O
+
+English	B-loc
+
+Reizen	O
+
+en	O
+landen	O
+
+Buitenlands	O
+
+beleid	O
+
+Ontwikkelings	O
+-	O
+samenwerking	O
+
+Europese	B-loc
+samenwerking	O
+
+Landen	O
+
+Reisadviezen	O
+
+Nederlanders	B-loc
+in	O
+het	O
+buitenland	O
+
+Welkom	O
+in	O
+Nederland	B-loc
+
+Wijs	O
+op	O
+Reis	O
+
+Consulaire	O
+tarieven	O
+
+Links	O
+
+actueel	O
+
+organisatie	O
+
+ambassades	O
+
+vacatures	O
+
+zoeken	O
+
+home	O
+
+contact	O
+
+service	O
+
+over	O
+deze	O
+site	O
+
+Landen	O
+/	O
+Landenoverzichten	O
+/	O
+Europa	B-loc
+/	O
+Duitsland	B-loc
+
+Duitsland	B-loc
+
+Laatst	O
+bijgewerkt	O
+juli	O
+2005	O
+
+1	O
+Inleidende	O
+gegevens	O
+
+2	O
+Feitelijke	O
+en	O
+cijfermatige	O
+gegevens	O
+
+2.1	O
+Algemene	O
+gegevens	O
+
+2.2	O
+Staatkundige	O
+gegevens	O
+
+2.3	O
+Demografische	O
+gegevens	O
+
+2.4	O
+Economische	O
+gegevens	O
+
+2.5	O
+Ontwikkelingsrelevante	O
+indicatoren	O
+
+2.6	O
+Betrekkingen	O
+met	O
+Nederland	B-loc
+
+2.7	O
+Handelsbetrekkingen	O
+met	O
+Nederland	B-loc
+
+3	O
+Beschrijvende	O
+kenschets	O
+
+3.1	O
+Geschiedenis	O
+
+3.2	O
+Staatsinrichting	O
+
+3.3	O
+Mensenrechten	O
+
+3.4	O
+Sociale	O
+situatie	O
+
+3.5	O
+Economische	O
+situatie	O
+
+3.6	O
+Milieubeleid	O
+
+3.7	O
+Buitenlands	O
+beleid	O
+en	O
+veiligheidsbeleid	O
+
+4	O
+Nederlandse	O
+betrekkingen/beleid	O
+
+4.1	O
+Betrekkingen	O
+met	O
+Nederland	B-loc
+
+4.2	O
+Bezoeken	O
+
+4.3	O
+OS-activiteiten	B-misc
+
+4.4	O
+Activiteiten	O
+Nederlandse	B-loc
+ambassade	O
+en	O
+consulaten-generaal	O
+
+4.5	O
+EVD	B-org
+activiteiten	O
+
+4.6	O
+Verdragen	O
+met	O
+Nederland	B-loc
+
+4.7	O
+Kamervragen	O
+(	O
+vanaf	O
+juni	O
+2002	O
+)	O
+
+1	O
+Inleidende	O
+gegevens	O
+
+Naam	O
+land	O
+
+Bondsrepubliek	B-loc
+Duitsland	I-loc
+
+Naam	O
+landenmedewerker	O
+
+Erika	B-per
+Dieterman	I-per
+
+Afdeling	O
+
+DWM/WE	B-misc
+
+Datum	O
+
+juli	O
+2005	O
+
+Standaardbronnen	O
+
+Als	O
+bronnen	O
+voor	O
+het	O
+landenoverzicht	O
+wordt	O
+zoveel	O
+mogelijk	O
+van	O
+de	O
+beschikbare	O
+interne	O
+gegevens	O
+van	O
+het	O
+Ministerie	B-org
+van	I-org
+Buitenlandse	I-org
+Zaken	I-org
+gebruik	O
+gemaakt	O
+.	O
+
+Daarnaast	O
+zijn	O
+de	O
+(	O
+meest	O
+recente	O
+edities/cijfers	O
+van	O
+de	O
+)	O
+volgende	O
+bronnen	O
+gebruikt	O
+:	O
+
+·	O
+Algemene	O
+gegevens	O
+,	O
+Regional	B-pro
+Surveys	I-pro
+of	I-pro
+the	I-pro
+World	I-pro
+,	O
+Europe	B-org
+Publicaties	I-org
+
+·	O
+Demografische	O
+gegevens	O
+,	O
+Human	B-pro
+Development	I-pro
+Report	I-pro
+
+·	O
+Economische	O
+gegevens	O
+,	O
+Economic	B-org
+Intelligence	I-org
+Unit	I-org
+
+·	O
+Ontwikkelingsrelevante	O
+factoren	O
+,	O
+Human	B-pro
+Development	I-pro
+Report	I-pro
+,	O
+UNDP	B-org
+
+·	O
+Handelsbetrekkingen	O
+met	O
+Nederland	O
+,	O
+CBS	B-org
+
+·	O
+Investeringscijfers	O
+,	O
+Nederlandsche	B-org
+Bank	I-org
+
+Aanvullende	O
+bronnen	O
+
+-	O
+Jahreswirtschaftsbericht	B-pro
+der	I-pro
+Bundesregierung	I-pro
+2004	I-pro
+(	O
+http://www.bundesfinanzministerium.de	O
+/	O
+)	O
+
+-	O
+Bundesanstalt	B-org
+für	I-org
+Arbeit	I-org
+(	O
+http://www.arbeitsamt.de	O
+/	O
+)	O
+
+-	O
+Statistisches	B-org
+Bundesamt	I-org
+
+(	O
+http://www.destatis.de	O
+/	O
+)	O
+
+-	O
+EVD	B-org
+(	O
+http://www.evd.nl	O
+/	O
+)	O
+
+-	O
+http://www.duitslandweb.nl	O
+/	O
+
+2	O
+Feitelijke	O
+en	O
+cijfermatige	O
+gegevens	O
+
+2.1	O
+Algemene	O
+gegevens	O
+
+Oppervlakte	O
+
+356,970	O
+km2	O
+(	O
+10,5	O
+maal	O
+Nederland	O
+)	O
+
+Hoofdstad	O
+
+Berlijn	B-loc
+
+Inwonertal	O
+
+82,6	O
+miljoen	O
+(	O
+2003	O
+)	O
+
+Bevolkingsdichtheid	O
+
+232	O
+inwoners	O
+per	O
+km2	O
+(	O
+2003	O
+)	O
+
+Godsdienst	O
+
+34	O
+%	O
+Protestant	B-misc
+,	O
+34	O
+%	O
+Rooms-Katholiek	B-misc
+,	O
+3,7	O
+%	O
+Moslim	B-misc
+(	O
+2003	O
+)	O
+
+Taal	O
+
+Duits	B-pro
+
+Nationale	O
+feestdag(en)	O
+
+3	O
+oktober	O
+(	O
+Dag	B-eve
+van	I-eve
+de	I-eve
+Duitse	I-eve
+eenheid	I-eve
+)	O
+
+Klimatologische	O
+gesteldheid	O
+
+Gematigd	O
+
+2.2	O
+Staatkundige	O
+gegevens	O
+
+Staatshoofd	O
+
+Bondspresident	O
+Horst	B-per
+Köhler	I-per
+,	O
+CDU	B-org
+(	O
+sinds	O
+mei	O
+2004	O
+)	O
+
+Premier	O
+
+Bondskanselier	O
+Gerhard	B-per
+Schröder	I-per
+,	O
+SPD	B-org
+(	O
+sinds	O
+oktober	O
+1998	O
+)	O
+
+Minister	O
+van	O
+Buitenlandse	O
+Zaken	O
+
+Joseph	B-per
+(	I-per
+Joschka	I-per
+)	I-per
+Fischer	I-per
+,	O
+Bündnis	B-org
+90/die	I-org
+Grünen	I-org
+(	O
+sinds	O
+oktober	O
+1998	O
+)	O
+
+Minister	O
+van	O
+Economische	O
+Zaken	O
+en	O
+Werkgelegenheid	O
+
+Wolfgang	B-per
+Clement	I-per
+,	O
+SPD	B-org
+(	O
+sinds	O
+oktober	O
+2002	O
+)	O
+
+Staatsvorm	O
+
+Parlementaire	O
+democratie	O
+
+Parlement	O
+
+Bondsdag	B-org
+met	O
+603	O
+zetels	O
+,	O
+waarvan	O
+de	O
+helft	O
+direct	O
+gekozen	O
+per	O
+kiesdistrict	O
+;	O
+de	O
+andere	O
+helft	O
+gekozen	O
+door	O
+middel	O
+van	O
+partijlijsten	O
+per	O
+deelstaat	O
+om	O
+evenredige	O
+vertegenwoordiging	O
+te	O
+bewerkstelligen	O
+.	O
+
+Bondsraad	B-org
+bestaande	O
+uit	O
+leden	O
+van	O
+de	O
+16	O
+deelstaatregeringen	O
+
+2.3	O
+Demografische	O
+gegevens	O
+
+Bevolkingsgroei	O
+incl.	O
+Migratie	O
+
+0,2	O
+%	O
+(	O
+2003	O
+)	O
+
+Geboorten	O
+(	O
+per	O
+1000	O
+inwoners	O
+)	O
+
+8,6	O
+per	O
+1000	O
+inwoners	O
+(	O
+schatting	O
+2003	O
+)	O
+
+Overlijdens	O
+(	O
+per	O
+1000	O
+inwoners	O
+)	O
+
+10,34	O
+per	O
+1000	O
+inwoners	O
+(	O
+schatting	O
+2003	O
+)	O
+
+Levensverwachting	O
+
+78,42	O
+(	O
+schatting	O
+2003	O
+)	O
+
+2.4	O
+Economische	O
+gegevens	O
+
+BBP	B-misc
+
+Euro	O
+2118	O
+miljard	O
+(	O
+2003	O
+)	O
+
+Economische	O
+groei	O
+
+-	O
+0,1	O
+%	O
+(	O
+2003	O
+)	O
+,	O
+0,2	O
+%	O
+(	O
+2002	O
+)	O
+,	O
+3,1	O
+%	O
+(	O
+2000	O
+)	O
+
+BBP	B-misc
+per	O
+capita	O
+
+Euro	O
+25.800	O
+(	O
+2003	O
+)	O
+
+Inflatie	O
+
+1,3	O
+%	O
+(	O
+2002	O
+)	O
+
+Beroepsbevolking	O
+per	O
+sector	O
+
+Landbouw	O
+,	O
+bosbouw	O
+ed.	O
+2,5	O
+%	O
+,	O
+Industrie	O
+27,9	O
+%	O
+,	O
+diensten	O
+69,7	O
+%	O
+(	O
+2002	O
+)	O
+
+Werkloosheid	O
+
+9,8	O
+%	O
+(	O
+2002	O
+)	O
+(	O
+West-Duitsland	B-loc
+:	O
+7,6	O
+%	O
+,	O
+Oost-Duitsland	B-loc
+:	O
+17,7	O
+%	O
+)	O
+
+Uitvoer	O
+
+Euro	O
+661,6	O
+miljard	O
+(	O
+2003	O
+,	O
+schatting	O
+)	O
+
+-	O
+belangrijke	O
+producten	O
+
+Machines	O
+,	O
+wegvervoermiddelen	O
+,	O
+chemische	O
+producten	O
+,	O
+metalen	O
+en	O
+fabrikaten	O
+,	O
+hoogwaardige	O
+apparatuur	O
+
+-	O
+belangrijkste	O
+partners	O
+
+Frankrijk	B-loc
+,	O
+Verenigde	B-loc
+Staten	I-loc
+,	O
+Verenigd	B-loc
+Koninkrijk	I-loc
+,	O
+Italië	B-loc
+,	O
+Nederland	B-loc
+(	O
+2003	O
+)	O
+
+Invoer	O
+
+Euro	O
+531,9	O
+miljard	O
+(	O
+2003	O
+,	O
+schatting	O
+)	O
+
+-	O
+belangrijke	O
+producten	O
+
+Machines	O
+,	O
+chemische	O
+producten	O
+,	O
+brandstoffen	O
+,	O
+wegvervoermiddelen	O
+
+-	O
+belangrijkste	O
+partners	O
+
+Frankrijk	B-loc
+,	O
+Verenigde	B-loc
+Staten	I-loc
+,	O
+Nederland	B-loc
+,	O
+Italië	B-loc
+,	O
+Verenigd	B-loc
+Koninkrijk	I-loc
+(	O
+2003	O
+)	O
+
+Valuta	O
+
+Euro	O
+¤	O
+
+Buitenlandse	O
+schuld	O
+
+Niet	O
+van	O
+toepassing	O
+
+Debt-service	O
+ratio	O
+
+Niet	O
+van	O
+toepassing	O
+
+Saldo	O
+handelsbalans	O
+
+Euro	O
+129,7	O
+miljard	O
+(	O
+overschot	O
+,	O
+2003	O
+)	O
+
+Lopende	O
+rekening	O
+betalingsbalans	O
+
+Euro	O
+64,6	O
+miljard	O
+(	O
+overschot	O
+,	O
+2003	O
+)	O
+
+2.5	O
+Ontwikkelingsrelevante	O
+indicatoren	O
+
+Groeisectoren	O
+
+Biotechnologie	O
+,	O
+ICT	B-misc
+,	O
+media	O
+,	O
+milieutechniek	O
+,	O
+dienstverlening	O
+
+Energiesituatie	O
+
+Niet	O
+van	O
+toepassing	O
+
+Human	O
+development	O
+index	O
+
+0,921	O
+;	O
+18de	O
+plaats	O
+(	O
+2001	O
+)	O
+
+Human	O
+poverty	O
+index	O
+
+Niet	O
+van	O
+toepassing	O
+
+Gender-related	O
+development	O
+index	O
+
+0,924	O
+;	O
+15de	O
+plaats	O
+(	O
+2001	O
+)	O
+
+%	O
+inwoners	O
+dat	O
+leeftijd	O
+van	O
+40	O
+niet	O
+haalt	O
+
+Niet	O
+van	O
+toepassing	O
+
+Alfabetisering	O
+
+Niet	O
+van	O
+toepassing	O
+
+%	O
+mensen	O
+met	O
+toegang	O
+tot	O
+veilig	O
+drinkwater	O
+
+Niet	O
+van	O
+toepassing	O
+
+%	O
+mensen	O
+met	O
+toegang	O
+tot	O
+gezondheidszorg	O
+
+Niet	O
+van	O
+toepassing	O
+
+%	O
+kinderen	O
+tot	O
+5	O
+jaar	O
+met	O
+ondergewicht	O
+
+Niet	O
+van	O
+toepassing	O
+
+2.6	O
+Betrekkingen	O
+met	O
+Nederland	B-loc
+
+Nederlandse	B-loc
+Ambassadeur	O
+in	O
+Duitsland	B-loc
+
+Drs.	O
+P.P.	B-per
+van	I-per
+Wulfften	I-per
+Palthe	I-per
+(	O
+per	O
+augustus	O
+2005	O
+)	O
+
+Duitse	B-loc
+Ambassadeur	O
+in	O
+Nederland	B-loc
+
+Dr.	O
+E.E.	B-per
+Duckwitz	I-per
+(	O
+sinds	O
+augustus	O
+2001	O
+)	O
+
+Vertegenwoordigingen	O
+in	O
+Duitsland	B-loc
+
+Ambassade	O
+te	O
+Berlijn	B-loc
+,	O
+Consulaat-Generaal	B-loc
+te	O
+Düsseldorf	B-loc
+,	O
+Consulaat-Generaal	B-loc
+te	O
+Frankfurt	B-loc
+am	I-loc
+Main	I-loc
+,	O
+Consulaat-Generaal	B-loc
+te	O
+Hamburg	B-loc
+,	O
+Consulaat-Generaal	B-loc
+te	O
+München	B-loc
+
+Nederlandse	B-loc
+gemeenschap	O
+in	O
+Duitsland	B-loc
+
+Ongeveer	O
+100.000	O
+
+Duitse	B-loc
+gemeenschap	O
+in	O
+Nederland	B-loc
+
+Ongeveer	O
+50.000	O
+
+2.7	O
+Handelsbetrekkingen	O
+met	O
+Nederland	B-loc
+(	O
+zie	O
+voor	O
+meer	O
+details	O
+verderop	O
+onder	O
+EVD	B-org
+)	O
+
+Nederlandse	B-loc
+uitvoer	O
+
+Euro	O
+56,6	O
+miljard	O
+(	O
+2003	O
+)	O
+
+-	O
+belangrijke	O
+producten	O
+
+Vlees	O
+,	O
+bloemen	O
+,	O
+groenten	O
+en	O
+fruit	O
+,	O
+zuivelproducten	O
+en	O
+eieren	O
+,	O
+minerale	O
+brandstoffen	O
+,	O
+chemische	O
+producten	O
+,	O
+gegevensverwerkende	O
+machines	O
+,	O
+elektrische	O
+apparaten	O
+
+Nederlandse	B-loc
+invoer	O
+
+Euro	O
+40,8	O
+miljard	O
+(	O
+2003	O
+)	O
+
+-	O
+belangrijke	O
+producten	O
+
+Elektrische	O
+apparaten	O
+,	O
+voertuigen	O
+voor	O
+wegvervoer	O
+,	O
+automobielen	O
+voor	O
+personenvervoer	O
+,	O
+ijzer	O
+en	O
+staal	O
+
+Investeringen	O
+vanuit	O
+Nederland	B-loc
+
+Euro	O
+16,5	O
+miljard	O
+(	O
+2002	O
+)	O
+
+Investeringen	O
+in	O
+Nederland	B-loc
+
+Euro	O
+47,1	O
+miljard	O
+(	O
+2002	O
+)	O
+
+3	O
+Beschrijvende	O
+kenschets	O
+
+3.1	O
+Geschiedenis	O
+
+De	O
+Duitse	B-loc
+politieke	O
+geschiedenis	O
+wordt	O
+gekenmerkt	O
+door	O
+het	O
+feit	O
+dat	O
+de	O
+politieke	O
+macht	O
+in	O
+Duitsland	B-loc
+zelden	O
+geconcentreerd	O
+is	O
+geweest	O
+.	O
+
+In	O
+de	O
+Middeleeuwen	B-misc
+vormde	O
+Duitsland	B-loc
+de	O
+kern	O
+van	O
+het	O
+Heilige	B-loc
+Roomse	I-loc
+Keizerrijk	I-loc
+.	O
+
+De	O
+koningen	O
+van	O
+de	O
+verschillende	O
+vorstendommen	O
+binnen	O
+dit	O
+rijk	O
+kozen	O
+uit	O
+hun	O
+midden	O
+de	O
+keizer	O
+,	O
+die	O
+de	O
+eerste	O
+onder	O
+de	O
+gelijken	O
+was	O
+en	O
+vaak	O
+een	O
+zwakke	O
+positie	O
+innam	O
+als	O
+slechts	O
+één	O
+van	O
+de	O
+autonome	O
+vorsten	O
+.	O
+
+In	O
+de	O
+loop	O
+van	O
+de	O
+zestiende	O
+eeuw	O
+werd	O
+deze	O
+situatie	O
+bestendigd	O
+.	O
+
+Daardoor	O
+vond	O
+in	O
+Duitsland	B-loc
+niet	O
+de	O
+staatsvorming	O
+plaats	O
+die	O
+in	O
+Frankrijk	B-loc
+,	O
+Engeland	B-loc
+of	O
+de	O
+Nederlanden	B-loc
+wel	O
+zijn	O
+beslag	O
+kreeg	O
+.	O
+
+Met	O
+de	O
+opkomst	O
+van	O
+Pruisen	B-loc
+in	O
+de	O
+achttiende	O
+eeuw	O
+,	O
+de	O
+hervormingen	O
+in	O
+de	O
+Napoleontische	B-misc
+tijd	O
+en	O
+het	O
+streven	O
+naar	O
+een	O
+nauwere	O
+economische	O
+samenwerking	O
+vanaf	O
+het	O
+begin	O
+van	O
+de	O
+negentiende	O
+eeuw	O
+groeide	O
+het	O
+streven	O
+naar	O
+nationale	O
+politieke	O
+eenheid	O
+.	O
+
+Onder	O
+leiding	O
+van	O
+Bismarck	B-per
+werd	O
+in	O
+1871	O
+de	O
+Duitse	B-loc
+nationale	O
+eenheid	O
+gerealiseerd	O
+,	O
+waarbij	O
+de	O
+Pruisische	B-loc
+koning	O
+de	O
+keizertitel	O
+kreeg	O
+.	O
+
+De	O
+politieke	O
+en	O
+economische	O
+ontwikkeling	O
+van	O
+Duitsland	B-loc
+nam	O
+een	O
+hoge	O
+vlucht	O
+.	O
+
+In	O
+1914	O
+was	O
+Duitsland	B-loc
+in	O
+vele	O
+opzichten	O
+een	O
+grootmacht	O
+geworden	O
+,	O
+zij	O
+het	O
+met	O
+een	O
+beperkt	O
+democratisch	O
+gehalte	O
+.	O
+
+Het	O
+verlies	O
+van	O
+de	O
+Eerste	B-eve
+Wereldoorlog	I-eve
+en	O
+het	O
+voor	O
+Duitsland	B-loc
+zeer	O
+nadelige	O
+Verdrag	O
+van	O
+Versailles	O
+zorgden	O
+er	O
+samen	O
+met	O
+het	O
+tekort	O
+aan	O
+democratische	O
+traditie	O
+en	O
+de	O
+desastreuze	O
+economische	O
+situatie	O
+voor	O
+dat	O
+de	O
+in	O
+1918	O
+ontstane	O
+republiek	O
+van	O
+Weimar	B-per
+nooit	O
+echt	O
+heeft	O
+kunnen	O
+stabiliseren	O
+.	O
+
+Zo	O
+was	O
+er	O
+was	O
+een	O
+voedingsbodem	O
+voor	O
+de	O
+opkomst	O
+van	O
+het	O
+communisme	O
+en	O
+het	O
+nationaal-socialisme	O
+,	O
+waarbij	O
+de	O
+laatste	O
+stroming	O
+de	O
+sterkste	O
+bleek	O
+.	O
+
+In	O
+1933	O
+kreeg	O
+Hitler	B-per
+de	O
+macht	O
+toegespeeld	O
+en	O
+onder	O
+zijn	O
+leiding	O
+verviel	O
+het	O
+land	O
+snel	O
+tot	O
+een	O
+dictatuur	O
+.	O
+
+Zijn	O
+agressieve	O
+en	O
+extreme	O
+rassenpolitiek	O
+leidde	O
+tot	O
+miljoenen	O
+slachtoffers	O
+.	O
+
+Duitsland	B-loc
+voelde	O
+zich	O
+niet	O
+meer	O
+gebonden	O
+aan	O
+de	O
+bepalingen	O
+van	O
+het	O
+Verdrag	O
+van	O
+Versailles	O
+en	O
+voerde	O
+een	O
+op	O
+expansie	O
+gerichte	O
+buitenlandse	O
+politiek	O
+.	O
+
+In	O
+1939	O
+begon	O
+Duitsland	B-loc
+met	O
+de	O
+aanval	O
+op	O
+Polen	B-loc
+de	O
+Tweede	B-eve
+Wereldoorlog	I-eve
+die	O
+in	O
+geheel	O
+Europa	B-loc
+tientallen	O
+miljoenen	O
+mensen	O
+het	O
+leven	O
+kostte	O
+.	O
+
+Het	O
+Rijk	B-loc
+bezweek	O
+in	O
+1945	O
+,	O
+en	O
+wat	O
+restte	O
+was	O
+een	O
+in	O
+economisch	O
+,	O
+politiek	O
+en	O
+moreel	O
+opzicht	O
+geruïneerd	O
+Duitsland	B-loc
+.	O
+
+Het	O
+door	O
+de	O
+geallieerde	O
+machten	O
+bezette	O
+Duitsland	B-loc
+werd	O
+in	O
+1949	O
+in	O
+twee	O
+delen	O
+gesplitst	O
+(	O
+BRD	B-loc
+en	O
+DDR	B-loc
+)	O
+en	O
+de	O
+beide	O
+delen	O
+ontwikkelden	O
+zich	O
+onafhankelijk	O
+van	O
+elkaar	O
+.	O
+
+Het	O
+gedeelde	O
+Berlijn	B-loc
+vormde	O
+voor	O
+velen	O
+het	O
+symbool	O
+van	O
+de	O
+Koude	B-eve
+Oorlog	I-eve
+.	O
+
+De	O
+val	O
+van	O
+de	O
+Berlijnse	B-loc
+Muur	I-loc
+in	O
+november	O
+1989	O
+markeerde	O
+dan	O
+ook	O
+het	O
+einde	O
+van	O
+dit	O
+conflict	O
+.	O
+
+Door	O
+de	O
+toetreding	O
+van	O
+de	O
+Oostduitse	B-loc
+deelstaten	O
+tot	O
+de	O
+Bondsrepubliek	B-loc
+Duitsland	I-loc
+werd	O
+Duitsland	B-loc
+in	O
+1990	O
+herenigd	O
+.	O
+
+Zijn	O
+federatieve	O
+structuur	O
+wordt	O
+gekenmerkt	O
+door	O
+een	O
+machtsdeling	O
+tussen	O
+bondsregering	O
+en	O
+deelstaten	O
+,	O
+analoog	O
+aan	O
+de	O
+feitelijke	O
+machtsdeling	O
+tussen	O
+centraal	O
+gezag	O
+en	O
+landsvorsten	O
+die	O
+op	O
+een	O
+korte	O
+uitzondering	O
+na	O
+(	O
+1870	O
+-	O
+1945	O
+)	O
+bij	O
+uitstek	O
+het	O
+kenmerk	O
+is	O
+geweest	O
+van	O
+de	O
+staatsinrichting	O
+in	O
+Duitsland	B-loc
+.	O
+
+Het	O
+politieke	O
+landschap	O
+wordt	O
+in	O
+de	O
+BRD	B-loc
+sinds	O
+1949	O
+gedomineerd	O
+door	O
+twee	O
+grote	O
+volkspartijen	O
+:	O
+de	O
+sociaal-democratische	O
+SPD	B-org
+en	O
+de	O
+christen-democratische	O
+CDU	B-org
+(	O
+die	O
+nauw	O
+verbonden	O
+is	O
+met	O
+haar	O
+Beierse	B-loc
+zusterpartij	O
+CSU	B-org
+)	O
+.	O
+
+Aan	O
+alle	O
+naoorlogse	O
+Bondsregeringen	B-org
+namen	O
+SPD	B-org
+of	O
+CDU/CSU	B-misc
+deel	O
+,	O
+meestal	O
+door	O
+een	O
+coalitie	O
+aan	O
+te	O
+gaan	O
+met	O
+de	O
+liberale	O
+FDP	B-org
+.	O
+
+SPD	B-org
+en	O
+CDU/CSU	B-misc
+hebben	O
+één	O
+keer	O
+samen	O
+een	O
+regering	O
+gevormd	O
+.	O
+
+Bij	O
+de	O
+Bondsdagverkiezingen	B-misc
+van	O
+1990	O
+kwam	O
+de	O
+nieuwe	O
+milieupartij	O
+Bündnis	B-org
+90/die	I-org
+Grünen	I-org
+(	O
+een	O
+fusie	O
+van	O
+de	O
+voormalige	O
+West-Duitse	B-loc
+milieupartij	O
+en	O
+een	O
+burgerrechtenbeweging	O
+uit	O
+de	O
+voormalige	O
+DDR	B-loc
+)	O
+in	O
+de	O
+Bondsdag	B-org
+.	O
+
+De	O
+DDR-staatspartij	B-misc
+SED	B-org
+veranderde	O
+na	O
+de	O
+val	O
+van	O
+de	O
+muur	O
+haar	O
+naam	O
+in	O
+SED-PDS	B-org
+en	O
+later	O
+in	O
+PDS	B-org
+.	O
+
+Terwijl	O
+de	O
+SPD	B-org
+en	O
+de	O
+CDU	B-org
+in	O
+geheel	O
+Duitsland	O
+aanhangers	O
+hebben	O
+,	O
+moet	O
+de	O
+PDS	B-org
+het	O
+voornamelijk	O
+hebben	O
+van	O
+kiezers	O
+woonachtig	O
+in	O
+de	O
+Oost-Duitse	B-loc
+deelstaten	O
+.	O
+
+Het	O
+tegenovergestelde	O
+geldt	O
+voor	O
+Bündnis	B-org
+90/die	I-org
+Grünen	I-org
+en	O
+de	O
+FDP	B-org
+,	O
+die	O
+sterk	O
+afhankelijk	O
+zijn	O
+van	O
+kiezers	O
+in	O
+de	O
+West-Duitse	B-loc
+deelstaten	O
+.	O
+
+Tot	O
+1998	O
+werd	O
+Duitsland	B-loc
+16	O
+jaar	O
+lang	O
+geregeerd	O
+door	O
+een	O
+CDU/FDP-coalitie	B-misc
+onder	O
+leiding	O
+van	O
+Bondskanselier	O
+Kohl	B-per
+(	O
+CDU	B-org
+)	O
+.	O
+
+Bij	O
+de	O
+bondsdagverkiezingen	O
+in	O
+1998	O
+won	O
+de	O
+SPD	B-org
+de	O
+verkiezingen	O
+en	O
+werd	O
+onder	O
+leiding	O
+van	O
+de	O
+nieuwe	O
+bondskanselier	O
+Schröder	B-per
+(	O
+SPD	B-org
+)	O
+een	O
+regeringscoalitie	O
+met	O
+Bündnis	B-org
+90/die	I-org
+Grünen	I-org
+aangegaan	O
+.	O
+
+Na	O
+de	O
+Bondsdag-verkiezingen	B-misc
+van	O
+september	O
+2002	O
+werd	O
+deze	O
+regeringscoalitie	O
+voortgezet	O
+.	O
+
+Op	O
+dit	O
+moment	O
+is	O
+de	O
+SPD	B-org
+niet	O
+populair	O
+in	O
+Duitsland	B-loc
+.	O
+
+Tijdens	O
+de	O
+verkiezingen	O
+voor	O
+het	O
+Europese	B-org
+Parlement	I-org
+op	O
+10	O
+juni	O
+2004	O
+behaalde	O
+de	O
+regeringspartij	O
+slechts	O
+21	O
+zetels	O
+terwijl	O
+de	O
+CDU/CSU	B-misc
+er	O
+46	O
+kreeg	O
+.	O
+
+Een	O
+maand	O
+daarvoor	O
+werd	O
+Horst	B-per
+Köhler	I-per
+,	O
+CDU-kandidaat	B-misc
+,	O
+als	O
+nieuwe	O
+Bondspresident	O
+aangewezen	O
+door	O
+de	O
+Bundesversamlung	B-org
+.	O
+
+3.2	O
+Staatsinrichting	O
+
+In	O
+het	O
+Duitse	B-loc
+federale	O
+stelsel	O
+hebben	O
+de	O
+16	O
+deelstaten	O
+precies	O
+omschreven	O
+bevoegdheden	O
+overgedragen	O
+aan	O
+een	O
+Bond	B-org
+.	O
+
+Deelstaten	O
+kennen	O
+regeringen	O
+en	O
+parlementen	O
+,	O
+evenals	O
+de	O
+Bond	B-org
+zelf	O
+.	O
+
+Op	O
+Bondsniveau	B-misc
+is	O
+de	O
+Bondspresident	O
+het	O
+staatshoofd	O
+,	O
+en	O
+staat	O
+de	O
+Bondskanselier	O
+aan	O
+het	O
+hoofd	O
+van	O
+de	O
+regering	O
+.	O
+
+De	O
+Bondsdag	B-org
+(	O
+het	O
+parlement	O
+)	O
+wordt	O
+via	O
+een	O
+zodanig	O
+kiesstelsel	O
+verkozen	O
+dat	O
+de	O
+regionale	O
+verschillen	O
+en	O
+belangen	O
+er	O
+in	O
+tot	O
+uitdrukking	O
+kunnen	O
+komen	O
+.	O
+
+Dit	O
+geldt	O
+nog	O
+sterker	O
+voor	O
+de	O
+Bondsraad	B-org
+,	O
+een	O
+orgaan	O
+waarin	O
+de	O
+deelstaten	O
+via	O
+een	O
+verdeelsleutel	O
+vertegenwoordigd	O
+zijn	O
+,	O
+en	O
+dat	O
+betrokken	O
+is	O
+bij	O
+alle	O
+wetgeving	O
+waarin	O
+de	O
+bevoegdheden	O
+of	O
+de	O
+belangen	O
+van	O
+de	O
+deelstaten	O
+in	O
+het	O
+geding	O
+zijn	O
+.	O
+
+Ten	O
+gevolge	O
+van	O
+deze	O
+federatieve	O
+structuur	O
+en	O
+het	O
+feit	O
+dat	O
+de	O
+politieke	O
+samenstelling	O
+van	O
+de	O
+Bondsraad	B-org
+niet	O
+altijd	O
+dezelfde	O
+is	O
+als	O
+die	O
+van	O
+de	O
+Bondsregering	B-org
+,	O
+bestaat	O
+in	O
+Duitsland	B-loc
+een	O
+dynamische	O
+politieke	O
+cultuur	O
+,	O
+waarin	O
+een	O
+sterk	O
+besef	O
+bestaat	O
+van	O
+het	O
+feit	O
+dat	O
+bevoegdheden	O
+bij	O
+onderscheiden	O
+bestuurslagen	O
+(	O
+Europese	B-org
+Unie	I-org
+,	O
+Bond	B-org
+,	O
+deelstaten	O
+)	O
+zijn	O
+ondergebracht	O
+.	O
+
+Vandaar	O
+ook	O
+de	O
+in	O
+Duitsland	B-loc
+levende	O
+wens	O
+om	O
+te	O
+streven	O
+naar	O
+een	O
+duidelijke	O
+bevoegdheidsafbakening	O
+,	O
+ook	O
+waar	O
+het	O
+de	O
+verhouding	O
+tussen	O
+de	O
+instellingen	O
+van	O
+de	O
+Europese	B-org
+Unie	I-org
+en	O
+haar	O
+lidstaten	O
+betreft	O
+.	O
+
+Door	O
+de	O
+federale	O
+structuur	O
+van	O
+Duitsland	B-loc
+hebben	O
+de	O
+regeringen	O
+van	O
+de	O
+zestien	O
+deelstaten	O
+bevoegdheden	O
+op	O
+beleidsterreinen	O
+zoals	O
+de	O
+belastinginning	O
+,	O
+onderwijs	O
+,	O
+vreemdelingenbeleid	O
+en	O
+vraagstukken	O
+van	O
+de	O
+openbare	O
+orde	O
+.	O
+
+Bij	O
+de	O
+uitvoering	O
+van	O
+het	O
+regeringsbeleid	O
+is	O
+de	O
+Bondsregering	B-org
+dan	O
+ook	O
+vaak	O
+afhankelijk	O
+van	O
+de	O
+medewerking	O
+(	O
+en	O
+bij	O
+het	O
+wetgevende	O
+proces	O
+soms	O
+de	O
+instemming	O
+van	O
+)	O
+de	O
+deelstaten	O
+.	O
+
+Vaak	O
+heeft	O
+de	O
+oppositie	O
+de	O
+stemmenmeerderheid	O
+in	O
+de	O
+bondsraad	O
+.	O
+
+De	O
+ministers-presidenten	O
+van	O
+de	O
+deelstaten	O
+hebben	O
+dan	O
+ook	O
+een	O
+actieve	O
+stem	O
+in	O
+het	O
+beleid	O
+van	O
+de	O
+Bondsregering	B-org
+in	O
+Berlijn	B-loc
+.	O
+
+In	O
+de	O
+16	O
+deelstaten	O
+zijn	O
+thans	O
+(	O
+juni	O
+2004	O
+)	O
+de	O
+volgende	O
+regeringscoalities	O
+aan	O
+de	O
+macht	O
+:	O
+
+Deelstaat	O
+
+Regering/Oppositie	O
+
+Minister-President	O
+
+Stemmen	O
+Bondsraad	B-org
+
+Baden-Württenberg	B-loc
+
+Beieren	B-loc
+
+Berlijn	B-loc
+
+Brandenburg	B-loc
+
+Bremen	B-loc
+
+Hamburg	B-loc
+
+Hessen	B-loc
+
+Nedersaksen	B-loc
+
+Mecklenburg-Vorp	B-loc
+.	O
+
+Noordrijn-Westfalen	B-loc
+
+Rijnland-Palts	B-loc
+
+Saarland	B-loc
+
+Saksen	B-loc
+
+Saksen-Anhalt	B-loc
+
+CDU	B-org
+,	O
+FDP/SPD	B-misc
+,	O
+Gr	B-org
+
+CSU/SPD	B-misc
+,	O
+Gr	B-org
+
+SPD	B-org
+,	O
+PDS	B-org
+/	O
+GrCDU	B-misc
+,	O
+FDP	B-org
+
+SPD	B-org
+,	O
+CDU/PDS	B-misc
+,	O
+DVU	B-org
+
+SPD	B-org
+,	O
+CDU/Gr	B-misc
+
+CDU	B-org
+,	I-org
+PRO	B-org
+,	O
+FDP/onafh	B-misc
+.	O
+
+CDU	B-org
+,	O
+FDP/SPD	B-misc
+,	O
+Gr	B-org
+
+CDU	B-org
+,	O
+FDP/SDP	B-misc
+,	O
+Gr	B-org
+
+SPD	B-org
+,	O
+PDS/CDU	B-misc
+
+SPD	B-org
+,	O
+Gr/CDU	B-misc
+,	O
+FDP	B-org
+
+SPD	B-org
+,	O
+FDP/CDU	B-misc
+,	O
+Gr	B-org
+
+CDU/SPD	B-misc
+
+CDU/PDS	B-misc
+,	O
+SPD	B-org
+
+CDU	B-org
+,	O
+FDP/SPD	B-misc
+,	O
+PDS	B-org
+
+Teufel	B-per
+(	O
+CDU	B-org
+)	O
+
+Stoiber	B-per
+(	O
+CSU	B-org
+)	O
+
+Wowereit	B-per
+(	O
+SPD	B-org
+)	O
+
+Platzeck	B-per
+(	O
+SPD	B-org
+)	O
+
+Scherf	B-per
+(	O
+SPD	B-org
+)	O
+
+Von	B-per
+Beust	I-per
+(	O
+CDU	B-org
+)	O
+
+Koch	B-per
+(	O
+CDU	B-org
+)	O
+
+Wulf	B-per
+(	O
+SPD	B-org
+)	O
+
+Ringstorff	B-per
+(	O
+SPD	B-org
+)	O
+
+Steinbrück	B-per
+(	O
+SPD	B-org
+)	O
+
+Beck	B-per
+(	O
+SPD	B-org
+)	O
+
+Müller	B-per
+(	O
+CDU	B-org
+)	O
+
+Milbradt	B-per
+(	O
+CDU	B-org
+)	O
+
+Böhmer	B-per
+(	O
+CDU	B-org
+)	O
+
+6	O
+
+6	O
+
+4	O
+
+4	O
+
+3	O
+
+3	O
+
+5	O
+
+6	O
+
+3	O
+
+6	O
+
+4	O
+
+3	O
+
+4	O
+
+4	O
+
+Sleeswijk-Holstein	B-loc
+
+Thüringen	B-loc
+
+SPD	B-org
+,	O
+Gr/CDU	B-misc
+,	O
+FDP	B-org
+,	O
+SSW	B-org
+
+CDU/PDS	B-misc
+,	O
+SPD	B-org
+
+Simonis	B-per
+(	O
+SPD	B-org
+)	O
+
+Althaus	B-per
+(	O
+CDU	B-org
+)	O
+
+4	O
+
+4	O
+
+3.3	O
+Mensenrechten	O
+
+De	O
+Duitse	B-loc
+regering	O
+respecteert	O
+de	O
+mensenrechten	O
+en	O
+personen	O
+kunnen	O
+,	O
+net	O
+als	O
+in	O
+Nederland	B-loc
+,	O
+een	O
+beroep	O
+doen	O
+op	O
+handhaving	O
+van	O
+die	O
+rechten	O
+.	O
+
+Een	O
+grote	O
+variëteit	O
+aan	O
+mensenrechten-organisaties	O
+is	O
+actief	O
+in	O
+Duitsland	B-loc
+,	O
+onderzoekt	O
+de	O
+situatie	O
+van	O
+de	O
+mensenrechten	O
+en	O
+publiceert	O
+de	O
+bevindingen	O
+(	O
+zonder	O
+beperkingen	O
+van	O
+de	O
+regering	O
+)	O
+.	O
+
+Tevens	O
+voorziet	O
+de	O
+wet	O
+in	O
+persvrijheid	O
+;	O
+er	O
+is	O
+geen	O
+officiële	O
+censuur	O
+.	O
+
+Discriminatie	O
+op	O
+grond	O
+van	O
+ras	O
+,	O
+geslacht	O
+,	O
+godsdient	O
+,	O
+handicap	O
+,	O
+taal	O
+of	O
+sociale	O
+status	O
+is	O
+wettelijk	O
+verboden	O
+.	O
+
+Ook	O
+bestaat	O
+er	O
+vrijheid	O
+van	O
+religie	O
+.	O
+
+Volgens	O
+de	O
+wet	O
+hebben	O
+buitenlandse	O
+slachtoffers	O
+van	O
+politieke	O
+vervolging	O
+in	O
+beginsel	O
+het	O
+recht	O
+op	O
+asiel	O
+.	O
+
+De	O
+gevangenissen	O
+voldoen	O
+aan	O
+de	O
+internationale	O
+standaarden	O
+en	O
+de	O
+Duitse	B-loc
+regering	O
+staat	O
+bezoeken	O
+van	O
+"	O
+human	O
+rights	O
+monitors	O
+"	O
+toe	O
+.	O
+
+3.4	O
+Sociale	O
+situatie	O
+
+Sinds	O
+de	O
+eenwording	O
+is	O
+de	O
+werkloosheid	O
+fors	O
+gestegen	O
+.	O
+
+In	O
+geheel	O
+Duitsland	B-loc
+ligt	O
+het	O
+werkloosheidspercentage	O
+in	O
+2002	O
+rond	O
+9	O
+%	O
+(	O
+meer	O
+dan	O
+3,5	O
+miljoen	O
+mensen	O
+)	O
+.	O
+
+In	O
+het	O
+Oosten	B-misc
+is	O
+de	O
+werkloosheid	O
+dubbel	O
+zo	O
+hoog	O
+(	O
+±	O
+17,7	O
+%	O
+)	O
+als	O
+in	O
+het	O
+Westen	B-misc
+(	O
+±	O
+7,6	O
+%	O
+)	O
+.	O
+
+Een	O
+aantal	O
+factoren	O
+ligt	O
+daaraan	O
+ten	O
+grondslag	O
+,	O
+zoals	O
+de	O
+snelle	O
+deïndustrialisatie	O
+en	O
+privatiseringen	O
+,	O
+met	O
+een	O
+vermindering	O
+van	O
+het	O
+aantal	O
+banen	O
+in	O
+de	O
+publieke	O
+sector	O
+en	O
+in	O
+de	O
+bouwsector	O
+tot	O
+gevolg	O
+.	O
+
+De	O
+dienstverlenende	O
+sector	O
+ontwikkelt	O
+zich	O
+er	O
+wel	O
+sneller	O
+dan	O
+in	O
+het	O
+Westen	B-misc
+.	O
+
+Tweederde	O
+van	O
+de	O
+nieuwe	O
+investeringen	O
+komt	O
+in	O
+deze	O
+sector	O
+terecht	O
+(	O
+90	O
+%	O
+van	O
+alle	O
+nieuwe	O
+bedrijven	O
+)	O
+en	O
+zorgt	O
+voor	O
+een	O
+stijging	O
+met	O
+10	O
+%	O
+aan	O
+hoogwaardige	O
+banen	O
+per	O
+jaar	O
+.	O
+
+Duitsland	B-loc
+kent	O
+een	O
+stelsel	O
+van	O
+hoge	O
+premie-	O
+en	O
+belastingdruk	O
+en	O
+uitgebreide	O
+regelgeving	O
+,	O
+dat	O
+remmend	O
+werkt	O
+op	O
+de	O
+economische	O
+dynamiek	O
+.	O
+
+De	O
+toepassing	O
+van	O
+dit	O
+systeem	O
+in	O
+voormalig	O
+Oost-Duitsland	B-loc
+legt	O
+een	O
+nog	O
+zwaardere	O
+druk	O
+op	O
+de	O
+situatie	O
+.	O
+
+Stimulerende	O
+maatregelen	O
+ter	O
+reactivering	O
+van	O
+werklozen	O
+(	O
+subsidiëring	O
+van	O
+de	O
+werkgevers	O
+)	O
+zijn	O
+in	O
+Duitsland	B-loc
+reeds	O
+geïntroduceerd	O
+.	O
+
+Voorts	O
+worden	O
+de	O
+mogelijk	O
+positieve	O
+effecten	O
+bestudeerd	O
+van	O
+flexibilisering	O
+van	O
+de	O
+collectieve	O
+loonovereenkomsten	O
+,	O
+bijvoorbeeld	O
+in	O
+de	O
+vorm	O
+van	O
+sector-	O
+of	O
+bedrijfsbepaalde	O
+overeenkomsten	O
+,	O
+deregulering	O
+en	O
+flexibilisering	O
+van	O
+arbeid	O
+(	O
+deeltijdwerk	O
+,	O
+kortlopende	O
+contracten	O
+)	O
+en	O
+de	O
+meer	O
+structurele	O
+omslag	O
+naar	O
+een	O
+op	O
+innovatie	O
+en	O
+dienstverlening	O
+gerichte	O
+economie	O
+,	O
+het	O
+bevorderen	O
+van	O
+ondernemerschap	O
+(	O
+MKB-ondersteunende	B-misc
+maatregelen	O
+)	O
+en	O
+het	O
+aanboren	O
+of	O
+verbreden	O
+van	O
+nieuwe	O
+werkgelegenheidsterreinen	O
+als	O
+huishoudelijke	O
+en	O
+zorgarbeid	O
+,	O
+ICT	B-misc
+,	O
+biotechnologie	O
+,	O
+handel	O
+,	O
+verkeer	O
+,	O
+milieu	O
+en	O
+energie	O
+.	O
+
+Om	O
+de	O
+nieuwe	O
+deelstaten	O
+in	O
+oostelijk	O
+Duitsland	B-loc
+te	O
+helpen	O
+bij	O
+hun	O
+opbouw	O
+ontvangen	O
+deze	O
+staten	O
+van	O
+de	O
+Bondsregering	B-org
+jaarlijks	O
+miljarden	O
+euro's	O
+in	O
+het	O
+kader	O
+van	O
+het	O
+Solidarpakt	B-misc
+I	I-misc
+die	O
+zij	O
+naar	O
+eigen	O
+inzicht	O
+kunnen	O
+besteden	O
+.	O
+
+Van	O
+2005	O
+tot	O
+2019	O
+zal	O
+de	O
+regering	O
+met	O
+het	O
+Solidarpakt	B-misc
+II	I-misc
+nog	O
+eens	O
+ruim	O
+150	O
+miljard	O
+euro	O
+aan	O
+extra	O
+middelen	O
+voor	O
+de	O
+'	O
+Aufbau	B-misc
+Ost	I-misc
+'	O
+ter	O
+beschikking	O
+stellen	O
+.	O
+
+3.5	O
+Economische	O
+situatie	O
+
+Duitsland	B-loc
+bevindt	O
+zich	O
+al	O
+enkele	O
+jaren	O
+in	O
+een	O
+periode	O
+van	O
+economische	O
+stagnatie	O
+.	O
+
+De	O
+buitenlandse	O
+vraag	O
+is	O
+de	O
+belangrijkste	O
+motor	O
+van	O
+economische	O
+groei	O
+.	O
+
+De	O
+bedrijfsresultaten	O
+trekken	O
+na	O
+enkele	O
+jaren	O
+van	O
+stilstand	O
+of	O
+verlies	O
+momenteel	O
+weer	O
+iets	O
+aan	O
+.	O
+
+In	O
+2001	O
+kondigde	O
+de	O
+regering	O
+Schröder	B-per
+een	O
+hervormingsprogramma	O
+aan	O
+dat	O
+betere	O
+randvoorwaarden	O
+voor	O
+economische	O
+groei	O
+en	O
+werkgelegenheid	O
+moet	O
+creëren	O
+.	O
+
+Over	O
+deze	O
+'	O
+Agenda	B-misc
+2010	I-misc
+'	O
+werd	O
+eind	O
+2003	O
+overeenstemming	O
+bereikt	O
+met	O
+de	O
+oppositie	O
+.	O
+
+Het	O
+gaat	O
+om	O
+maatregelen	O
+gericht	O
+op	O
+flexibilisering	O
+van	O
+de	O
+arbeidsmarkt	O
+,	O
+reductie	O
+van	O
+de	O
+kosten	O
+van	O
+de	O
+sociale	O
+zekerheid	O
+en	O
+stimulering	O
+van	O
+de	O
+conjunctuur	O
+.	O
+
+Als	O
+het	O
+aan	O
+de	O
+regering	O
+ligt	O
+zal	O
+het	O
+pensioensysteem	O
+gefaseerd	O
+van	O
+het	O
+huidige	O
+omslagstelsel	O
+overgaan	O
+naar	O
+een	O
+premiestelsel	O
+,	O
+zoals	O
+we	O
+dat	O
+ook	O
+in	O
+Nederland	B-loc
+kennen	O
+,	O
+hierover	O
+is	O
+echter	O
+al	O
+jaren	O
+geen	O
+meerderheid	O
+in	O
+de	O
+bondsdag	O
+te	O
+bereiken	O
+(	O
+ook	O
+vanwege	O
+de	O
+weinig	O
+flexibele	O
+opstelling	O
+van	O
+de	O
+vakbonden	O
+in	O
+Duitsland	B-loc
+)	O
+.	O
+
+De	O
+bondsregering	O
+hoopt	O
+in	O
+de	O
+loop	O
+van	O
+2004	O
+positieve	O
+effecten	O
+van	O
+de	O
+hervormingen	O
+te	O
+kunnen	O
+verwachten	O
+.	O
+
+3.6	O
+Milieubeleid	O
+
+Duitsland	B-loc
+wordt	O
+sinds	O
+de	O
+jaren	O
+'80	O
+als	O
+voortrekker	O
+op	O
+gebied	O
+van	O
+milieubeleid	O
+gezien	O
+.	O
+
+Het	O
+land	O
+kent	O
+een	O
+substantiële	O
+wetgeving	O
+en	O
+vele	O
+richtlijnen	O
+op	O
+dat	O
+gebied	O
+en	O
+gaf	O
+andere	O
+landen	O
+direct	O
+of	O
+via	O
+de	O
+multilaterale	O
+weg	O
+de	O
+richting	O
+aan	O
+.	O
+
+De	O
+afgelopen	O
+jaren	O
+werd	O
+gemiddeld	O
+1,5	O
+%	O
+van	O
+het	O
+BNP	B-misc
+aan	O
+natuur	O
+en	O
+milieu	O
+besteed	O
+.	O
+
+Veel	O
+aandacht	O
+wordt	O
+besteed	O
+aan	O
+(	O
+de	O
+organisatie	O
+van	O
+)	O
+hergebruik	O
+van	O
+materialen	O
+,	O
+hetgeen	O
+echter	O
+kan	O
+conflicteren	O
+met	O
+de	O
+wens	O
+tot	O
+terugdringing	O
+van	O
+afval	O
+.	O
+
+In	O
+1998	O
+verkregen	O
+de	O
+deelstaten	O
+het	O
+expliciete	O
+recht	O
+tot	O
+het	O
+heffen	O
+van	O
+milieubelastingen	O
+zolang	O
+deze	O
+niet	O
+botsen	O
+met	O
+nationale	O
+regelgeving	O
+.	O
+
+Duitsland	B-loc
+besteedt	O
+ook	O
+veel	O
+aandacht	O
+aan	O
+de	O
+klimaatproblematiek	O
+en	O
+Joint	B-misc
+Implementation	I-misc
+.	O
+
+Voorts	O
+vormt	O
+de	O
+problematiek	O
+van	O
+bestaande	O
+bodemverontreiniging	O
+(	O
+mede	O
+i.v.m.	O
+verontreiniging	O
+in	O
+het	O
+voormalige	O
+Oost-Duitsland	B-loc
+)	O
+een	O
+belangrijk	O
+beleidsterrein	O
+en	O
+wordt	O
+aan	O
+preventie	O
+van	O
+nieuwe	O
+bodemverontreiniging	O
+veel	O
+aandacht	O
+besteed	O
+.	O
+
+In	O
+EU-kader	B-misc
+pleit	O
+Duitsland	B-loc
+dikwijls	O
+voor	O
+het	O
+aanscherpen	O
+van	O
+milieueisen	O
+zoals	O
+emissies	O
+en	O
+voor	O
+eenduidigheid	O
+in	O
+het	O
+begrip	O
+van	O
+afval	O
+,	O
+verwerking	O
+en	O
+verwijdering	O
+daarvan	O
+,	O
+mede	O
+met	O
+het	O
+oog	O
+op	O
+het	O
+vervoer	O
+van	O
+gevaarlijke	O
+stoffen	O
+.	O
+
+Op	O
+1	O
+april	O
+'99	O
+werd	O
+de	O
+veelbesproken	O
+eco-	O
+of	O
+milieubelasting	O
+ingevoerd	O
+.	O
+
+De	O
+energie-intensieve	O
+branche	O
+wordt	O
+hierbij	O
+echter	O
+ontzien	O
+,	O
+wat	O
+tot	O
+een	O
+nadere	O
+toetsing	O
+en	O
+goedkeuring	O
+door	O
+Brussel	B-loc
+heeft	O
+geleid	O
+(	O
+subsidiebeleid	O
+vs.	O
+concurrentievervalsing	O
+)	O
+.	O
+
+De	O
+brandstofprijzen	O
+zullen	O
+tot	O
+2003	O
+stijgen	O
+.	O
+
+De	O
+opbrengst	O
+van	O
+de	O
+belasting	O
+zal	O
+echter	O
+ten	O
+goede	O
+komen	O
+aan	O
+afname	O
+van	O
+secundaire	O
+arbeidskosten	O
+en	O
+verlaging	O
+van	O
+de	O
+sociale	O
+verzekeringskosten	O
+.	O
+
+In	O
+juni	O
+2000	O
+keurde	O
+het	O
+parlement	O
+een	O
+voorstel	O
+van	O
+de	O
+rood-groene	O
+regering	O
+goed	O
+,	O
+dat	O
+er	O
+in	O
+voorziet	O
+op	O
+termijn	O
+het	O
+gebruik	O
+van	O
+kernenergie	O
+in	O
+Duitsland	B-loc
+te	O
+verminderen	O
+.	O
+
+Kerncentales	O
+mogen	O
+een	O
+vastgesteld	O
+maximum	O
+aan	O
+atoomstroom	O
+produceren	O
+.	O
+
+Zodra	O
+dit	O
+maximum	O
+bereikt	O
+is	O
+,	O
+zullen	O
+de	O
+betreffende	O
+kerncentrales	O
+gesloten	O
+worden	O
+.	O
+
+In	O
+verband	O
+met	O
+de	O
+vrees	O
+te	O
+afhankelijk	O
+te	O
+worden	O
+van	O
+olie	O
+,	O
+is	O
+de	O
+discussie	O
+over	O
+het	O
+afschaffen	O
+van	O
+kernenergie	O
+recentelijk	O
+weer	O
+actueel	O
+geworden	O
+.	O
+
+3.7	O
+Buitenlands	O
+beleid	O
+en	O
+veiligheidsbeleid	O
+
+Het	O
+Duitse	B-loc
+buitenlands	O
+beleid	O
+van	O
+na	O
+de	O
+Tweede	B-eve
+Wereldoorlog	I-eve
+kent	O
+een	O
+aantal	O
+constanten	O
+,	O
+zoals	O
+een	O
+hechte	O
+samenwerking	O
+binnen	O
+de	O
+NAVO	B-org
+,	O
+samenwerking	O
+met	O
+Frankrijk	B-loc
+en	O
+de	O
+behoefte	O
+aan	O
+een	O
+verbond	O
+van	O
+West-Europese	B-loc
+staten	O
+.	O
+
+Om	O
+deze	O
+redenen	O
+behoorde	O
+West-Duitsland	B-loc
+tot	O
+de	O
+oprichters	O
+van	O
+de	O
+EGKS	B-org
+(	O
+1952	O
+)	O
+en	O
+de	O
+EEG	B-org
+(	O
+1957	O
+)	O
+.	O
+
+Bij	O
+de	O
+verdere	O
+ontwikkeling	O
+van	O
+deze	O
+beide	O
+organisaties	O
+tot	O
+wat	O
+nu	O
+de	O
+Europese	B-org
+Unie	I-org
+is	O
+,	O
+heeft	O
+Duitsland	B-loc
+altijd	O
+een	O
+actieve	O
+rol	O
+gespeeld	O
+.	O
+
+Dit	O
+gold	O
+zowel	O
+het	O
+grote	O
+project	O
+van	O
+de	O
+"	O
+interne	O
+markt	O
+"	O
+,	O
+maar	O
+ook	O
+bij	O
+de	O
+totstandkoming	O
+van	O
+de	O
+muntunie	O
+(	O
+Verdrag	O
+van	O
+Maastricht	O
+,	O
+1992	O
+)	O
+en	O
+bij	O
+het	O
+verder	O
+ontwikkelen	O
+van	O
+een	O
+buitenlands-	O
+en	O
+veiligheidsbeleid	O
+van	O
+de	O
+EU	B-org
+en	O
+van	O
+een	O
+gemeenschappelijk	O
+beleid	O
+op	O
+het	O
+gebied	O
+van	O
+justitie	O
+en	O
+politiesamenwerking	O
+(	O
+Verdrag	O
+van	O
+Amsterdam	O
+,	O
+1997	O
+)	O
+.	O
+
+De	O
+as	O
+met	O
+Frankrijk	B-loc
+is	O
+onder	O
+Chirac	B-per
+en	O
+Schröder	B-per
+inmiddels	O
+even	O
+sterk	O
+of	O
+nog	O
+sterker	O
+als	O
+onder	O
+Mitterand	B-per
+en	O
+Kohl	B-per
+.	O
+
+Duitsland	B-loc
+was	O
+een	O
+van	O
+de	O
+grootste	O
+voorstanders	O
+van	O
+uitbreiding	O
+van	O
+de	O
+EU	B-org
+met	O
+de	O
+10	O
+landen	O
+van	O
+Midden-	B-loc
+en	I-loc
+Oost-Europa	I-loc
+(	O
+mei	O
+2004	O
+)	O
+.	O
+
+Met	O
+het	O
+oog	O
+op	O
+deze	O
+uitbreiding	O
+hebben	O
+Duitsland	B-loc
+en	O
+Oostenrijk	B-loc
+als	O
+grensstaten	O
+echter	O
+wel	O
+gevraagd	O
+om	O
+een	O
+overgangsperiode	O
+van	O
+maximaal	O
+zeven	O
+jaar	O
+voor	O
+de	O
+liberalisering	O
+van	O
+het	O
+vrije	O
+verkeer	O
+van	O
+werknemers	O
+.	O
+
+Veel	O
+andere	O
+landen	O
+,	O
+waaronder	O
+Nederland	B-loc
+,	O
+maken	O
+nu	O
+ook	O
+aanspraak	O
+op	O
+deze	O
+overgangsperiode	O
+.	O
+
+Omdat	O
+de	O
+economische	O
+situatie	O
+moeilijk	O
+is	O
+,	O
+heeft	O
+de	O
+Duitse	B-loc
+regering	O
+momenteel	O
+geen	O
+haast	O
+met	O
+verdere	O
+uitbreiding	O
+maar	O
+staat	O
+er	O
+in	O
+beginsel	O
+wel	O
+positief	O
+tegenover	O
+,	O
+ook	O
+wat	O
+betreft	O
+Turkije	B-loc
+.	O
+
+De	O
+CDU/CSU	B-misc
+daarentegen	O
+vindt	O
+dat	O
+er	O
+voorlopig	O
+geen	O
+absorptievermogen	O
+bestaat	O
+voor	O
+nieuwe	O
+toetreders	O
+.	O
+
+Ook	O
+thans	O
+blijft	O
+Duitsland	B-loc
+zich	O
+inzetten	O
+voor	O
+een	O
+verdere	O
+integratie	O
+van	O
+beleid	O
+tussen	O
+de	O
+EU-partners	B-misc
+.	O
+
+Enerzijds	O
+via	O
+versterking	O
+van	O
+zowel	O
+de	O
+executieve	O
+(	O
+Commissie	B-org
+)	O
+als	O
+de	O
+legislatieve	O
+macht	O
+(	O
+EP	B-org
+,	O
+Raad	B-org
+)	O
+,	O
+anderzijds	O
+via	O
+een	O
+duidelijkere	O
+afbakening	O
+van	O
+rechten	O
+en	O
+plichten	O
+tussen	O
+de	O
+EU	B-org
+en	O
+de	O
+lidstaten	O
+(	O
+en	O
+de	O
+deelstaten	O
+daarbinnen	O
+!	O
+)	O
+
+Tijdens	O
+de	O
+totstandkoming	O
+van	O
+het	O
+Grondwettelijk	O
+Verdrag	O
+(	O
+waarover	O
+tijdens	O
+de	O
+Europese	B-org
+Raad	I-org
+van	O
+18	O
+juni	O
+2004	O
+overeenstemming	O
+werd	O
+bereikt	O
+)	O
+bleek	O
+Duitsland	B-loc
+groot	O
+voorvechter	O
+van	O
+besluiten	O
+bij	O
+meerderheid	O
+in	O
+plaats	O
+van	O
+unanimiteit	O
+.	O
+
+Duitsland	B-loc
+week	O
+echter	O
+ook	O
+voor	O
+het	O
+eerst	O
+duidelijk	O
+van	O
+de	O
+communautaire	O
+koers	O
+af	O
+,	O
+bijvoorbeeld	O
+bij	O
+het	O
+Stabiliteits-	B-misc
+en	I-misc
+Groei	I-misc
+Pakt	I-misc
+.	O
+
+Hier	O
+wilde	O
+Duitsland	B-loc
+minder	O
+vergaande	O
+bevoegdheden	O
+aan	O
+de	O
+Commissie	B-org
+gunnen	O
+omdat	O
+het	O
+een	O
+'	O
+excessief	O
+begrotingstekort	O
+procedure	O
+'	O
+vreest	O
+.	O
+
+Tijdens	O
+het	O
+Nederlands	B-loc
+EU-voorzitterschap	B-misc
+hoopt	O
+Duitsland	B-loc
+vooral	O
+op	O
+initiatieven	O
+voor	O
+versterkte	O
+samenwerking	O
+op	O
+het	O
+gebied	O
+van	O
+anti-terrorisme	O
+en	O
+asiel-	O
+en	O
+migratie	O
+.	O
+
+Ook	O
+het	O
+'	O
+Lissabonproces	B-misc
+'	O
+(	O
+gemeenschappelijke	O
+aanpak	O
+van	O
+overbodige	O
+administratieve	O
+lasten	O
+voor	O
+het	O
+bedrijfsleven	O
+,	O
+innovatie	O
+door	O
+onderwijs	O
+en	O
+onderzoek	O
+,	O
+flexibilisering	O
+van	O
+de	O
+arbeidsmarkt	O
+etc.	O
+)	O
+heeft	O
+de	O
+Duitse	B-loc
+belangstelling	O
+.	O
+
+NAVO	B-org
+
+De	O
+bondsrepubliek	O
+is	O
+sinds	O
+haar	O
+ontstaan	O
+een	O
+trouwe	O
+bondgenoot	O
+van	O
+de	O
+VS	B-loc
+.	O
+
+Al	O
+in	O
+1955	O
+trad	O
+de	O
+BRD	B-loc
+toe	O
+tot	O
+de	O
+NAVO	B-org
+.	O
+
+Berlijn	B-loc
+steunt	O
+het	O
+model	O
+van	O
+een	O
+'	O
+two	B-misc
+pillar	I-misc
+NATO	I-misc
+'	O
+,	O
+waarbij	O
+de	O
+EU	B-org
+zich	O
+ontwikkelt	O
+tot	O
+een	O
+besluitvaardige	O
+en	O
+geloofwaardige	O
+partner	O
+van	O
+de	O
+VS	B-loc
+.	O
+
+Dit	O
+impliceert	O
+in	O
+Duitse	B-loc
+ogen	O
+een	O
+sterk	O
+Europees	B-misc
+Veiligheids-	I-misc
+en	I-misc
+Defensiebeleid	I-misc
+,	O
+iets	O
+waarvoor	O
+het	O
+zich	O
+inzet	O
+met	O
+ondermeer	O
+Frankrijk	B-loc
+,	O
+België	B-loc
+en	O
+Luxemburg	B-loc
+.	O
+
+Deze	O
+inzet	O
+roept	O
+overigens	O
+weerstand	O
+op	O
+,	O
+onder	O
+andere	O
+in	O
+het	O
+VK	B-loc
+en	O
+Nederland	B-loc
+,	O
+voorzover	O
+dit	O
+beleid	O
+dreigt	O
+te	O
+leiden	O
+tot	O
+doublures	O
+of	O
+juist	O
+kloven	O
+tussen	O
+NAVO	B-org
+en	O
+EU	B-org
+.	O
+
+OVSE	B-org
+
+Vanaf	O
+de	O
+jaren	O
+'70	O
+ontwikkelde	O
+Duitsland	B-loc
+gestaag	O
+de	O
+betrekkingen	O
+met	O
+de	O
+Sovjet-Unie	B-loc
+.	O
+
+De	O
+BRD	B-loc
+droeg	O
+bij	O
+aan	O
+de	O
+stabiliteit	O
+in	O
+de	O
+relaties	O
+tussen	O
+Oost-	B-loc
+en	I-loc
+West-Europa	I-loc
+.	O
+
+Het	O
+heeft	O
+een	O
+voortrekkersrol	O
+gespeeld	O
+in	O
+de	O
+CVSE-gesprekken	B-misc
+en	O
+doet	O
+dat	O
+nog	O
+steeds	O
+in	O
+de	O
+huidige	O
+OVSE	B-org
+.	O
+
+VN	B-org
+
+Duitsland	B-loc
+heeft	O
+zich	O
+lange	O
+tijd	O
+weinig	O
+prominent	O
+opgesteld	O
+op	O
+het	O
+mondiale	O
+toneel	O
+,	O
+met	O
+name	O
+in	O
+de	O
+VN	B-org
+,	O
+waartoe	O
+Duitsland	B-loc
+ook	O
+pas	O
+1973	O
+mocht	O
+toetreden	O
+.	O
+
+Deze	O
+houding	O
+is	O
+geleidelijk	O
+vanaf	O
+de	O
+jaren	O
+tachtig	O
+veranderd	O
+.	O
+
+Dit	O
+werd	O
+zowel	O
+veroorzaakt	O
+door	O
+een	O
+groeiend	O
+Duits	B-loc
+zelfbewustzijn	O
+,	O
+als	O
+om	O
+de	O
+roep	O
+vanuit	O
+de	O
+wereld	O
+dat	O
+de	O
+inmiddels	O
+economische	O
+grootmacht	O
+Duitsland	B-loc
+(	O
+na	O
+de	O
+VS	B-loc
+en	O
+Japan	B-loc
+de	O
+grootste	O
+betaler	O
+aan	O
+de	O
+VN	B-org
+)	O
+zich	O
+ook	O
+politiek	O
+meer	O
+zou	O
+moeten	O
+engageren	O
+.	O
+
+Dit	O
+engagement	O
+vertaalt	O
+zich	O
+momenteel	O
+in	O
+een	O
+streven	O
+naar	O
+een	O
+permanente	O
+zetel	O
+in	O
+de	O
+Veiligheidsraad	B-org
+.	O
+
+Defensie	O
+
+Ook	O
+op	O
+defensiegebied	O
+vertoont	O
+Duitsland	B-loc
+gaandeweg	O
+meer	O
+assertiviteit	O
+.	O
+
+Het	O
+land	O
+overwon	O
+in	O
+2001	O
+zijn	O
+interne	O
+politieke	O
+aarzeling	O
+jegens	O
+vredesoperaties	O
+,	O
+zocht	O
+een	O
+voortrekkersrol	O
+in	O
+de	O
+VN	B-org
+en	O
+andere	O
+multilaterale	O
+fora	O
+en	O
+claimde	O
+met	O
+Frankrijk	B-loc
+een	O
+leidersrol	O
+in	O
+de	O
+EU	B-org
+.	O
+
+Na	O
+de	O
+aanslagen	O
+van	O
+11	O
+september	O
+2001	O
+schaarde	O
+Duitsland	B-loc
+zich	O
+onvoorwaardelijk	O
+achter	O
+de	O
+Verenigde	B-loc
+Staten	I-loc
+.	O
+
+Het	O
+land	O
+nam	O
+deel	O
+aan	O
+operatie	O
+Enduring	B-misc
+Freedom	I-misc
+en	O
+leidde	O
+samen	O
+met	O
+Nederland	B-loc
+de	O
+ISAF-vredesmacht	B-misc
+in	O
+Afganistan	B-loc
+.	O
+
+Op	O
+dit	O
+moment	O
+werken	O
+Duitsland	B-loc
+en	O
+Nederland	B-loc
+in	O
+Afghanistan	B-loc
+samen	O
+in	O
+de	O
+Provincial	B-org
+Reconstruction	I-org
+Teams	I-org
+.	O
+
+Toch	O
+behoudt	O
+Duitsland	B-loc
+een	O
+zekere	O
+voorzichtigheid	O
+waar	O
+het	O
+militaire	O
+operaties	O
+betreft	O
+.	O
+
+De	O
+vroegtijdige	O
+en	O
+resolute	O
+afwijzing	O
+van	O
+het	O
+plan	O
+van	O
+de	O
+VS	B-loc
+om	O
+Irak	B-loc
+aan	O
+te	O
+vallen	O
+werd	O
+mede	O
+ingegeven	O
+door	O
+het	O
+anti-oorlogssentiment	O
+onder	O
+de	O
+bevolking	O
+.	O
+
+Ontwikkelingssamenwerking	O
+
+Op	O
+het	O
+gebied	O
+van	O
+ontwikkelingssamenwerking	O
+draagt	O
+Duitsland	B-loc
+actief	O
+bij	O
+,	O
+zij	O
+het	O
+in	O
+relatief	O
+iets	O
+mindere	O
+mate	O
+dan	O
+Nederland	B-loc
+als	O
+de	O
+bedragen	O
+per	O
+hoofd	O
+van	O
+de	O
+bevolking	O
+worden	O
+geprojecteerd	O
+.	O
+
+Betrekkingen	O
+met	O
+de	O
+EU	B-org
+
+Duitsland	B-loc
+is	O
+lid	O
+van	O
+de	O
+Europese	B-org
+Unie	I-org
+;	O
+zie	O
+onder	O
+Buitenlands	O
+Beleid	O
+
+4	O
+Nederlandse	B-loc
+betrekkingen/beleid	O
+
+4.1	O
+Betrekkingen	O
+met	O
+Nederland	B-loc
+
+De	O
+betrekkingen	O
+zijn	O
+zoals	O
+ze	O
+tussen	O
+twee	O
+buurlanden	O
+behoren	O
+te	O
+zijn	O
+:	O
+divers	O
+en	O
+intensief	O
+.	O
+
+Op	O
+regerings-	O
+,	O
+parlementair-	O
+en	O
+ambtelijk	O
+niveau	O
+is	O
+er	O
+zeer	O
+regelmatig	O
+overleg	O
+.	O
+
+Op	O
+cultuurgebied	O
+geldt	O
+Duitsland	B-loc
+als	O
+speerpuntgebied	O
+voor	O
+Nederland	B-loc
+,	O
+zij	O
+het	O
+dat	O
+samenwerking	O
+en	O
+uitwisselingen	O
+in	O
+beginsel	O
+via	O
+het	O
+'	O
+veld	O
+'	O
+tot	O
+stand	O
+dienen	O
+te	O
+komen	O
+.	O
+
+Vanaf	O
+1996	O
+vindt	O
+jaarlijks	O
+de	O
+Nederlands-Duitse	B-eve
+Conferentie	I-eve
+(	O
+NDC	B-eve
+)	O
+plaats	O
+,	O
+afwisselend	O
+in	O
+Nederland	B-loc
+en	O
+Duitsland	B-loc
+.	O
+
+Diverse	O
+geledingen	O
+uit	O
+de	O
+samenleving	O
+praten	O
+daar	O
+met	O
+elkaar	O
+over	O
+actuele	O
+maatschappelijke	O
+onderwerpen	O
+.	O
+
+In	O
+november	O
+2003	O
+stond	O
+het	O
+thema	O
+vergrijzing	O
+centraal	O
+.	O
+
+Ook	O
+op	O
+lokaal	O
+gebied	O
+vindt	O
+actieve	O
+samenwerking	O
+met	O
+Duitsland	B-loc
+plaats	O
+,	O
+met	O
+name	O
+in	O
+gemeenten	O
+en	O
+provincies	O
+aan	O
+de	O
+grens	O
+.	O
+
+De	O
+'	O
+Euregios	B-org
+'	O
+zijn	O
+daarvan	O
+een	O
+voorbeeld	O
+;	O
+zij	O
+genereren	O
+projecten	O
+op	O
+het	O
+gebied	O
+van	O
+zustersteden	O
+,	O
+onderwijs	O
+,	O
+sociaal-culturele	O
+verenigingen	O
+,	O
+toerisme	O
+alsmede	O
+uitwisselingsprojecten	O
+voor	O
+jeugd	O
+,	O
+ouderen	O
+,	O
+scholen	O
+,	O
+gezinnen	O
+en	O
+sportlieden	O
+.	O
+
+Ook	O
+ontstaan	O
+er	O
+in	O
+verschillende	O
+grensgemeenten	O
+(	O
+o.a.	O
+Heerlen-Aken	B-loc
+,	O
+Coevorden-Emlichheim	B-loc
+)	O
+Nederlands-Duitse	B-misc
+grensoverschrijdende	O
+bedrijventerreinen	O
+.	O
+
+Economie	O
+
+De	O
+economische	O
+vervlechting	O
+tussen	O
+beide	O
+landen	O
+is	O
+groot	O
+.	O
+
+Duitsland	B-loc
+is	O
+voor	O
+Nederland	B-loc
+de	O
+eerste	O
+handelspartner	O
+,	O
+zowel	O
+wat	O
+betreft	O
+uitvoer	O
+als	O
+invoer	O
+.	O
+
+Nederland	B-loc
+is	O
+voor	O
+Duitsland	B-loc
+het	O
+derde	O
+import-	O
+en	O
+vijfde	O
+exportland	O
+en	O
+bovendien	O
+het	O
+belangrijkste	O
+doorvoerland	O
+,	O
+waarbij	O
+de	O
+haven	O
+van	O
+Rotterdam	B-loc
+een	O
+centrale	O
+rol	O
+speelt	O
+.	O
+
+Omgekeerd	O
+is	O
+Duitsland	B-loc
+voor	O
+de	O
+maritieme	O
+aan-	O
+en	O
+afvoer	O
+van	O
+de	O
+Rotterdamse	B-loc
+haven	O
+van	O
+groot	O
+gewicht	O
+.	O
+
+Duitsland	B-loc
+is	O
+immers	O
+het	O
+belangrijkste	O
+transitoland	O
+voor	O
+Nederland	B-loc
+naar	O
+andere	O
+Europese	B-loc
+landen	O
+.	O
+
+Het	O
+spreekt	O
+dan	O
+ook	O
+voor	O
+zich	O
+dat	O
+beide	O
+landen	O
+op	O
+het	O
+gebied	O
+van	O
+infrastructuur	O
+,	O
+transport	O
+,	O
+telecommunicatie	O
+en	O
+waterbeheer	O
+nauw	O
+samenwerken	O
+.	O
+
+Landbouw	O
+
+De	O
+Nederlandse	O
+handel	O
+in	O
+voedingsmiddelen	O
+is	O
+reeds	O
+decennialang	O
+sterk	O
+op	O
+Duitsland	B-loc
+georiënteerd	O
+.	O
+
+De	O
+laatste	O
+tien	O
+jaar	O
+ging	O
+eenderde	O
+van	O
+de	O
+Nederlandse	B-loc
+agrarische	O
+export	O
+naar	O
+Duitsland	B-loc
+,	O
+vooral	O
+naar	O
+de	O
+aangrenzende	O
+deelstaten	O
+waar	O
+het	O
+Nederlandse	B-loc
+bedrijfsleven	O
+over	O
+goede	O
+distributiekanalen	O
+beschikt	O
+.	O
+
+Hiermee	O
+is	O
+de	O
+Nederlandse	B-loc
+landbouwsector	O
+voor	O
+Duitsland	B-loc
+veruit	O
+de	O
+grootste	O
+buitenlandse	O
+toeleverancier	O
+.	O
+
+Ook	O
+aan	O
+de	O
+importzijde	O
+is	O
+Duitsland	B-loc
+de	O
+belangrijkste	O
+Nederlandse	B-loc
+partner	O
+.	O
+
+Tevens	O
+vinden	O
+er	O
+Nederlandse	B-loc
+investeringen	O
+in	O
+deze	O
+sector	O
+in	O
+Duitsland	B-loc
+plaats	O
+.	O
+
+Momenteel	O
+voert	O
+de	O
+Nederlandse	B-loc
+regering	O
+het	O
+Masterplan	B-misc
+Nachbarland	I-misc
+Niederlande	I-misc
+uit	O
+dat	O
+de	O
+Nederlandse	B-loc
+exportpositie	O
+van	O
+landbouwprodukten	O
+op	O
+de	O
+Duitse	B-loc
+markt	O
+extra	O
+ondersteunt	O
+en	O
+bevordert	O
+.	O
+
+Infrastructuur	O
+
+De	O
+bereikbaarheid	O
+van	O
+Duitsland	B-loc
+voor	O
+personen	O
+,	O
+goederen	O
+en	O
+diensten	O
+is	O
+een	O
+direct	O
+Nederlands	B-loc
+economisch	O
+belang	O
+.	O
+
+De	O
+grote	O
+infrastructuur	O
+staat	O
+in	O
+het	O
+overleg	O
+met	O
+Duitsland	B-loc
+centraal	O
+.	O
+
+De	O
+haven	O
+van	O
+Rotterdam	B-loc
+is	O
+van	O
+cruciale	O
+betekenis	O
+voor	O
+de	O
+Duitse	B-loc
+economie	O
+.	O
+
+De	O
+ontwikkelingen	O
+van	O
+de	O
+havens	O
+van	O
+Hamburg	B-loc
+,	O
+Bremen	B-loc
+en	O
+Duisburg	B-loc
+en	O
+van	O
+de	O
+luchthaven	O
+van	O
+Frankfurt	B-loc
+am	I-loc
+Main	I-loc
+zijn	O
+van	O
+direct	O
+belang	O
+voor	O
+de	O
+positie	O
+van	O
+Schiphol	B-loc
+en	O
+de	O
+havens	O
+van	O
+Rotterdam	B-loc
+en	O
+Amsterdam	B-loc
+.	O
+
+Duitsland	B-loc
+is	O
+zeer	O
+geïnteresseerd	O
+in	O
+een	O
+mogelijk	O
+aan	O
+te	O
+leggen	O
+Zuiderzeelijn/Hoge	B-loc
+snelheidslijn	I-loc
+om	O
+deze	O
+door	O
+te	O
+trekken	O
+naar	O
+Hamburg	B-loc
+en	O
+Berlijn	B-loc
+.	O
+
+Andersom	O
+is	O
+Nederland	B-loc
+bij	O
+de	O
+doortrekking	O
+van	O
+de	O
+Betuwelijn	B-loc
+afhankelijk	O
+van	O
+Duitsland	B-loc
+.	O
+
+Politie	O
+en	O
+justitie	O
+
+Sinds	O
+maart	O
+1995	O
+vinden	O
+als	O
+gevolg	O
+van	O
+het	O
+Schengen-akkoord	B-misc
+geen	O
+grenscontroles	O
+tussen	O
+Nederland	B-loc
+en	O
+Duitsland	B-loc
+meer	O
+plaats	O
+.	O
+
+Regelmatig	O
+vindt	O
+nu	O
+ambtelijk	O
+overleg	O
+plaats	O
+met	O
+vertegenwoordigers	O
+van	O
+de	O
+ministeries	O
+van	O
+Binnenlandse	O
+Zaken	O
+van	O
+Noordrijn-Westfalen	B-loc
+en	O
+Nedersaksen	B-loc
+over	O
+de	O
+implementatie	O
+van	O
+het	O
+verdrag	O
+en	O
+de	O
+politiële	O
+samenwerking	O
+daaromtrent	O
+(	O
+mobiel	O
+toezicht	O
+achter	O
+de	O
+grens	O
+)	O
+,	O
+de	O
+samenwerking	O
+bij	O
+de	O
+aanpak	O
+van	O
+het	O
+drugstoerisme	O
+en	O
+de	O
+afhandeling	O
+van	O
+asielverzoeken	O
+.	O
+
+Op	O
+1	O
+maart	O
+1997	O
+is	O
+de	O
+Nederlands-Duitse	B-misc
+Overeenkomst	I-misc
+inzake	O
+wederzijdse	O
+bijstandsverlening	O
+bij	O
+het	O
+bestrijden	O
+van	O
+rampen	O
+,	O
+waaronder	O
+zware	O
+ongevallen	O
+,	O
+in	O
+werking	O
+getreden	O
+.	O
+
+Maart	O
+2005	O
+zal	O
+een	O
+verdrag	O
+worden	O
+getekend	O
+over	O
+grensoverschrijdend	O
+politieoptreden	O
+en	O
+samenwerking	O
+in	O
+strafzaken	O
+.	O
+
+Deze	O
+samenwerking	O
+bestond	O
+reeds	O
+daarvoor	O
+,	O
+het	O
+verdrag	O
+dient	O
+vooral	O
+ter	O
+wegneming	O
+van	O
+onduidelijkheden	O
+die	O
+in	O
+praktijk	O
+bestonden	O
+.	O
+
+Defensie	O
+
+De	O
+Nederlandse	B-loc
+en	O
+Duitse	B-loc
+bewindslieden	O
+van	O
+Defensie	B-misc
+voeren	O
+regelmatig	O
+bilateraal	O
+overleg	O
+.	O
+
+De	O
+Nederlandse	B-loc
+krijgsmacht	O
+heeft	O
+daarnaast	O
+in	O
+multilateraal	O
+verband	O
+nauwe	O
+banden	O
+met	O
+de	O
+Duitse	B-loc
+krijgsmacht	O
+.	O
+
+Sinds	O
+1995	O
+bestaat	O
+er	O
+een	O
+bijzondere	O
+Nederlands-Duitse	B-misc
+defensiesamenwerking	O
+in	O
+de	O
+vorm	O
+van	O
+een	O
+gezamenlijk	O
+legerkorps	O
+,	O
+waarin	O
+vrijwel	O
+alle	O
+gevechtseenheden	O
+van	O
+de	O
+Nederlandse	B-loc
+landmacht	O
+is	O
+ondergebracht	O
+.	O
+
+Dit	O
+legerkorps	O
+staat	O
+onder	O
+gezamenlijk	O
+bevel	O
+van	O
+Duitsland	B-loc
+en	O
+Nederland	B-loc
+en	O
+maakt	O
+deel	O
+uit	O
+van	O
+de	O
+Main	B-org
+Defence	I-org
+Forces	I-org
+van	O
+de	O
+NAVO	B-org
+.	O
+
+De	O
+eenheden	O
+van	O
+het	O
+korps	O
+en	O
+het	O
+legerkorpshoofdkwartier	O
+kunnen	O
+worden	O
+aangeboden	O
+voor	O
+humanitaire	O
+en	O
+crisisbeheersingstaken	O
+(	O
+de	O
+zogenaamde	O
+Petersberg-taken	B-misc
+)	O
+in	O
+het	O
+kader	O
+van	O
+het	O
+Europees	B-misc
+Veiligheids	I-misc
+en	I-misc
+Defensiebeleid	I-misc
+.	O
+
+Ook	O
+de	O
+Koninklijke	B-org
+Marine	I-org
+en	O
+de	O
+Koninklijke	B-org
+Luchtmacht	I-org
+werken	O
+nauw	O
+met	O
+de	O
+Duitse	B-loc
+marine	O
+en	O
+luchtmacht	O
+samen	O
+.	O
+
+Tevens	O
+vindt	O
+er	O
+periodiek	O
+overleg	O
+plaats	O
+tussen	O
+de	O
+beide	O
+defensiestaven	O
+.	O
+
+Ongeveer	O
+2.500	O
+Nederlandse	B-loc
+militairen	O
+zijn	O
+in	O
+Duitsland	B-loc
+gelegerd	O
+en	O
+Nederlandse	B-loc
+militaire	O
+eenheden	O
+maken	O
+intensief	O
+gebruik	O
+van	O
+Duitse	B-loc
+oefengebieden	O
+.	O
+
+Duits	B-loc
+militair	O
+personeel	O
+is	O
+in	O
+Budel	B-loc
+gestationeerd	O
+.	O
+
+Milieu	O
+en	O
+natuur	O
+
+Er	O
+vindt	O
+regelmatig	O
+overleg	O
+plaats	O
+tussen	O
+de	O
+nationale	O
+en	O
+deelstaatoverheden	O
+over	O
+grensoverschrijdende	O
+milieu-effecten	O
+.	O
+
+Over	O
+verschillende	O
+deelgebieden	O
+van	O
+het	O
+milieubeleid	O
+,	O
+zoals	O
+de	O
+klimaatproblematiek	O
+,	O
+bodemverontreiniging	O
+en	O
+waterkwaliteitszorg	O
+,	O
+inzet	O
+van	O
+juridische	O
+en	O
+economisch	O
+instrumenten	O
+voor	O
+milieubeleid	O
+en	O
+stimulering	O
+van	O
+milieutechnologie	O
+,	O
+wordt	O
+regelmatig	O
+informeel	O
+overleg	O
+gevoerd	O
+.	O
+
+Na	O
+ratificatie	O
+van	O
+het	O
+milieuprotocol	O
+bij	O
+het	O
+Eems-Dollard-verdrag	O
+uit	O
+1996	O
+zijn	O
+er	O
+voor	O
+alle	O
+wateren	O
+tussen	O
+Nederland	B-loc
+en	O
+Duitsland	B-loc
+gemeenschappelijke	O
+kaders	O
+voor	O
+samenwerking	O
+.	O
+
+Een	O
+belangrijke	O
+vorm	O
+van	O
+samenwerking	O
+op	O
+natuur-	O
+en	O
+milieugebied	O
+betreft	O
+de	O
+trilaterale	O
+samenwerking	O
+tussen	O
+Nederland	B-loc
+,	O
+Duitsland	B-loc
+en	O
+Denemarken	B-loc
+rond	O
+de	O
+Waddenzee	B-loc
+.	O
+
+Nederland	B-loc
+en	O
+Duitsland	B-loc
+zijn	O
+daarnaast	O
+belanghebbend	O
+bij	O
+het	O
+internationale	O
+overleg	O
+inzake	O
+de	O
+Noordzee	B-loc
+en	O
+de	O
+Rijn	B-loc
+.	O
+
+Onderwijs	O
+,	O
+onderzoek	O
+en	O
+cultuur	O
+
+De	O
+basis	O
+voor	O
+de	O
+samenwerking	O
+op	O
+onderwijsterrein	O
+is	O
+de	O
+in	O
+1993	O
+gesloten	O
+"	O
+Gemeinsame	O
+Erklärung	O
+"	O
+waarin	O
+het	O
+'	O
+Grenslandenbeleid	B-misc
+'	O
+op	O
+onderzoek-	O
+en	O
+onderwijsterrein	O
+wordt	O
+ingesteld	O
+.	O
+
+Nederland	B-loc
+vormt	O
+met	O
+enkele	O
+aangrenzende	O
+Duitse	B-loc
+deelstaten	O
+een	O
+regio	O
+met	O
+een	O
+uitgebreide	O
+kennis-infrastructuur	O
+.	O
+
+In	O
+het	O
+kader	O
+van	O
+het	O
+Duitsland-programma	B-misc
+voor	O
+het	O
+hoger	O
+onderwijs	O
+krijgen	O
+drie	O
+Nederlandse	B-loc
+universitaire	O
+instellingen	O
+subsidie	O
+voor	O
+de	O
+verbetering	O
+van	O
+de	O
+in	O
+Nederland	B-loc
+aanwezige	O
+kennis	O
+over	O
+Duitsland	B-loc
+,	O
+de	O
+Duits-Nederlandse	B-misc
+betrekkingen	O
+en	O
+de	O
+Duitse	B-loc
+taal	O
+.	O
+
+Daarnaast	O
+heeft	O
+het	O
+'	O
+Haus	B-org
+der	I-org
+Niederlande	I-org
+'	O
+,	O
+verbonden	O
+aan	O
+de	O
+universiteit	O
+van	O
+Münster	B-loc
+,	O
+een	O
+Duitstalige	B-loc
+website	O
+opgezet	O
+met	O
+informatie	O
+over	O
+Nederland	B-loc
+en	O
+de	O
+Duits	B-loc
+Nederlandse	B-loc
+betrekkingen	O
+.	O
+
+Het	O
+adres	O
+van	O
+deze	O
+website	O
+is	O
+www.Niederlandenet.de	O
+.	O
+
+Duitsland	B-loc
+heeft	O
+op	O
+het	O
+gebied	O
+van	O
+wetenschap	O
+en	O
+technologie	O
+grote	O
+faam	O
+en	O
+Nederlandse	B-loc
+onderzoeksinstellingen	O
+onderhouden	O
+veelvuldig	O
+contacten	O
+met	O
+het	O
+buurland	O
+.	O
+
+De	O
+culturele	O
+vervlechting	O
+tussen	O
+beide	O
+buurlanden	O
+is	O
+sterk	O
+.	O
+
+De	O
+frequente	O
+culturele	O
+uitwisseling	O
+is	O
+vooral	O
+een	O
+zaak	O
+van	O
+Nederlandse	B-loc
+fondsen	O
+en	O
+instellingen	O
+.	O
+
+De	O
+Nederlandse	B-loc
+vertegenwoordigingen	O
+in	O
+Duitsland	B-loc
+spelen	O
+een	O
+signalerende	O
+,	O
+bemiddelende	O
+en	O
+ondersteunende	O
+rol	O
+.	O
+
+4.2	O
+Bezoeken	O
+
+Er	O
+vinden	O
+op	O
+zeer	O
+regelmatige	O
+basis	O
+ontmoetingen	O
+plaats	O
+tussen	O
+Nederlandse	B-loc
+en	O
+Duitse	B-loc
+bewindslieden	O
+.	O
+
+Deze	O
+wederzijdse	O
+bezoeken	O
+vinden	O
+plaats	O
+op	O
+alle	O
+politieke	O
+niveaus	O
+:	O
+staatshoofden	O
+,	O
+regeringsleiders	O
+,	O
+ministers	O
+van	O
+buitenlandse	O
+zaken	O
+,	O
+vakministers	O
+,	O
+parlementaire	O
+voorzitters	O
+,	O
+parlementaire	O
+vertegenwoordigingen	O
+.	O
+
+Ook	O
+vertegenwoordigers	O
+van	O
+Deelstaat-regeringen	B-misc
+,	O
+in	O
+het	O
+bijzonder	O
+van	O
+de	O
+buurlanden	O
+Noordrijn-Westfalen	B-loc
+en	O
+Nedersaksen	B-loc
+,	O
+zijn	O
+regelmatig	O
+gesprekspartner	O
+voor	O
+Nederlandse	B-loc
+bewindslieden	O
+.	O
+
+Zo	O
+was	O
+bijvoorbeeld	O
+de	O
+nieuwe	O
+premier	O
+van	O
+Noordrijn-Westfalen	B-loc
+,	O
+Jürgen	B-per
+Rüttgers	I-per
+,	O
+in	O
+de	O
+tweede	O
+week	O
+van	O
+zijn	O
+ambtstermijn	O
+al	O
+op	O
+bezoek	O
+in	O
+Nederland	B-loc
+.	O
+
+De	O
+(	O
+roulerend	O
+)	O
+voorzitter	O
+van	O
+de	O
+Bondsraad	B-org
+bezoekt	O
+in	O
+principe	O
+ieder	O
+jaar	O
+ons	O
+land	O
+.	O
+
+4.3	O
+OS-activiteiten	B-misc
+
+Niet	O
+van	O
+toepassing	O
+.	O
+
+4.4	O
+Activiteiten	O
+Nederlandse	B-loc
+ambassade	O
+en	O
+consulaten-generaal	O
+
+Traditioneel	O
+is	O
+de	O
+hoofdtaak	O
+van	O
+een	O
+Nederlandse	B-loc
+ambassade	O
+het	O
+verzorgen	O
+van	O
+politieke	O
+en	O
+economische	O
+rapportage	O
+en	O
+beleidssignalering	O
+naar	O
+Den	B-loc
+Haag	I-loc
+.	O
+
+Naast	O
+de	O
+hoofdlijnen	O
+voor	O
+de	O
+politieke	O
+en	O
+economische	O
+rapportage	O
+,	O
+zullen	O
+ook	O
+vreemdelingen-vraagstukken	O
+en	O
+interne	O
+veiligheid	O
+(	O
+criminaliteit	O
+)	O
+en	O
+Europese	B-loc
+ontwikkelingen	O
+veel	O
+aandacht	O
+vergen	O
+.	O
+
+Naast	O
+beleidssignalering	O
+naar	O
+Nederland	B-loc
+op	O
+financieel	O
+,	O
+economisch	O
+,	O
+fiscaal	O
+en	O
+sociaal	O
+terrein	O
+functioneert	O
+de	O
+Ambassade	B-loc
+ook	O
+als	O
+vraagbaak	O
+voor	O
+met	O
+name	O
+Nederlandse	B-loc
+,	O
+maar	O
+soms	O
+ook	O
+Duitse	B-loc
+overheids-	O
+en	O
+particuliere	O
+instanties	O
+en	O
+bedrijven	O
+.	O
+
+Sinds	O
+enige	O
+tijd	O
+beschikken	O
+de	O
+consulaten	O
+te	O
+Düsseldorf	B-loc
+,	O
+Hamburg	B-loc
+en	O
+München	B-loc
+over	O
+handelsmedewerkers	O
+,	O
+waardoor	O
+er	O
+extra	O
+aandacht	O
+besteed	O
+kan	O
+worden	O
+aan	O
+de	O
+behandeling	O
+van	O
+handelsaanvragen	O
+en	O
+de	O
+ontwikkeling	O
+en	O
+uitvoering	O
+van	O
+activiteiten	O
+op	O
+het	O
+handelsbevorderende	O
+vlak	O
+.	O
+
+Tevens	O
+wordt	O
+een	O
+intensivering	O
+van	O
+de	O
+Holland-promotie	B-misc
+ondernomen	O
+met	O
+onder	O
+andere	O
+voor	O
+breed	O
+publiek	O
+opgezette	O
+manifestaties	O
+,	O
+lezingen	O
+voor	O
+opinievormers	O
+en	O
+centrale	O
+beslissers	O
+.	O
+
+Duitsland	B-loc
+behoort	O
+tot	O
+de	O
+belangrijkste	O
+culturele	O
+partners	O
+.	O
+
+In	O
+het	O
+kader	O
+van	O
+de	O
+maatregelen	O
+voor	O
+de	O
+uitvoering	O
+van	O
+het	O
+internationaal	O
+cultuurbeleid	O
+(	O
+dat	O
+valt	O
+onder	O
+BZ	B-misc
+én	O
+OCenW	B-misc
+)	O
+behoort	O
+Berlijn	B-loc
+tot	O
+de	O
+13	O
+Nederlandse	B-loc
+vertegenwoordigingen	O
+met	O
+een	O
+versterkte	O
+culturele	O
+functie	O
+voor	O
+de	O
+intensivering	O
+van	O
+de	O
+culturele	O
+samenwerking	O
+en	O
+de	O
+versterking	O
+van	O
+het	O
+Nederlands	B-loc
+cultureel	O
+profiel	O
+,	O
+ondermeer	O
+door	O
+het	O
+uitdragen	O
+van	O
+de	O
+hedendaagse	O
+Nederlandse	B-loc
+cultuur	O
+en	O
+het	O
+bemiddelen	O
+tussen	O
+Nederlandse	B-loc
+en	O
+Duitse	B-loc
+instellingen	O
+.	O
+
+De	O
+bilaterale	O
+relatie	O
+tussen	O
+Nederland	B-loc
+en	O
+Duitsland	B-loc
+wordt	O
+verder	O
+geïntensiveerd	O
+door	O
+voortzetting	O
+van	O
+jongeren-	O
+en	O
+journalisten-uitwisselingsprogramma's	O
+,	O
+een	O
+jaarlijkse	O
+Nederlands-Duitse	B-eve
+Conferentie	I-eve
+,	O
+een	O
+jaarlijkse	O
+bilaterale	O
+deskundigen-conferentie	O
+over	O
+veiligheidsvraagstukken	O
+,	O
+en	O
+een	O
+Nederlands-Duitse	B-eve
+Ambassadeursconferentie	I-eve
+.	O
+
+De	O
+activiteiten	O
+van	O
+het	O
+Landbouw-bureau	B-org
+zijn	O
+voornamelijk	O
+geconcentreerd	O
+op	O
+beleidssignalering	O
+en	O
+ondersteuning	O
+van	O
+het	O
+agrarisch	O
+bedrijfsleven	O
+.	O
+
+Het	O
+Masterplan	B-misc
+Duitsland	I-misc
+zal	O
+bovendien	O
+de	O
+aandacht	O
+nader	O
+bepalen	O
+op	O
+de	O
+promotie	O
+van	O
+Nederlandse	B-loc
+agrarische	O
+producten	O
+op	O
+de	O
+Duitse	B-loc
+markt	O
+.	O
+
+Op	O
+het	O
+gebied	O
+van	O
+de	O
+Nederlands-Duitse	B-misc
+verkeerspolitieke	O
+samenwerking	O
+zal	O
+de	O
+aandacht	O
+worden	O
+besteed	O
+aan	O
+afstemming	O
+van	O
+mobiliteitsbeleid	O
+,	O
+fiscalisering	O
+van	O
+verkeer	O
+en	O
+vervoer	O
+,	O
+bevordering	O
+van	O
+gecombineerd	O
+vervoer	O
+,	O
+spoorwegsamenwerking	O
+,	O
+opzetten	O
+van	O
+verkeerstechnische	O
+projecten	O
+,	O
+afstemming	O
+luchthavenbeleid	O
+,	O
+stimulering	O
+van	O
+binnenvaart	O
+en	O
+milieubevorderende	O
+maatregelen	O
+.	O
+
+4.5	O
+EVD	B-org
+activiteiten	O
+
+De	O
+EVD	B-org
+,	O
+een	O
+agentschap	O
+van	O
+het	O
+Ministerie	B-org
+van	I-org
+Economische	I-org
+Zaken	I-org
+,	O
+biedt	O
+aan	O
+Nederlandse	B-loc
+bedrijven	O
+die	O
+zich	O
+op	O
+buitenlandse	O
+markten	O
+willen	O
+begeven	O
+,	O
+een	O
+scala	O
+aan	O
+instrumenten	O
+op	O
+zowel	O
+informatie-	O
+en	O
+voorlichtingsterrein	O
+als	O
+op	O
+het	O
+gebied	O
+van	O
+promotionele	O
+activiteiten	O
+.	O
+
+Nauwe	O
+samenwerking	O
+met	O
+zijn	O
+uitgebreide	O
+netwerk	O
+dat	O
+o.a.	O
+bestaat	O
+uit	O
+ambassades	O
+,	O
+consulaten	O
+en	O
+overige	O
+steunpunten	O
+in	O
+het	O
+buitenland	O
+,	O
+stelt	O
+de	O
+EVD	B-org
+in	O
+staat	O
+Nederlandse	B-loc
+bedrijven	O
+adequaat	O
+met	O
+actuele	O
+informatie	O
+over	O
+buitenlandse	O
+markten	O
+te	O
+ondersteunen	O
+.	O
+
+De	O
+beschikbare	O
+informatie	O
+heeft	O
+betrekking	O
+op	O
+o.m.	O
+de	O
+verschillende	O
+fasen	O
+van	O
+het	O
+zakendoen	O
+zoals	O
+voorbereiding	O
+,	O
+marktselectie	O
+en	O
+-	O
+bewerking	O
+en	O
+kansen	O
+op	O
+overheidsmarkten	O
+.	O
+
+De	O
+regio-informatiemanagers	O
+en	O
+het	O
+Export	B-org
+Informatiecentrum	I-org
+staan	O
+de	O
+ondernemer	O
+met	O
+raad	O
+en	O
+daad	O
+bij	O
+.	O
+
+Daarnaast	O
+biedt	O
+de	O
+EVD	B-org
+informatie	O
+aan	O
+via	O
+publicaties	O
+zoals	O
+landenoriëntaties	O
+,	O
+het	O
+vakblad	O
+Buitenlandse	B-pro
+Markten	I-pro
+,	O
+de	O
+website	O
+http://www.evd.nl/	O
+etc.	O
+
+Tevens	O
+is	O
+de	O
+EVD	B-org
+sinds	O
+1	O
+april	O
+2004	O
+gefuseerd	O
+met	O
+Senter	B-org
+Internationaal	I-org
+.	O
+
+Dit	O
+betekent	O
+dat	O
+de	O
+EVD	B-org
+zich	O
+nu	O
+ook	O
+bezig	O
+houdt	O
+met	O
+programma's	O
+met	O
+betrekking	O
+tot	O
+het	O
+verstrekken	O
+van	O
+subsidies	O
+.	O
+
+Het	O
+EVD-voorlichtingsprogramma	B-misc
+,	O
+dat	O
+uit	O
+spreekdagen	O
+en	O
+voorlichtingsbijeenkomsten	O
+bestaat	O
+,	O
+geeft	O
+de	O
+Nederlandse	B-loc
+ondernemer	O
+de	O
+mogelijkheid	O
+zich	O
+in	O
+eigen	O
+land	O
+op	O
+buitenlandse	O
+markten	O
+te	O
+oriënteren	O
+.	O
+
+Aan	O
+deze	O
+bijeenkomsten	O
+dragen	O
+de	O
+handelsafdelingen	O
+van	O
+Nederlandse	B-loc
+diplomatieke	O
+posten	O
+,	O
+handelssteunpunten	O
+en	O
+andere	O
+handelsbevorderende	O
+organisaties	O
+bij	O
+.	O
+
+Op	O
+promotioneel	O
+terrein	O
+brengt	O
+de	O
+EVD	B-org
+Nederlandse	B-loc
+bedrijven	O
+in	O
+contact	O
+met	O
+potentiële	O
+buitenlandse	O
+zakenrelaties	O
+,	O
+zgn.	O
+matchmaking	O
+,	O
+via	O
+inkomende	O
+of	O
+uitgaande	O
+handelsmissies	O
+.	O
+
+Deze	O
+activiteiten	O
+hebben	O
+een	O
+collectief	O
+karakter	O
+.	O
+
+Meer	O
+informatie	O
+over	O
+genoemde	O
+onderwerpen	O
+en	O
+contactpersonen	O
+bij	O
+de	O
+EVD	B-org
+is	O
+te	O
+vinden	O
+op	O
+de	O
+EVD-website	B-misc
+(	O
+http://www.evd.nl/	O
+)	O
+of	O
+via	O
+het	O
+Export	B-org
+Informatiecentrum	I-org
+(	O
+070	O
+-	O
+379	O
+88	O
+11	O
+)	O
+.	O
+
+Exportfinanciering	O
+
+Zie	O
+voor	O
+het	O
+meest	O
+recente	O
+NCM-landenbeleid	B-misc
+http://www.ncm.nl/	O
+
+Nederlandse	B-loc
+invoer	O
+uit	O
+Duitsland	B-loc
+(	O
+x	O
+1000.000	O
+,	O
+--	O
+euro	O
+)	O
+
+SITC-code	B-misc
+
+Omschrijving	O
+
+2000	O
+
+2001	O
+
+2002	O
+
+2003	O
+
+TOTAAL	O
+
+38484,6	O
+
+40253,0	O
+
+39923,1	O
+
+40819,2	O
+
+TOTAAL	O
+LANDBOUW	O
+
+4252,5	O
+
+4830,6	O
+
+4988,6	O
+
+5109,5	O
+
+TOTAAL	O
+INDUSTRIE	O
+
+34232,0	O
+
+35422,4	O
+
+34943,5	O
+
+35709,7	O
+
+0	O
+
+Voeding	O
+en	O
+levende	O
+dieren	O
+
+3612,1	O
+
+4088,8	O
+
+4177,3	O
+
+4297,2	O
+
+2	O
+
+Grondstoffen	O
+,	O
+niet	O
+eetbaar	O
+,	O
+excl.	O
+
+1200,6	O
+
+1135,4	O
+
+1208,5	O
+
+1205,8	O
+
+3	O
+
+Minerale	O
+brandstoffen	O
+,	O
+smeermiddelen	O
+
+1060,3	O
+
+1140,3	O
+
+1191,1	O
+
+1466,5	O
+
+5	O
+
+Chemische	O
+produkten	O
+
+5097,1	O
+
+4986,2	O
+
+5375,7	O
+
+5995,4	O
+
+6	O
+
+Fabrikaten	O
+,	O
+gerangschikt	O
+naar	O
+
+7223,1	O
+
+7268,2	O
+
+7037,6	O
+
+6881,2	O
+
+7	O
+
+Machines	O
+en	O
+vervoermaterieel	O
+
+13925,6	O
+
+14658,3	O
+
+13768,7	O
+
+13838,2	O
+
+8	O
+
+Diverse	O
+gefabriceerde	O
+goederen	O
+
+5648,5	O
+
+5982,4	O
+
+6220,4	O
+
+6289,7	O
+
+Nederlandse	B-loc
+uitvoer	O
+naar	O
+Duitsland	B-loc
+(	O
+x	O
+1000.000	O
+,	O
+--	O
+euro	O
+)	O
+
+SITC-code	B-misc
+
+Omschrijving	O
+
+2000	O
+
+2001	O
+
+2002	O
+
+2003	O
+
+TOTAAL	O
+
+59654,2	O
+
+61696,9	O
+
+56455,3	O
+
+56633,2	O
+
+TOTAAL	O
+LANDBOUW	O
+
+11627,4	O
+
+11801,4	O
+
+11359,3	O
+
+11552,5	O
+
+0	O
+
+Voeding	O
+en	O
+levende	O
+dieren	O
+
+8468,7	O
+
+8647,2	O
+
+8135,2	O
+
+8253,6	O
+
+01	O
+
+Vlees	O
+en	O
+vleesprodukten	O
+
+1287,1	O
+
+1310,6	O
+
+1137,2	O
+
+965,1	O
+
+012	O
+
+Ander	O
+vlees	O
+en	O
+slachtafv.	O
+
+,	O
+869,9	O
+
+968,1	O
+
+748,9	O
+
+584,8	O
+
+02	O
+
+Zuivelprodukten	O
+en	O
+eieren	O
+
+1748,0	O
+
+1676,8	O
+
+1501,2	O
+
+1612,8	O
+
+024	O
+
+Kaas	O
+en	O
+wrongel	O
+
+966,0	O
+
+892,9	O
+
+805,7	O
+
+830,1	O
+
+05	O
+
+Groenten	O
+en	O
+fruit	O
+
+2715,7	O
+
+2675,8	O
+
+2525,3	O
+
+2586,9	O
+
+054	O
+
+Groenten	O
+en	O
+wortels	O
+,	O
+vers	O
+,	O
+gekoeld	O
+,	O
+bevr.	O
+
+1416,6	O
+
+1371,2	O
+
+1374,3	O
+
+1385,8	O
+
+057	O
+
+Fruit	O
+;	O
+vers	O
+of	O
+gedroogd	O
+
+575,8	O
+
+578,2	O
+
+516,6	O
+
+574,8	O
+
+07	O
+
+Koffie	O
+,	O
+thee	O
+,	O
+cacao	O
+,	O
+spec.	O
+en	O
+fabr.	O
+
+571,5	O
+
+622,5	O
+
+620,5	O
+
+732,5	O
+
+08	O
+
+Veevoeder	O
+(	O
+m.u.v.	O
+niet	O
+gemalen	O
+granen	O
+)	O
+
+775,4	O
+
+781,3	O
+
+744,8	O
+
+705,1	O
+
+081	O
+
+Veevoeder	O
+(	O
+m.u.v.	O
+niet	O
+gemalen	O
+granen	O
+)	O
+
+775,4	O
+
+781,3	O
+
+744,8	O
+
+705,1	O
+
+29	O
+
+Andere	O
+ruwe	O
+dierl.	O
+en	O
+plant.	O
+Produkten	O
+
+2417,4	O
+
+2325,0	O
+
+2268,8	O
+
+2358,8	O
+
+292	O
+
+Ruwe	O
+plantaardige	O
+produkten	O
+n.a.g.	O
+
+2354,9	O
+
+2276,7	O
+
+2216,9	O
+
+2314,7	O
+
+TOTAAL	O
+INDUSTRIE	O
+
+48026,9	O
+
+49895,5	O
+
+45106,2	O
+
+45080,7	O
+
+3	O
+
+Minerale	O
+brandstoffen	O
+,	O
+smeermiddelen	O
+
+9815,1	O
+
+10691,4	O
+
+7809,1	O
+
+8151,0	O
+
+33	O
+
+Ruwe	O
+aardolie	O
+en	O
+aardolieprodukten	O
+
+7116,7	O
+
+6823,6	O
+
+4670,8	O
+
+4916,6	O
+
+334	O
+
+Geraffineerde	O
+produkten	O
+van	O
+aardolie	O
+
+6787,3	O
+
+6479,5	O
+
+4381,3	O
+
+4645,7	O
+
+34	O
+
+Aardgas	O
+en	O
+industriegas	O
+
+2380,3	O
+
+3208,7	O
+
+2789,4	O
+
+2867,7	O
+
+343	O
+
+Aardgas	O
+
+2244,5	O
+
+3092,0	O
+
+2690,2	O
+
+2708,9	O
+
+5	O
+
+Chemische	O
+produkten	O
+
+7571,8	O
+
+7291,0	O
+
+7384,1	O
+
+7478,1	O
+
+51	O
+
+Organische	O
+chemische	O
+produkten	O
+
+2104,4	O
+
+1978,7	O
+
+1881,4	O
+
+1932,2	O
+
+511	O
+
+Koolwaterstoffen	O
+n.a.g.	O
+
+515,4	O
+
+500,5	O
+
+566,0	O
+
+524,8	O
+
+54	O
+
+Medicinale	O
+,	O
+farmaceutische	O
+produkten	O
+
+731,0	O
+
+828,6	O
+
+957,9	O
+
+850,3	O
+
+542	O
+
+Geneesmiddelen	O
+(	O
+incl.	O
+veterinaire	O
+
+529,5	O
+
+566,5	O
+
+640,4	O
+
+586,8	O
+
+57	O
+
+Kunststof	O
+in	O
+primaire	O
+vormen	O
+
+1846,9	O
+
+1730,3	O
+
+1696,9	O
+
+1790,4	O
+
+575	O
+
+Ander	O
+kunststof	O
+,	O
+in	O
+primaire	O
+vormen	O
+
+741,1	O
+
+685,5	O
+
+664,1	O
+
+639,4	O
+
+59	O
+
+Andere	O
+chemische	O
+produkten	O
+n.a.g.	O
+
+746,6	O
+
+760,7	O
+
+773,0	O
+
+803,4	O
+
+6	O
+
+Fabrikaten	O
+,	O
+gerangschikt	O
+naar	O
+
+6812,0	O
+
+6676,8	O
+
+6243,2	O
+
+6270,4	O
+
+64	O
+
+Papier	O
+,	O
+karton	O
+en	O
+artikelen	O
+daarvan	O
+
+1018,7	O
+
+1022,5	O
+
+960,1	O
+
+963,8	O
+
+641	O
+
+Papier	O
+en	O
+karton	O
+
+654,2	O
+
+648,7	O
+
+641,8	O
+
+628,4	O
+
+65	O
+
+Garens	O
+,	O
+weefsels	O
+e.d.	O
+
+1026,2	O
+
+983,1	O
+
+916,0	O
+
+934,9	O
+
+66	O
+
+Fabr.	O
+van	O
+niet-metaalhoudende	O
+
+607,1	O
+
+539,5	O
+
+473,4	O
+
+478,3	O
+
+67	O
+
+Ijzer	O
+en	O
+staal	O
+
+1183,3	O
+
+1170,7	O
+
+1215,1	O
+
+1313,5	O
+
+68	O
+
+Non-ferrometalen	O
+
+1105,0	O
+
+1211,1	O
+
+1114,5	O
+
+1021,6	O
+
+684	O
+
+Aluminium	O
+en	O
+aluminiumlegeringen	O
+(	O
+ruw	O
+)	O
+
+749,6	O
+
+917,1	O
+
+831,3	O
+
+692,0	O
+
+69	O
+
+Metaalwaren	O
+,	O
+n.a.g.	O
+
+1306,0	O
+
+1218,5	O
+
+1072,9	O
+
+1059,2	O
+
+7	O
+
+Machines	O
+en	O
+vervoermaterieel	O
+
+16272,6	O
+
+17442,6	O
+
+16593,0	O
+
+15843,0	O
+
+72	O
+
+Gespecialiseerde	O
+machines	O
+
+713,9	O
+
+666,4	O
+
+708,7	O
+
+770,9	O
+
+74	O
+
+Diverse	O
+machines	O
+,	O
+n.a.g.	O
+
+1165,8	O
+
+1262,3	O
+
+1248,6	O
+
+1308,5	O
+
+75	O
+
+Kantoor-	O
+en	O
+autom.	O
+geg.verwerkende	O
+
+5928,1	O
+
+6490,5	O
+
+5620,0	O
+
+5156,7	O
+
+752	O
+
+Automatische	O
+gegevens	O
+verwerkende	O
+
+4179,3	O
+
+4436,0	O
+
+3722,5	O
+
+3328,4	O
+
+759	O
+
+Onderdelen	O
+en	O
+toebehoren	O
+voor	O
+machines	O
+
+1586,1	O
+
+1873,2	O
+
+1738,8	O
+
+1633,1	O
+
+76	O
+
+Toestellen	O
+voor	O
+telecommunicatie	O
+
+1515,2	O
+
+1725,0	O
+
+1105,3	O
+
+913,3	O
+
+764	O
+
+Toest.	O
+,	O
+onderdelen	O
+voor	O
+
+1094,3	O
+
+1271,6	O
+
+738,9	O
+
+566,7	O
+
+77	O
+
+Elektrische	O
+apparaten	O
+,	O
+n.a.g.	O
+
+3555,8	O
+
+3866,9	O
+
+4471,2	O
+
+4562,6	O
+
+776	O
+
+Elektronenbuizen	O
+,	O
+transistors	O
+e.d.	O
+
+2054,3	O
+
+2278,9	O
+
+3000,2	O
+
+3040,0	O
+
+78	O
+
+Voertuigen	O
+voor	O
+wegvervoer	O
+
+2692,0	O
+
+2684,4	O
+
+2872,5	O
+
+2519,0	O
+
+781	O
+
+Automobielen	O
+voor	O
+personenvervoer	O
+
+1228,1	O
+
+1236,9	O
+
+1457,9	O
+
+1002,9	O
+
+784	O
+
+Delen	O
+en	O
+onderdelen	O
+voor	O
+automobielen	O
+
+493,9	O
+
+532,2	O
+
+629,1	O
+
+646,2	O
+
+8	O
+
+Diverse	O
+gefabriceerde	O
+goederen	O
+
+5906,4	O
+
+6198,5	O
+
+5546,0	O
+
+5747,6	O
+
+84	O
+
+Kleding	O
+en	O
+toebehoren	O
+
+1235,7	O
+
+1199,4	O
+
+1117,1	O
+
+1213,8	O
+
+87	O
+
+Instr.	O
+en	O
+app.	O
+voor	O
+beroepsuitoefening	O
+
+845,2	O
+
+834,8	O
+
+872,2	O
+
+816,6	O
+
+89	O
+
+Diverse	O
+fabrikaten	O
+,	O
+n.a.g.	O
+
+2207,2	O
+
+2408,6	O
+
+2064,2	O
+
+2324,6	O
+
+893	O
+
+Artikelen	O
+van	O
+kunststof	O
+,	O
+n.a.g.	O
+
+575,1	O
+
+571,0	O
+
+559,6	O
+
+582,0	O
+
+898	O
+
+Muziekinstr	O
+,	O
+delen	O
+;	O
+(magneet)banden	O
+
+584,7	O
+
+673,5	O
+
+660,7	O
+
+682,7	O
+
+4.6	O
+Verdragen	O
+met	O
+Nederland	B-loc
+
+Aantal	O
+en	O
+soort	O
+verdragen	O
+is	O
+,	O
+mede	O
+gezien	O
+de	O
+buurlandstatus	O
+alsmede	O
+de	O
+regelingen	O
+inzake	O
+naoorlogse	O
+aangelegenheden	O
+,	O
+teveel	O
+om	O
+hier	O
+adequaat	O
+te	O
+vermelden	O
+.	O
+
+Het	O
+betreft	O
+o.m.	O
+verdragen	O
+op	O
+het	O
+gebied	O
+van	O
+belastingen	O
+,	O
+rechtsvordering	O
+,	O
+arbitrage	O
+en	O
+verzoening	O
+,	O
+oorlogsgraven	O
+,	O
+sociale	O
+verzekering	O
+,	O
+belastingverdragen	O
+,	O
+grensverdragen	O
+,	O
+culturele	O
+en	O
+onderwijsovereenkomsten	O
+,	O
+luchtvaartovereenkomsten	O
+,	O
+bijstandsverlening	O
+bij	O
+rampen	O
+e.d.	O
+
+In	O
+maart	O
+2005	O
+werd	O
+het	O
+verdrag	O
+inzake	O
+grensoverschrijdende	O
+politiesamenwerking	O
+en	O
+versterkte	O
+samenwerking	O
+in	O
+strafzaken	O
+getekend	O
+.	O
+
+Daarnaast	O
+werd	O
+in	O
+mei	O
+samen	O
+met	O
+enkele	O
+andere	O
+Schengen-landen	B-org
+het	O
+verdrag	O
+van	O
+Prüm	O
+,	O
+ook	O
+wel	O
+Schengen	O
+III	O
+genoemd	O
+,	O
+gesloten	O
+.	O
+
+Beide	O
+verdragen	O
+zullen	O
+de	O
+politiesamenwerking	O
+en	O
+coöperatie	O
+op	O
+het	O
+gebied	O
+van	O
+rechtshandhaving	O
+versterken	O
+.	O
+
+4.7	O
+Kamervragen	O
+(	O
+vanaf	O
+juni	O
+2002	O
+)	O
+
+-	O
+Vragen	O
+van	O
+de	O
+leden	O
+Hofstra	B-per
+,	O
+Wilders	B-per
+en	O
+Veenendaal	B-per
+(	O
+allen	O
+VVD	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+VROM	O
+en	O
+de	O
+minister	O
+van	O
+Buitenlandse	O
+Zaken	O
+over	O
+de	O
+bouw	O
+van	O
+de	O
+Nederlandse	B-loc
+ambassade	O
+in	O
+Berlijn	B-loc
+ingezonden	O
+15	O
+maart	O
+2004	O
+(	O
+nr.	O
+2030410350	O
+)	O
+.	O
+
+-	O
+Vragen	O
+van	O
+de	O
+leden	O
+Crone	B-per
+en	O
+Timmermans	B-per
+(	O
+beiden	O
+PvdA	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Financiën	O
+en	O
+de	O
+minister	O
+van	O
+Buitenlandse	O
+Zaken	O
+over	O
+het	O
+Stabiliteitspact	O
+ingezonden	O
+op	O
+14	O
+januari	O
+2004	O
+(	O
+nr.	O
+2030406140	O
+)	O
+.	O
+
+-	O
+Vragen	O
+van	O
+het	O
+Eerste	O
+Kamerlid	O
+van	B-per
+der	I-per
+Linden	I-per
+(	O
+CDA	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Buitenlandse	O
+Zaken	O
+over	O
+de	O
+bijzondere	O
+positie	O
+van	O
+Duitsland	B-loc
+inzake	O
+het	O
+vrij	O
+verkeer	O
+van	O
+werknemers	O
+bij	O
+de	O
+uitbreiding	O
+van	O
+de	O
+EU	B-org
+ingezonden	O
+22	O
+december	O
+2003	O
+(	O
+wetsvoorstelnr.	O
+280972	O
+)	O
+.	O
+
+-	O
+Vragen	O
+van	O
+het	O
+lid	O
+Duyvendak	B-per
+(	O
+GroenLinks	B-org
+)	O
+aan	O
+de	O
+staatssecretaris	O
+van	O
+Verkeer	O
+en	O
+Waterstaat	O
+over	O
+de	O
+vergroting	O
+van	O
+de	O
+geluidszone	O
+Maastricht-Aachen	B-misc
+Airport	I-misc
+ingezonden	O
+25	O
+september	O
+2003	O
+(	O
+nr.	O
+2030400470	O
+)	O
+
+-	O
+Vragen	O
+van	O
+het	O
+lid	O
+Kraneveldt	B-per
+(	O
+LPF	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Onderwijs	O
+Cultuur	O
+en	O
+Wetenschappen	O
+over	O
+de	O
+sluiting	O
+van	O
+vliegbasis	O
+Seedorf	B-loc
+in	O
+Duitsland	B-loc
+en	O
+de	O
+gevolgen	O
+daarvan	O
+voor	O
+de	O
+Nederlandse	B-loc
+scholengemeenschap	O
+te	O
+Zeven	B-loc
+in	O
+Duitsland	B-loc
+ingezonden	O
+5	O
+augustus	O
+2003	O
+(	O
+nr.	O
+1774	O
+)	O
+
+-	O
+Vragen	O
+van	O
+het	O
+lid	O
+Griffith	B-per
+(	O
+VVD	B-org
+)	O
+aan	O
+de	O
+ministers	O
+van	O
+Justitie	O
+en	O
+van	O
+Volksgezondheid	O
+,	O
+Welzijn	O
+en	O
+Sport	O
+over	O
+Duitse	B-loc
+klachten	O
+inzake	O
+drugsbeleid	O
+ingezonden	O
+10	O
+juni	O
+2003	O
+(	O
+nr.	O
+1623	O
+)	O
+
+-	O
+Vragen	O
+van	O
+het	O
+lid	O
+Van	B-per
+Bommel	I-per
+(	O
+SP	B-org
+)	O
+aan	O
+de	O
+ministers	O
+van	O
+Defensie	O
+en	O
+van	O
+Buitenlandse	O
+Zaken	O
+over	O
+aanslag	O
+op	O
+Duitse	B-loc
+leden	O
+van	O
+ISAF	B-org
+ingezonden	O
+12	O
+juni	O
+2003	O
+(	O
+nr.	O
+1571	O
+)	O
+
+-	O
+Vragen	O
+van	O
+de	O
+leden	O
+Eurlings	B-per
+en	O
+Van	B-per
+Winsen	I-per
+(	O
+beiden	O
+CDA	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Defensie	O
+over	O
+mogelijke	O
+spanningen	O
+binnen	O
+ISAF	B-org
+ingezonden	O
+1	O
+mei	O
+2003	O
+(	O
+nr.	O
+1362	O
+)	O
+
+-	O
+Vragen	O
+van	O
+de	O
+leden	O
+Van	B-per
+Dam	I-per
+(	O
+PvdA	B-org
+)	O
+en	O
+Vendrix	B-per
+(	O
+GroenLinks	B-org
+)	O
+aan	O
+de	O
+ministers	O
+van	O
+Financiën	O
+en	O
+Economische	O
+Zaken	O
+over	O
+de	O
+mogelijke	O
+overname	O
+van	O
+O2	B-org
+Duitsland	I-org
+door	O
+KPN	B-org
+ingezonden	O
+4	O
+april	O
+2003	O
+(	O
+nr.	O
+1274	O
+)	O
+
+-	O
+Vragen	O
+van	O
+het	O
+lid	O
+Oplaat	B-per
+(	O
+VVD	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Verkeer	O
+en	O
+Waterstaat	O
+over	O
+de	O
+gevolgen	O
+van	O
+de	O
+invoering	O
+van	O
+de	O
+LKW	B-misc
+Maut	I-misc
+in	O
+Duitsland	B-loc
+voor	O
+de	O
+drukte	O
+op	O
+de	O
+snelwegen	O
+in	O
+Nederland	B-loc
+ingezonden	O
+23	O
+april	O
+2003	O
+(	O
+nr.	O
+1217	O
+)	O
+
+-	O
+Vragen	O
+van	O
+de	O
+leden	O
+Dittrich	B-per
+(	O
+D'66	B-org
+)	O
+en	O
+Wolfsen	B-per
+(	O
+PvdA	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Justitie	O
+over	O
+de	O
+uitlevering	O
+van	O
+oorlogsmisdadiger	O
+Hoogendam	B-per
+ingezonden	O
+5	O
+maart	O
+2003	O
+(	O
+nr.	O
+1048	O
+)	O
+
+-	O
+Vragen	O
+van	O
+het	O
+lid	O
+Karimi	B-per
+(	O
+GroenLinks	B-org
+)	O
+aan	O
+de	O
+ministers	O
+van	O
+Defensie	O
+en	O
+van	O
+Buitenlandse	O
+Zaken	O
+over	O
+Duitsland	B-loc
+,	O
+de	O
+ISAF	B-org
+en	O
+Irak	B-loc
+ingezonden	O
+25	O
+februari	O
+2003	O
+(	O
+nr.	O
+845	O
+)	O
+
+-	O
+Vragen	O
+van	O
+het	O
+lid	O
+Hofstra	B-per
+(	O
+VVD	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Verkeer	O
+en	O
+Waterstaat	O
+over	O
+de	O
+spoorlijn	O
+Groningen-Leer-Oldenburg	B-misc
+ingezonden	O
+21	O
+januari	O
+2003	O
+(	O
+nr.	O
+819	O
+)	O
+
+-	O
+Vragen	O
+van	O
+het	O
+lid	O
+Duyvendak	B-per
+(	O
+GroenLinks	B-org
+)	O
+aan	O
+de	O
+staatssecretaris	O
+van	O
+Verkeer	O
+en	O
+Waterstat	O
+over	O
+de	O
+baanverlenging	O
+van	O
+Maastricht-Aachen	B-misc
+Airport	I-misc
+ingezonden	O
+21	O
+januari	O
+2003	O
+(	O
+nr.	O
+759	O
+)	O
+
+-	O
+Vragen	O
+van	O
+het	O
+lid	O
+Gerkens	B-per
+(	O
+SP	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Verkeer	O
+en	O
+Waterstaat	O
+over	O
+internationale	O
+spoorlijnen	O
+ingezonden	O
+7	O
+januari	O
+2003	O
+(	O
+nr.	O
+758	O
+)	O
+
+-	O
+Vragen	O
+van	O
+de	O
+leden	O
+Timmermans	B-per
+en	O
+Dijksma	B-per
+(	O
+beiden	O
+PvdA	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Verkeer	O
+en	O
+Waterstaat	O
+over	O
+vliegveld	O
+Laarbruch/Niederrhein	B-loc
+ingezonden	O
+7	O
+januari	O
+2003	O
+(	O
+nr.	O
+720	O
+)	O
+
+-	O
+Vragen	O
+van	O
+de	O
+leden	O
+Dijksma	B-per
+en	O
+Rehwinkel	B-per
+(	O
+beiden	O
+PvdA	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Verker	O
+en	O
+Waterstaat	O
+over	O
+de	O
+spoorweg	O
+Groningen-Leer	B-misc
+(	O
+D	O
+)	O
+ingezonden	O
+23	O
+oktober	O
+2002	O
+(	O
+nr.	O
+528	O
+)	O
+
+-	O
+Vragen	O
+van	O
+de	O
+leden	O
+De	B-per
+Wit	I-per
+(	O
+SP	B-org
+)	O
+en	O
+Timmermans	B-per
+(	O
+PvdA	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Volkshuisvesting	O
+Ruimtelijke	O
+ordening	O
+en	O
+Milieubeheer	O
+en	O
+aan	O
+de	O
+staatssecretaris	O
+van	O
+Defensie	O
+over	O
+de	O
+overlast	O
+van	O
+de	O
+vliegbasis	O
+Geilenkirchen	B-loc
+en	O
+de	O
+bomenkap	O
+in	O
+de	O
+gemeente	O
+Onderbanken	B-loc
+ingezonden	O
+14	O
+november	O
+2002	O
+(	O
+nr.	O
+487	O
+)	O
+
+-	O
+Vragen	O
+van	O
+het	O
+lid	O
+Geluk	B-per
+(	O
+VVD	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Landbouw	O
+,	O
+Natuurbeheer	O
+en	O
+Visserij	O
+over	O
+de	O
+verhoging	O
+van	O
+de	O
+BTW	B-misc
+op	O
+sierteeltproducten	O
+in	O
+Duitsland	B-loc
+ingezonden	O
+2	O
+november	O
+2002	O
+(	O
+nr.	O
+406	O
+)	O
+
+-	O
+Vragen	O
+van	O
+de	O
+leden	O
+Verbugt	B-per
+en	O
+Oplaat	B-per
+(	O
+beiden	O
+CDA	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Verkeer	O
+en	O
+Waterstaat	O
+over	O
+de	O
+besluitvorming	O
+A74	O
+Venlo-Duitsland	B-misc
+ingezonden	O
+6	O
+september	O
+2002	O
+(	O
+nr.	O
+72	O
+)	O
+
+-	O
+Vragen	O
+van	O
+het	O
+lid	O
+Crone	B-per
+(	O
+PvdA	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Financiën	O
+over	O
+het	O
+eerder	O
+slijten	O
+van	O
+de	O
+eurobiljeten	O
+dan	O
+de	O
+oude	O
+D-markbiljetten	O
+in	O
+Duitsland	B-loc
+ingezonden	O
+20	O
+augustus	O
+2002	O
+(	O
+nr.	O
+1660	O
+)	O
+
+-	O
+Vragen	O
+van	O
+het	O
+lid	O
+Van	B-per
+Bommel	I-per
+(	O
+SP	B-org
+)	O
+aan	O
+de	O
+ministers	O
+van	O
+Buitenlandse	O
+Zaken	O
+en	O
+van	O
+Defensie	O
+over	O
+de	O
+KSK	B-org
+,	O
+ISAF	B-org
+en	O
+Afganistan	B-loc
+ingezonden	O
+21	O
+augustus	O
+2002	O
+(	O
+nr.	O
+1617	O
+)	O
+
+-	O
+Vragen	O
+van	O
+het	O
+lid	O
+Koenders	B-per
+(	O
+PvdA	B-org
+)	O
+aan	O
+de	O
+ministers	O
+van	O
+Buitenlandse	O
+Zaken	O
+en	O
+van	O
+Defensie	O
+over	O
+het	O
+terugsturen	O
+van	O
+twee	O
+militairen	O
+uit	O
+Kaboel	B-loc
+ingezonden	O
+29	O
+juli	O
+2002	O
+(	O
+nr	O
+1611	O
+)	O
+
+-	O
+Vragen	O
+van	O
+het	O
+lid	O
+Gerkens	B-per
+(	O
+SP	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Binnenlandse	O
+Zaken	O
+en	O
+Koninkrijksrelaties	O
+en	O
+van	O
+Verkeer	O
+en	O
+Waterstaat	O
+over	O
+de	O
+Euregiobaan	B-loc
+tussen	O
+Aachen	B-loc
+en	O
+Heerlen	B-loc
+ingezonden	O
+5	O
+juni	O
+2002	O
+(	O
+nr.	O
+1518	O
+)	O
+
+-	O
+Vragen	O
+van	O
+de	O
+leden	O
+Schreijer-Pierik	B-per
+(	O
+CDA	B-org
+)	O
+en	O
+Koopmans	B-per
+(	O
+VVD	B-org
+)	O
+aan	O
+de	O
+minister	O
+van	O
+Volkshuisvesting	O
+Ruimtelijke	O
+Ordening	O
+en	O
+Milieubeheer	O
+over	O
+de	O
+toegenomen	O
+export	O
+van	O
+afval	O
+naar	O
+Duitsland	B-loc
+ingezonden	O
+9	O
+juli	O
+2002	O
+(	O
+nr.	O
+1486	O
+)	O
+

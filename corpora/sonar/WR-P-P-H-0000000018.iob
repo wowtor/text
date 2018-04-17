@@ -1,0 +1,53 @@
+MAGNY-COURS	B-loc
+-	O
+Michael	B-per
+Schumacher	I-per
+heeft	O
+zijn	O
+leidende	O
+positie	O
+in	O
+de	O
+strijd	O
+om	O
+de	O
+wereldtitel	O
+in	O
+de	O
+Formule	B-misc
+1	I-misc
+verstevigd	O
+.	O
+
+De	O
+Duitser	B-loc
+zegevierde	O
+in	O
+de	O
+Grote	B-eve
+Prijs	I-eve
+van	I-eve
+Frankrijk	I-eve
+.	O
+
+Hij	O
+verwees	O
+zijn	O
+broer	O
+Ralf	B-per
+en	O
+Rubens	B-per
+Barrichello	I-per
+naar	O
+de	O
+andere	O
+twee	O
+podiumplaatsen	O
+.	O
+
+Jos	B-per
+Verstappen	I-per
+werd	O
+dertiende	O
+.	O
+

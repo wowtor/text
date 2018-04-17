@@ -1,0 +1,444 @@
+Limburg	B-loc
+(	O
+Belgische	B-loc
+provincie	O
+)	O
+
+De	O
+provincie	O
+Limburg	B-loc
+is	O
+een	O
+van	O
+de	O
+vijf	O
+provincies	O
+van	O
+Vlaanderen	B-loc
+en	O
+een	O
+van	O
+de	O
+tien	O
+in	O
+België	B-loc
+.	O
+
+De	O
+huidige	O
+provincie	O
+komt	O
+min	O
+of	O
+meer	O
+overeen	O
+met	O
+het	O
+oude	O
+Graafschap	B-loc
+Loon	I-loc
+,	O
+dat	O
+in	O
+de	O
+11e	O
+eeuw	O
+voor	O
+het	O
+eerst	O
+wordt	O
+genoemd	O
+en	O
+een	O
+leengebied	O
+was	O
+van	O
+het	O
+Prinsbisdom	B-loc
+Luik	I-loc
+.	O
+
+In	O
+1794	O
+werd	O
+het	O
+graafschap	O
+veroverd	O
+door	O
+de	O
+Fransen	B-loc
+en	O
+vervolgens	O
+viel	O
+het	O
+tot	O
+1814	O
+bestuurlijk	O
+onder	O
+het	O
+departement	O
+van	O
+de	O
+Nedermaas	B-loc
+.	O
+
+Na	O
+het	O
+Congres	B-eve
+van	I-eve
+Wenen	I-eve
+in	O
+1815	O
+ontstond	O
+een	O
+nieuwe	O
+staat	O
+,	O
+het	O
+Verenigd	B-loc
+Koninkrijk	I-loc
+der	I-loc
+Nederlanden	I-loc
+,	O
+waarin	O
+de	O
+huidige	O
+Vlaamse	B-loc
+en	O
+Nederlandse	B-loc
+provincie	O
+Limburg	B-loc
+een	O
+eenheid	O
+gingen	O
+vormen	O
+.	O
+
+De	O
+nieuwe	O
+provincie	O
+kreeg	O
+van	O
+Koning	O
+Willem	B-per
+I	I-per
+de	O
+naam	O
+Limburg	B-loc
+,	O
+naar	O
+het	O
+oude	O
+Hertogdom	B-loc
+Limburg	I-loc
+.	O
+
+Toen	O
+België	B-loc
+zich	O
+in	O
+1830	O
+afscheidde	O
+,	O
+kwam	O
+heel	O
+Limburg	B-loc
+(	O
+met	O
+uitzondering	O
+van	O
+Maastricht	B-loc
+)	O
+onder	O
+Belgisch	B-loc
+bestuur	O
+.	O
+
+Als	O
+gevolg	O
+van	O
+het	O
+scheidingsverdrag	O
+tussen	O
+Nederland	B-loc
+en	O
+België	B-loc
+werden	O
+in	O
+1839	O
+beide	O
+Limburgen	B-loc
+officieel	O
+gescheiden	O
+en	O
+ging	O
+het	O
+oostelijk	O
+deel	O
+terug	O
+naar	O
+Nederland	B-loc
+.	O
+
+Geografie	O
+,	O
+demografie	O
+en	O
+taal	O
+
+Provinciehoofdplaats	O
+:	O
+Hasselt	B-loc
+
+Oppervlakte	O
+:	O
+2422	O
+km²	O
+
+Hoogste	O
+punt	O
+:	O
+Remersdaal	B-loc
+,	O
+287,5	O
+m	O
+(	O
+hoogste	O
+punt	O
+van	O
+Vlaanderen	B-loc
+)	O
+,	O
+gevolgd	O
+door	O
+de	O
+"	O
+Galgenboom	B-loc
+"	O
+van	O
+Millen	B-loc
+(	O
+Riemst	B-loc
+)	O
+op	O
+151	O
+m.	O
+
+Belangrijkste	O
+waterlopen	O
+:	O
+Maas	B-loc
+,	O
+Demer	B-loc
+,	O
+Jeker	B-loc
+,	O
+Dommel	B-loc
+
+Aantal	O
+inwoners	O
+:	O
+814.641	O
+(	O
+op	O
+1	O
+januari	O
+2006	O
+)	O
+
+3	O
+bestuurlijke	O
+arrondissementen	O
+:	O
+Hasselt	B-loc
+,	O
+Maaseik	B-loc
+,	O
+Tongeren	B-loc
+
+Streektaal	O
+:	O
+Limburgs	B-pro
+
+Arrondissementen	O
+
+Gemeenten	O
+
+Gemeenten	O
+met	O
+een	O
+stadstitel	O
+hebben	O
+een	O
+«	O
+(	O
+stad	O
+)	O
+»	O
+achter	O
+de	O
+naam	O
+
+Geschiedenis	O
+
+Zie	O
+Graafschap	B-loc
+Loon	I-loc
+,	O
+Hertogdom	B-loc
+Limburg	I-loc
+,	O
+Prinsbisdom	B-loc
+Luik	I-loc
+en	O
+Limburg	B-loc
+(	O
+Verenigd	B-loc
+Koninkrijk	I-loc
+der	I-loc
+Nederlanden	I-loc
+)	O
+
+Gouverneurs	O
+
+Bestuur	O
+
+De	O
+provincieraad	O
+van	O
+Limburg	B-loc
+telt	O
+75	O
+zetels	O
+.	O
+
+De	O
+zetelverdeling	O
+is	O
+als	O
+volgt	O
+:	O
+
+CD&V-N-VA	B-org
+:	O
+26	O
+
+SP.A-SPIRIT	B-org
+:	O
+20	O
+
+Vlaams	B-org
+Belang	I-org
+:	O
+15	O
+
+VLD-Vivant	B-org
+:	O
+14	O
+
+Het	O
+dagelijks	O
+bestuur	O
+is	O
+in	O
+handen	O
+van	O
+de	O
+bestendige	O
+deputatie	O
+.	O
+
+Die	O
+telt	O
+6	O
+leden	O
+en	O
+wordt	O
+voorgezeten	O
+door	O
+gouverneur	O
+Steve	B-per
+Stevaert	I-per
+.	O
+
+De	O
+uitslagen	O
+van	O
+de	O
+provincieraadsverkiezingen	O
+sinds	O
+1994	O
+
+Toerisme	O
+
+Abdij	B-loc
+van	I-loc
+Herkenrode	I-loc
+
+Alden	B-loc
+Biesen	I-loc
+
+Bokrijk	B-loc
+
+Domein	B-loc
+Bovy	I-loc
+
+In	O
+Limburg	B-loc
+vind	O
+je	O
+1800	O
+km	O
+bewegwijzerde	O
+fietsroutes	O
+(	O
+gegevens	O
+2004	O
+)	O
+.	O
+
+Hasselt	B-loc
+
+Kasteel	B-loc
+van	I-loc
+Heks	I-loc
+
+Kasteel	B-loc
+van	I-loc
+Rullingen	I-loc
+
+Nationaal	B-org
+Jenevermuseum	I-org
+Hasselt	B-loc
+
+Tongeren	B-loc
+,	O
+met	O
+o.m.	O
+Gallo-Romeins	B-org
+Museum	I-org
+
+Voeren	B-loc
+
+Zie	O
+ook	O
+
+Er	O
+is	O
+ook	O
+een	O
+«	O
+Nederlandse	B-loc
+»	O
+provincie	O
+Limburg	B-loc
+.	O
+
+Externe	O
+links	O
+
+Officiële	O
+website	O
+provincie	O
+Limburg	B-loc
+

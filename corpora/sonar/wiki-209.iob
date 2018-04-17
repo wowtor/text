@@ -1,0 +1,45 @@
+België	B-loc
+-	O
+
+Overheid	O
+en	O
+Politiek	O
+
+Begrippen	O
+
+Arbitragehof	B-org
+
+Arrondissementscommissaris	B-org
+
+Bestendige	B-org
+deputatie	I-org
+
+Krijgsmacht	B-org
+
+Constitutionele	O
+en	O
+parlementaire	O
+monarchie	O
+
+Kamer	B-org
+van	I-org
+volksvertegenwoordigers	I-org
+
+Minister	O
+van	O
+Staat	B-misc
+
+Provinciale	O
+senatoren	O
+
+Raad	B-org
+van	I-org
+State	I-org
+
+Schepenen	O
+
+Lijst	O
+van	O
+Belgische	B-loc
+koningen	O
+

@@ -1,0 +1,376 @@
+Bel20	B-misc
+
+De	O
+Bel20	B-misc
+is	O
+de	O
+leidende	O
+index	O
+voor	O
+Euronext	B-misc
+Brussel	I-misc
+.	O
+
+Hij	O
+bestaat	O
+uit	O
+maximaal	O
+20	O
+aandelen	O
+,	O
+(	O
+momenteel	O
+nog	O
+19	O
+na	O
+de	O
+fusie	O
+van	O
+Almanij	B-org
+en	O
+KBC	B-org
+)	O
+,	O
+die	O
+gekozen	O
+worden	O
+door	O
+de	O
+marktautoriteiten	O
+van	O
+Euronext	B-misc
+,	O
+op	O
+basis	O
+van	O
+een	O
+aantal	O
+criteria	O
+.	O
+
+Eerst	O
+en	O
+vooral	O
+dienen	O
+ze	O
+een	O
+voldoende	O
+hoge	O
+marktkapitalisatie	O
+te	O
+bezitten	O
+.	O
+
+Daarna	O
+worden	O
+de	O
+aandelen	O
+gerangschikt	O
+volgens	O
+hun	O
+vrije	O
+marktkapitalisatie	O
+.	O
+
+De	O
+Bel20	B-misc
+is	O
+opgericht	O
+op	O
+18	O
+maart	O
+1991	O
+.	O
+
+Vervolgens	O
+worden	O
+naast	O
+de	O
+marktkapitalisatie	O
+ook	O
+nog	O
+andere	O
+criteria	O
+zoals	O
+de	O
+liquiditeit	O
+en	O
+de	O
+verhandelbaarheid	O
+in	O
+aanmerking	O
+genomen	O
+,	O
+om	O
+de	O
+vier	O
+overige	O
+plaatsen	O
+in	O
+te	O
+vullen	O
+.	O
+
+De	O
+index	O
+wordt	O
+elk	O
+jaar	O
+op	O
+1	O
+maart	O
+aangepast	O
+,	O
+en	O
+er	O
+dient	O
+steeds	O
+een	O
+reservelijst	O
+voorradig	O
+te	O
+zijn	O
+,	O
+om	O
+op	O
+elk	O
+moment	O
+een	O
+aandeel	O
+,	O
+dat	O
+bevoorbeeld	O
+door	O
+een	O
+overname	O
+van	O
+de	O
+beurs	O
+verdwijnt	O
+,	O
+te	O
+kunnen	O
+vervangen	O
+.	O
+
+Opvallend	O
+is	O
+de	O
+grote	O
+aanwezigheid	O
+van	O
+de	O
+zogenaamde	O
+rentegevoelige	O
+aandelen	O
+in	O
+Brussel	B-loc
+.	O
+
+Dexia	B-org
+,	O
+Electrabel	B-org
+,	O
+Fortis	B-org
+en	O
+KBC	B-org
+vertegenwoordigen	O
+op	O
+hun	O
+eentje	O
+reeds	O
+ongeveer	O
+50%	O
+van	O
+het	O
+gewicht	O
+in	O
+de	O
+index	O
+.	O
+
+Bij	O
+de	O
+minste	O
+beweging	O
+van	O
+deze	O
+aandelen	O
+beweegt	O
+dus	O
+ook	O
+de	O
+Beurs	B-misc
+van	I-misc
+Brussel	I-misc
+.	O
+
+Anderzijds	O
+is	O
+er	O
+een	O
+opvallende	O
+afwezigheid	O
+van	O
+zogenaamde	O
+'technologie'-aandelen	O
+.	O
+
+Agfa-Gevaert	B-org
+,	O
+Barco	B-org
+en	O
+Mobistar	B-org
+vervullen	O
+deze	O
+rol	O
+,	O
+doch	O
+hun	O
+gewicht	O
+in	O
+de	O
+Bel20	B-misc
+is	O
+niet	O
+doorslaggevend	O
+.	O
+
+Dit	O
+heeft	O
+ongetwijfeld	O
+de	O
+index	O
+behoed	O
+voor	O
+een	O
+nog	O
+zwaardere	O
+val	O
+sinds	O
+2000	O
+.	O
+
+Het	O
+gaat	O
+om	O
+volgende	O
+aandelen	O
+(	O
+stand	O
+augustus	O
+2006	O
+)	O
+:	O
+
+Naam	O
+-	O
+bedrijvigheid	O
+.	O
+
+Agfa-Gevaert	B-org
+-	O
+technologie	O
+
+Barco	B-org
+-	O
+technologie	O
+
+Bekaert	B-org
+-	O
+engineering	O
+
+Belgacom	B-org
+-	O
+telecom/Telefonie-operator	O
+
+Cofinimmo	B-org
+(	O
+vanaf	O
+3	O
+maart	O
+2003	O
+ipv	O
+IBA	O
+)	O
+-	O
+vastgoed	O
+
+Colruyt	B-org
+-	O
+distributie	O
+
+Delhaize	B-org
+-	O
+distrubutie	O
+
+Dexia	B-org
+-	O
+financiën	O
+
+Fortis	B-org
+-	O
+financiën	O
+
+GBL	B-org
+-	O
+
+holding	O
+
+Inbev	B-org
+-	O
+brouwerijen	O
+(	O
+ex-Interbrew	B-misc
+)	O
+
+KBC	B-org
+-	O
+
+financiën	O
+
+Mobistar	B-org
+-	O
+telecom	O
+
+Nat	O
+.	O
+
+Portefeuille	O
+
+Omega	B-org
+Pharma	I-org
+-	O
+farma	O
+
+Solvay	B-org
+-	O
+scheikunde	O
+en	O
+farma	O
+
+Suez	B-org
+-	O
+energie	O
+
+UCB	B-org
+-	O
+
+scheikunde	O
+en	O
+farma	O
+
+Umicore	B-org
+-	O
+non-ferro	O
+
+Zie	O
+ook	O
+
+Euronext	B-misc
+
+AEX	I-misc
+
+Euronext	B-misc
+100	I-misc
+

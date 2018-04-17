@@ -1,0 +1,346 @@
+Brabantse	B-eve
+Pijl	I-eve
+
+De	O
+Brabantse	B-eve
+Pijl	I-eve
+is	O
+een	O
+wielerwedstrijd	O
+voor	O
+profrenners	O
+in	O
+Belgisch	B-loc
+Brabant	I-loc
+ten	O
+zuid-westen	O
+van	O
+Brussel	B-loc
+waarin	O
+onder	O
+andere	O
+de	O
+Alsemberg	B-loc
+moet	O
+worden	O
+beklommen	O
+.	O
+
+Nadat	O
+jarenlang	O
+Sint-Genesius-Rode	B-loc
+zowel	O
+start-	O
+als	O
+aankomstplaats	O
+was	O
+,	O
+is	O
+de	O
+start	O
+sinds	O
+2004	O
+verlegd	O
+naar	O
+Zaventem	B-loc
+.	O
+
+Dit	O
+houdt	O
+in	O
+dat	O
+de	O
+renners	O
+nu	O
+veeleer	O
+het	O
+gebied	O
+ten	O
+zuid-oosten	O
+van	O
+Brussel	B-loc
+aandoen	O
+alvorens	O
+,	O
+na	O
+enkele	O
+lokale	O
+ronden	O
+met	O
+daarin	O
+de	O
+beklimmingen	O
+van	O
+de	O
+Alsemberg	B-loc
+en	O
+de	O
+Bruine	B-loc
+Put	I-loc
+,	O
+te	O
+finishen	O
+op	O
+de	O
+Alsemberg	B-loc
+.	O
+
+Overzicht	O
+winnaars	O
+
+1961	O
+--	O
+Pino	B-per
+Cerami	I-per
+
+1962	O
+--	O
+Budo	B-per
+Janssens	I-per
+
+1963	O
+--	O
+Joseph	B-per
+Wouters	I-per
+
+1964	O
+--	O
+Arnaldo	B-per
+Pambianco	I-per
+
+1965	O
+--	O
+Willy	B-per
+Bocklandt	I-per
+
+1966	O
+--	O
+Jan	B-per
+Janssen	I-per
+
+1967	O
+--	O
+Roger	B-per
+Rosiers	I-per
+
+1968	O
+--	O
+Victor	B-per
+Van	I-per
+Schil	I-per
+
+1969	O
+--	O
+Willy	B-per
+In	I-per
+'t	I-per
+Ven	I-per
+
+1970	O
+--	O
+Herman	B-per
+Van	I-per
+Springel	I-per
+
+1971	O
+--	O
+Joseph	B-per
+Spruyt	I-per
+
+1972	O
+--	O
+Eddy	B-per
+Merckx	I-per
+
+1973	O
+--	O
+Johan	B-per
+De	I-per
+Muynck	I-per
+
+1974	O
+--	O
+Herman	B-per
+Van	I-per
+Springel	I-per
+
+1975	O
+--	O
+Willem	B-per
+Peeters	I-per
+
+1976	O
+--	O
+Freddy	B-per
+Maertens	I-per
+
+1977	O
+--	O
+Frans	B-per
+Verbeeck	I-per
+
+1978	O
+--	O
+Marcel	B-per
+Laurens	I-per
+
+1979	O
+--	O
+Daniel	B-per
+Willems	I-per
+
+1980	O
+--	O
+Michel	B-per
+Pollentier	I-per
+
+1981	O
+--	O
+Roger	B-per
+De	I-per
+Vlaeminck	I-per
+
+1982	O
+--	O
+Claude	B-per
+Criquielion	I-per
+
+1983	O
+--	O
+Eddy	B-per
+Planckaert	I-per
+
+1984	O
+--	O
+Ronny	B-per
+Van	I-per
+Holen	I-per
+
+1985	O
+--	O
+Adri	B-per
+van	I-per
+der	I-per
+Poel	I-per
+
+1986	O
+--	O
+Johan	B-per
+van	I-per
+der	I-per
+Velde	I-per
+
+1987	O
+--	O
+Edwig	B-per
+Van	I-per
+Hooydonck	I-per
+
+1988	O
+--	O
+Johan	B-per
+Capiot	I-per
+
+1989	O
+--	O
+Johan	B-per
+Capiot	I-per
+
+1990	O
+--	O
+Frans	B-per
+Maassen	I-per
+
+1991	O
+--	O
+Edwig	B-per
+Van	I-per
+Hooydonck	I-per
+
+1992	O
+--	O
+Johan	B-per
+Capiot	I-per
+
+1993	O
+--	O
+Edwig	B-per
+Van	I-per
+Hooydonck	I-per
+
+1994	O
+--	O
+Michele	B-per
+Bartoli	I-per
+
+1995	O
+--	O
+Edwig	B-per
+Van	I-per
+Hooydonck	I-per
+
+1996	O
+--	O
+Johan	B-per
+Museeuw	I-per
+
+1997	O
+--	O
+Gianluca	B-per
+Pianegonda	I-per
+
+1998	O
+--	O
+Johan	B-per
+Museeuw	I-per
+
+1999	O
+--	O
+Michele	B-per
+Bartoli	I-per
+
+2000	O
+--	O
+Johan	B-per
+Museeuw	I-per
+
+2001	O
+--	O
+Michael	B-per
+Boogerd	I-per
+
+2002	O
+--	O
+Fabien	B-per
+De	I-per
+Waele	I-per
+
+2003	O
+--	O
+Michael	B-per
+Boogerd	I-per
+
+2004	O
+--	O
+Luca	B-per
+Paolini	I-per
+
+2005	O
+--	O
+Oscar	B-per
+Freire	I-per
+
+2006	O
+--	O
+Oscar	B-per
+Freire	I-per
+
+Externe	O
+link	O
+
+Officiële	O
+website	O
+van	O
+de	O
+organisatie	O
+

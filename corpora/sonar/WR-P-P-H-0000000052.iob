@@ -1,0 +1,51 @@
+LIMA	B-loc
+-	O
+
+De	O
+oud-chef	O
+van	O
+de	O
+Peruaanse	B-loc
+geheime	O
+dienst	O
+Vladimiro	B-per
+Montesinos	I-per
+is	O
+in	O
+hongerstaking	O
+gegaan	O
+.	O
+
+Hij	O
+eist	O
+dat	O
+hij	O
+van	O
+de	O
+militaire	O
+gevangenis	O
+in	O
+Callao	B-loc
+wordt	O
+overgeplaatst	O
+naar	O
+een	O
+inrichting	O
+met	O
+een	O
+burgerregime	O
+.	O
+
+Montesinos	B-per
+werd	O
+zaterdag	O
+in	O
+Venezuela	B-loc
+gearresteerd	O
+en	O
+daarna	O
+uitgeleverd	O
+aan	O
+Peru	B-loc
+.	O
+

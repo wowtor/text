@@ -1,0 +1,1243 @@
+Sint-Niklaas	B-loc
+
+Sint-Niklaas	B-loc
+is	O
+een	O
+fusiestad	O
+van	O
+vier	O
+deelgemeentes	O
+in	O
+Oost-Vlaanderen	B-loc
+in	O
+België	B-loc
+.	O
+
+De	O
+stad	O
+is	O
+genoemd	O
+naar	O
+zijn	O
+patroonheilige	O
+:	O
+de	O
+Heilige	B-per
+Nicolaas	I-per
+van	I-per
+Myra	I-per
+.	O
+
+De	O
+stad	O
+is	O
+het	O
+«	O
+hart	O
+en	O
+hoofdstad	O
+van	O
+het	O
+Waasland	B-loc
+»	O
+.	O
+
+Sint-Niklaas	B-loc
+is	O
+bekend	O
+om	O
+zijn	O
+grootste	O
+marktplein	O
+van	O
+België	B-loc
+,	O
+waar	O
+onder	O
+meer	O
+de	O
+jaarlijkse	O
+Vredesfeesten	B-eve
+plaatsvinden	O
+in	O
+september	O
+,	O
+in	O
+de	O
+volksmond	O
+staat	O
+dit	O
+bekend	O
+als	O
+de	O
+Ballonfeesten	B-eve
+.	O
+
+Inclusief	O
+de	O
+inwoners	O
+van	O
+de	O
+deelgemeenten	O
+Sinaai	B-loc
+,	O
+Nieuwkerken-Waas	B-loc
+en	O
+Belsele	B-loc
+,	O
+telt	O
+Sint-Niklaas	B-loc
+bijna	O
+69.500	O
+inwoners	O
+,	O
+waarvan	O
+489	O
+inwoners	O
+met	O
+Nederlandse	B-loc
+nationaliteit	O
+.	O
+
+Economisch	O
+kent	O
+de	O
+stad	O
+in	O
+de	O
+19de	O
+en	O
+de	O
+eerste	O
+drie	O
+kwart	O
+van	O
+de	O
+20ste	O
+eeuw	O
+een	O
+bloeiperiode	O
+.	O
+
+De	O
+textielsector	O
+stelt	O
+vele	O
+mensen	O
+tewerk	O
+,	O
+vooral	O
+talrijke	O
+familiebedrijven	O
+gespecialiseerd	O
+in	O
+breigoed	O
+(	O
+in	O
+plaatselijk	O
+jargon	O
+aangeduid	O
+met	O
+het	O
+Franse	B-loc
+«	O
+bonneterie	O
+»	O
+)	O
+en	O
+een	O
+aantal	O
+tapijtfabrikanten	O
+.	O
+
+Er	O
+zijn	O
+verschillende	O
+tabaksbedrijven	O
+,	O
+een	O
+grote	O
+steenbakkerij	O
+annex	O
+drukkerij	O
+gespecialiseerd	O
+in	O
+prestigieuse	O
+steendruk	O
+en	O
+een	O
+aantal	O
+metaalbedrijven	O
+waaronder	O
+Nobels-Peelman	B-org
+,	O
+medebouwer	O
+van	O
+het	O
+Atomium	B-loc
+en	O
+het	O
+machinebouwbedrijf	O
+IMC-FMC	B-org
+.	O
+
+Helaas	O
+heeft	O
+een	O
+groot	O
+deel	O
+van	O
+die	O
+bedrijven	O
+de	O
+21ste	O
+eeuw	O
+niet	O
+gehaald	O
+.	O
+
+Bezienswaardigheden	O
+
+Religieus	O
+erfgoed	O
+
+De	O
+Onze-Lieve-Vrouwekerk	B-loc
+
+De	O
+Sint-Nicolaaskerk	B-loc
+
+De	O
+Sint-Jozefskerk	B-loc
+(	O
+Tereken	B-loc
+)	O
+
+Het	O
+Sint	B-loc
+Jozef-Klein-Seminarie	I-loc
+
+De	O
+Christus-Koningkerk	B-loc
+
+Verschillende	O
+kloosters	O
+
+Sint	B-loc
+Niklaas	I-loc
+kende	O
+een	O
+groot	O
+aantal	O
+kloosters	O
+en	O
+religieuze	O
+gemeenschappen	O
+,	O
+vandaag	O
+getuigen	O
+de	O
+vele	O
+scholen	O
+van	O
+hun	O
+vroegere	O
+activiteit	O
+.	O
+
+Abdij	B-loc
+van	I-loc
+de	I-loc
+Karmelietessen	I-loc
+(	O
+slotklooster	O
+)	O
+
+Abdij	B-loc
+van	I-loc
+de	I-loc
+Arme	I-loc
+Klaren	I-loc
+(	O
+slotklooster	O
+)	O
+
+Klooster	B-loc
+van	I-loc
+de	I-loc
+Zusters	I-loc
+van	I-loc
+de	I-loc
+Berkenboom	I-loc
+
+Klooster	B-loc
+van	I-loc
+de	I-loc
+Onze-Lieve-Vrouw-Presentatie	I-loc
+
+Klooster	B-loc
+van	I-loc
+de	I-loc
+Heilige	I-loc
+Familie	I-loc
+
+Klooster	B-loc
+van	I-loc
+het	I-loc
+Spinhuis	I-loc
+
+Klooster	B-loc
+van	I-loc
+Maria-Middelares	I-loc
+
+Klooster	B-loc
+van	I-loc
+de	I-loc
+Zwartzusters	I-loc
+
+Klooster	B-loc
+van	I-loc
+de	I-loc
+broederschool	I-loc
+
+Klooster	B-loc
+van	I-loc
+het	I-loc
+Heilig	I-loc
+Hart	I-loc
+
+Klooster	B-loc
+van	I-loc
+de	I-loc
+Minderbroeders	I-loc
+
+Civiel	O
+erfgoed	O
+
+De	O
+Grote	B-loc
+Markt	I-loc
+,	O
+de	O
+Grootste	B-misc
+Markt	I-misc
+van	O
+België	B-loc
+
+Stadhuis	B-loc
+
+Cipierage	B-loc
+
+Oud-Parochiehuis	B-loc
+
+Salons	B-loc
+voor	I-loc
+Schone	I-loc
+Kunsten	I-loc
+
+Moerlandkasteel	B-loc
+
+Kasteel	B-loc
+Walburg	I-loc
+
+Castrohof	B-loc
+
+De	B-loc
+Witte	I-loc
+Molen	I-loc
+
+Mercatormuseum	B-org
+
+De	O
+7	O
+stadsreuzen	O
+;	O
+Janneken	B-per
+en	O
+Mieke	B-per
+,	O
+Zwarte	B-per
+Piet	I-per
+en	O
+Sinterklaas	B-per
+,	O
+de	O
+drie	O
+koningen	O
+(	O
+Balthasar	B-per
+,	O
+Melchior	B-per
+en	O
+Kaspar	B-per
+)	O
+
+Art	B-misc
+Deco	I-misc
+-	O
+Art	B-misc
+Nouveau	I-misc
+
+In	O
+Sint-Niklaas	B-loc
+werden	O
+een	O
+groot	O
+aantal	O
+huizen	O
+opgetrokken	O
+aan	O
+het	O
+einde	O
+van	O
+de	O
+negentiende	O
+en	O
+het	O
+begin	O
+van	O
+de	O
+twintigste	O
+eeuw	O
+door	O
+architecten	O
+die	O
+hetzij	O
+in	O
+art	O
+nouveau-	O
+,	O
+maar	O
+vooral	O
+in	O
+art	O
+deco-stijl	O
+werkten	O
+-	O
+vooral	O
+in	O
+de	O
+stationsbuurt	O
+(	O
+Prins	B-loc
+Albertstraat	I-loc
+,	O
+Regentiestraat	B-loc
+)	O
+.	O
+
+Een	O
+waar	O
+meesterwerk	O
+is	O
+het	O
+(	O
+schemerige	O
+)	O
+art	O
+deco	O
+hoofdgebouw	O
+van	O
+de	O
+Broedersschool	B-org
+in	O
+de	O
+Nieuwstraat	B-loc
+.	O
+
+Politiek	O
+
+Burgemeester	O
+waren	O
+:	O
+
+François	B-per
+De	I-per
+Munck-Moerman	I-per
+(	O
+lib	O
+.	O
+)	O
+;	O
+
+Pierre	B-per
+van	I-per
+Remoortere	I-per
+de	I-per
+Naeyer	I-per
+(	O
+lib	O
+.	O
+)	O
+;	O
+
+Paul	B-per
+Parrin	I-per
+(	O
+lib	O
+.	O
+)	O
+;	O
+
+Joseph	B-per
+Van	I-per
+Naemen	I-per
+(	O
+kath	O
+.	O
+)	O
+(	O
+1879-1917	O
+)	O
+;	O
+
+Henri	B-per
+Heyman	I-per
+(	O
+kath	O
+.	O
+)	O
+(	O
+1933-1946	O
+)	O
+;	O
+
+Emiel	B-per
+Van	I-per
+Haver	I-per
+(	O
+kath	O
+.	O
+)	O
+(	O
+1940-1944	O
+)	O
+(	O
+waarnemend	O
+)	O
+;	O
+
+Romain	B-per
+De	I-per
+Vidts	I-per
+(	O
+CVP	B-org
+)	O
+(	O
+1947-1962	O
+)	O
+;	O
+
+Frantz	B-per
+Van	I-per
+Dorpe	I-per
+(	O
+CVP	B-org
+)	O
+;	O
+
+Paul	B-per
+De	I-per
+Vidts	I-per
+(	O
+CVP	B-org
+)	O
+(	O
+1977-1988	O
+)	O
+;	O
+
+Lieven	B-per
+Lenaerts	I-per
+(	O
+CVP	B-org
+(	O
+1995-1996	O
+)	O
+;	O
+
+Jef	B-per
+Foubert	I-per
+(	O
+CVP	B-org
+)	O
+(	O
+1997-2000	O
+)	O
+;	O
+
+Freddy	B-per
+Willockx	I-per
+(	O
+SP	B-org
+,	O
+sp.a	O
+)	O
+(	O
+1989-1994	O
+en	O
+2001-	O
+)	O
+.	O
+
+Bij	O
+de	O
+gemeenteraadsverkiezingen	O
+van	O
+1946	O
+behaalde	O
+de	O
+CVP	B-org
+nog	O
+45	O
+%	O
+van	O
+de	O
+geldige	O
+uitgebrachte	O
+stemmen	O
+en	O
+meteen	O
+toch	O
+de	O
+absolute	O
+zetelmeerderheid	O
+in	O
+de	O
+gemeenteraad	O
+;	O
+in	O
+2000	O
+was	O
+ze	O
+teruggevallen	O
+tot	O
+23	O
+%	O
+.	O
+
+De	O
+Volksunie	B-org
+was	O
+in	O
+1976	O
+de	O
+2de	O
+partij	O
+met	O
+24	O
+%	O
+van	O
+de	O
+geldig	O
+uitgebrachte	O
+stemmen	O
+;	O
+in	O
+2000	O
+was	O
+de	O
+partij	O
+de	O
+5de	O
+met	O
+nog	O
+8	O
+%	O
+.	O
+
+De	O
+SP	B-org
+klom	O
+van	O
+21	O
+%	O
+in	O
+1976	O
+naar	O
+27	O
+%	O
+in	O
+2000	O
+en	O
+de	O
+VLD	B-org
+van	O
+8	O
+naar	O
+14	O
+%	O
+.	O
+
+Het	O
+Vlaams	B-org
+Blok	I-org
+had	O
+in	O
+2000	O
+19	O
+%	O
+van	O
+de	O
+meetellende	O
+neergelegde	O
+stemmen	O
+,	O
+Agalev	B-org
+7	O
+%	O
+en	O
+Vivant	B-org
+2%	O
+.	O
+
+De	O
+uitslagen	O
+van	O
+de	O
+gemeenteraadsverkiezingen	O
+in	O
+Sint-Niklaas	B-loc
+sinds	O
+1976	O
+
+Op	O
+1	O
+januari	O
+1977	O
+werden	O
+de	O
+voormalige	O
+gemeenten	O
+Belsele	B-loc
+,	O
+Nieuwkerken-Waas	B-loc
+en	O
+Sinaai	B-loc
+bij	O
+Sint-Niklaas	B-loc
+gevoegd	O
+.	O
+
+De	O
+onderlijnde	O
+getallen	O
+vormen	O
+de	O
+hieruit	O
+onderhandelde	O
+bestuursmeerderheid	O
+.	O
+
+Jeugddoelgroepen	O
+
+In	O
+Sint-Niklaas	B-loc
+en	O
+deelgemeenten	O
+zijn	O
+een	O
+aantal	O
+verschillende	O
+jeugddoelgroepen	O
+zoals	O
+de	O
+jeugdbewegingen	O
+,	O
+de	O
+speelpleinwerking	O
+,	O
+en	O
+ook	O
+de	O
+jeugdhuizen	O
+.	O
+
+Scouts	O
+
+7de	B-org
+FOS	I-org
+Mercator	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+VVKM	B-org
+Sint-Franciscus	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+VVKM	B-org
+Sint-Vincentius	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+VVKM/S	B-org
+Kriko	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+VVKS	B-org
+Don	I-org
+Bosco	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+VVKS	B-org
+Sint-Joris	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+VVKS	B-org
+Sint-Kristoffel	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+VVKS	B-org
+Sint-Paulus	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+VVKSM	B-org
+Akabe	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+VVKSM	B-org
+Jin	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+VVKSM	B-org
+Kriko	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+VVKSM	B-org
+Sint-Franciscus	I-org
+(	O
+Sinaai	B-loc
+)	O
+
+VVKSM	B-org
+Sint-Jozef	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+VVKSM	B-org
+Sint-Martinus	I-org
+(	O
+Nieuwkerken	B-loc
+)	O
+
+VVKSM	B-org
+Sint-Tarsicius	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+Chiro	O
+
+Alleman	B-org
+(	O
+Sinaai	B-loc
+)	O
+
+Jomokri	B-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+Iris	B-org
+(	O
+Nieuwkerken	B-loc
+)	O
+
+Kriko	B-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+Sakanda	B-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+Staderas	B-org
+Jongens	I-org
+(	O
+Belsele	B-loc
+)	O
+
+Staderas	B-org
+Meisjes	I-org
+(	O
+Belsele	B-loc
+)	O
+
+Wij	B-org
+(	O
+Sinaai	B-loc
+)	O
+
+KSJ-KSA-VKSJ	B-misc
+
+KSA	B-org
+Frassati	I-org
+(	O
+Nieuwkerken	B-loc
+)	O
+
+KSA	B-org
+Reinaert	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+VKSJ	B-org
+Trapsoet	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+KLJ	B-org
+
+Belsele	B-loc
+
+Nieuwkerken	B-loc
+
+Sinaai	B-loc
+
+Sint-Niklaas	B-loc
+
+Speelpleinwerking	O
+
+Bob	B-org
+(	O
+Belsele	B-loc
+)	O
+
+De	B-org
+Moerbei	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+De	B-org
+Gouden	I-org
+Leeuw	I-org
+(	O
+Belsele	B-loc
+)	O
+
+De	B-org
+Pielewuiter	I-org
+(	O
+Nieuwkerken	B-loc
+)	O
+
+Flubber	B-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+Holderdebolder	B-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+Kameleon	B-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+Kwammer	B-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+'t	B-org
+Speelanker	I-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+Spenoazi	B-org
+(	O
+Sinaai	B-loc
+)	O
+
+Woezel	B-org
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+Jeugdhuizen	O
+
+Den	B-loc
+eglantier	I-loc
+(	O
+Sint-Niklaas	B-loc
+
+Kompas	B-loc
+(	O
+Sint-Niklaas	B-loc
+)	O
+
+'t	B-loc
+Pleksken	I-loc
+(	O
+Belsele	B-loc
+)	O
+
+'t	B-loc
+Verschil	I-loc
+(	O
+Nieukerken	B-loc
+)	O
+
+Troelant	B-loc
+(	O
+Sinaai	B-loc
+)	O
+
+Bekende	O
+(ex-)inwoners	O
+
+Dirk	B-per
+van	I-per
+Bastelaere	I-per
+,	O
+dichter	O
+
+Bob	B-per
+Benny	I-per
+,	O
+zanger	O
+
+Jef	B-per
+Burm	I-per
+,	O
+Zanger	O
+,	O
+Acteur	O
+,	O
+...	O
+
+Alex	B-per
+Callier	I-per
+,	O
+muzikant	O
+(	O
+Hooverphonic	B-org
+)	O
+
+August	B-per
+Van	I-per
+Daele	I-per
+,	O
+Belgisch	B-loc
+generaal	O
+en	O
+chef	O
+van	O
+Defensie	B-misc
+(	O
+2003-	O
+...	O
+)	O
+
+Alana	B-per
+Dante	I-per
+,	O
+zangeres	O
+
+Ronny	B-per
+Van	I-per
+Havere	I-per
+,	O
+Ballonvaarder	O
+
+Sandrine	B-per
+,	O
+deelneemster	O
+van	O
+Idool	O
+2004	O
+,	O
+zangeres	O
+,	O
+presentatrice	O
+Big	B-pro
+Brother	I-pro
+2006	I-pro
+
+Gunther	B-per
+Van	I-per
+Handenhoven	I-per
+,	O
+voetballer	O
+van	O
+Sporting	B-org
+Lokeren	I-org
+
+Gustaaf	B-per
+Kardinaal	I-per
+Joos	I-per
+(	O
+geboren	O
+in	O
+Sint-Niklaas	B-loc
+)	O
+
+Tom	B-per
+Lanoye	I-per
+,	O
+schrijver	O
+
+Marc	B-per
+Sleen	I-per
+,	O
+Tekenaar	O
+van	O
+Nero	B-per
+
+Tom	B-per
+Steels	I-per
+,	O
+wielrenner	O
+
+Monseigneur	O
+Stillemans	B-per
+;	O
+bisschop	O
+van	O
+Gent	B-loc
+
+Wim	B-per
+Verstraeten	I-per
+,	O
+Ballonvaarder	O
+
+Wim	B-per
+Verreycken	I-per
+,	O
+VB-Senator	B-misc
+
+Stijn	B-per
+Van	I-per
+de	I-per
+Voorde	I-per
+,	O
+Studio	B-misc
+Brussel-presentator	I-misc
+
+Anton	B-per
+Van	I-per
+Wilderode	I-per
+,	O
+dichter	O
+
+Freddy	B-per
+Willockx	I-per
+,	O
+huidig	O
+burgemeester	O
+en	O
+ex-senator	O
+
+Frans	B-per
+Wymeersch	I-per
+,	O
+VB-Vlaams	B-misc
+Parlementair	I-misc
+
+Els	B-per
+De	I-per
+Schepper	I-per
+,	O
+actrice	O
+,	O
+cabaretière	O
+en	O
+schrijfster	O
+
+Daniël	B-per
+Ost	I-per
+,	O
+Bloemkunstenaar	O
+
+Zustersteden	O
+
+Colmar	B-loc
+,	O
+(	O
+Frankrijk	B-loc
+)	O
+
+Lucca	B-loc
+,	O
+(	O
+Italië	B-loc
+)	O
+
+Abingdon	B-loc
+(	O
+Oxfordshire	B-loc
+)	O
+,	O
+(	O
+Verenigd	B-loc
+Koninkrijk	I-loc
+)	O
+
+Schongau	B-loc
+,	O
+(	O
+Duitsland	B-loc
+)	O
+
+Gorinchem	B-loc
+,	O
+(	O
+Nederland	B-loc
+)	O
+
+Externe	O
+links	O
+
+Sint-Niklaas	B-loc
+,	O
+de	O
+officiële	O
+webpagina	O
+van	O
+de	O
+stad	O
+
+Kaart	O
+
+Sinnekloas.be	O
+,	O
+de	O
+jeugdraden	O
+van	O
+Sint-Niklaas	B-loc
+
+,	O
+de	O
+speelpleinen	O
+van	O
+Sint-Niklaas	B-loc
+

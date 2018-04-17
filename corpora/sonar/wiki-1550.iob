@@ -1,0 +1,1217 @@
+Ronde	B-eve
+van	I-eve
+Vlaanderen	I-eve
+
+De	O
+Ronde	B-eve
+van	I-eve
+Vlaanderen	I-eve
+is	O
+een	O
+jaarlijkse	O
+wielerwedstrijd	O
+voor	O
+beroepsrenners	O
+in	O
+Vlaanderen	B-loc
+.	O
+
+Ze	O
+wordt	O
+tegenwoordig	O
+begin	O
+april	O
+gereden	O
+en	O
+is	O
+sinds	O
+vele	O
+jaren	O
+één	O
+van	O
+de	O
+belangrijkste	O
+eendaagse	O
+wedstrijden	O
+,	O
+een	O
+zogenaamde	O
+klassieker	O
+.	O
+
+De	O
+Ronde	B-eve
+van	I-eve
+Vlaanderen	I-eve
+is	O
+in	O
+1913	O
+ontstaan	O
+naar	O
+een	O
+idee	O
+van	O
+Karel	B-per
+Van	I-per
+Wijnendaele	I-per
+,	O
+mede	O
+oprichter	O
+van	O
+de	O
+sportkrant	O
+Sportwereld	B-pro
+.	O
+
+Het	O
+was	O
+destijds	O
+gebruikelijk	O
+dat	O
+uitgevers	O
+en	O
+journalisten	O
+van	O
+kranten-	O
+en	O
+tijdschriften	O
+wielerwedstrijden	O
+organiseerden	O
+om	O
+hun	O
+uitgaven	O
+te	O
+promoten	O
+.	O
+
+Sinds	O
+1919	O
+is	O
+«	O
+de	B-eve
+Ronde	I-eve
+»	O
+,	O
+zoals	O
+de	O
+wedstrijd	O
+vaak	O
+genoemd	O
+wordt	O
+,	O
+elk	O
+jaar	O
+verreden	O
+,	O
+ook	O
+tijdens	O
+de	O
+Tweede	B-eve
+Wereldoorlog	I-eve
+.	O
+
+In	O
+België	B-loc
+wordt	O
+liefkozend	O
+over	O
+deze	O
+koers	O
+gesproken	O
+als	O
+«	O
+Vlaanderens	B-misc
+Mooiste	I-misc
+»	O
+.	O
+
+De	O
+Ronde	B-eve
+van	I-eve
+Vlaanderen	I-eve
+was	O
+aanvankelijk	O
+,	O
+tot	O
+kort	O
+na	O
+de	O
+oorlog	O
+,	O
+vooral	O
+een	O
+Belgische	B-loc
+wedstrijd	O
+.	O
+
+In	O
+de	O
+beginjaren	O
+werd	O
+de	O
+Ronde	B-eve
+nog	O
+vaak	O
+op	O
+dezelfde	O
+dag	O
+verreden	O
+als	O
+Milaan-San	B-eve
+Remo	I-eve
+.	O
+
+De	O
+betere	O
+Italiaanse	B-loc
+en	O
+Franse	B-loc
+renners	O
+kozen	O
+doorgaans	O
+voor	O
+die	O
+laatste	O
+koers	O
+,	O
+waardoor	O
+de	O
+Ronde	B-eve
+voor	O
+de	O
+oorlog	O
+slechts	O
+één	O
+niet-Belgische	B-misc
+winnaar	O
+kende	O
+.	O
+
+Na	O
+de	O
+Tweede	B-eve
+Wereldoorlog	I-eve
+begon	O
+de	O
+Ronde	B-eve
+aan	O
+zijn	O
+opmars	O
+als	O
+belangrijke	O
+internationale	O
+wedstrijd	O
+.	O
+
+Onder	O
+andere	O
+omdat	O
+de	O
+organisatoren	O
+van	O
+een	O
+aantal	O
+koersen	O
+de	O
+Challenge	B-misc
+Desgrange-Colombo	I-misc
+in	O
+het	O
+leven	O
+riepen	O
+,	O
+een	O
+soort	O
+voorloper	O
+van	O
+de	O
+wereldranglijst	O
+,	O
+waarvan	O
+de	O
+Ronde	B-eve
+deel	O
+uitmaakte	O
+.	O
+
+Samen	O
+met	O
+onder	O
+meer	O
+Parijs-Roubaix	B-eve
+vormt	O
+de	O
+Ronde	B-eve
+van	I-eve
+Vlaanderen	I-eve
+de	O
+top	O
+in	O
+het	O
+wielrennen	O
+.	O
+
+De	O
+Ronde	B-eve
+Van	I-eve
+Vlaanderen	I-eve
+maakt	O
+sinds	O
+2005	O
+deel	O
+uit	O
+van	O
+de	O
+Pro	B-eve
+Tour	I-eve
+.	O
+
+Recordhouders	O
+zijn	O
+de	O
+Belgen	B-loc
+Achiel	B-per
+Buysse	I-per
+,	O
+Eric	B-per
+Leman	I-per
+en	O
+Johan	B-per
+Museeuw	I-per
+en	O
+de	O
+Italiaan	B-loc
+Fiorenzo	B-per
+Magni	I-per
+met	O
+elk	O
+drie	O
+overwinningen	O
+.	O
+
+De	O
+succesvolste	O
+Nederlander	B-loc
+was	O
+Jan	B-per
+Raas	I-per
+met	O
+twee	O
+eerste	O
+en	O
+twee	O
+derde	O
+plaatsen	O
+.	O
+
+Parcours	O
+
+De	O
+Ronde	B-eve
+start	O
+tegenwoordig	O
+in	O
+Brugge	B-loc
+.	O
+
+Na	O
+een	O
+relatief	O
+vlak	O
+begin	O
+gaat	O
+het	O
+parcours	O
+via	O
+Oostende	B-loc
+en	O
+Torhout	B-loc
+richting	O
+Kortrijk	B-loc
+,	O
+waarna	O
+het	O
+zich	O
+door	O
+het	O
+Vlaamse	B-loc
+heuvelland	O
+slingert	O
+tot	O
+aan	O
+de	O
+finish	O
+in	O
+Meerbeke	B-loc
+.	O
+
+Het	O
+precieze	O
+parcours	O
+verandert	O
+elk	O
+jaar	O
+een	O
+klein	O
+beetje	O
+,	O
+omdat	O
+er	O
+ieder	O
+jaar	O
+ook	O
+een	O
+"	O
+Dorp	B-misc
+van	I-misc
+de	I-misc
+Ronde	I-misc
+"	O
+aangedaan	O
+wordt	O
+.	O
+
+In	O
+dit	O
+dorp	O
+vinden	O
+dan	O
+tal	O
+van	O
+feestelijkheden	O
+plaats	O
+.	O
+
+Maar	O
+steeds	O
+moeten	O
+de	O
+renners	O
+zo'n	O
+20	O
+kilometer	O
+aan	O
+kasseistroken	O
+en	O
+tussen	O
+de	O
+vijftien	O
+en	O
+twintig	O
+heuvels	O
+overbruggen	O
+.	O
+
+Geen	O
+enkele	O
+is	O
+erg	O
+hoog	O
+,	O
+maar	O
+ze	O
+zijn	O
+vaak	O
+wel	O
+erg	O
+steil	O
+en	O
+hebben	O
+veelal	O
+kasseien	O
+als	O
+ondergrond	O
+.	O
+
+Doordat	O
+alle	O
+moeilijke	O
+passages	O
+in	O
+de	O
+tweede	O
+helft	O
+van	O
+de	O
+koers	O
+liggen	O
+is	O
+er	O
+in	O
+de	O
+finale	O
+geen	O
+enkel	O
+rustig	O
+moment	O
+.	O
+
+Dorp	B-misc
+van	I-misc
+de	I-misc
+Ronde	I-misc
+
+2005	O
+:	O
+Brakel	B-loc
+
+2006	O
+:	O
+Ichtegem	B-loc
+
+De	O
+17	O
+hellingen	O
+(	O
+2006	O
+)	O
+
+Molenberg	B-loc
+
+Wolvenberg	B-loc
+
+Oude	B-loc
+Kwaremont	I-loc
+
+Paterberg	B-loc
+
+Koppenberg	B-loc
+
+Steenbeekdries	B-loc
+
+Taaienberg	B-loc
+
+Eikenberg	B-loc
+
+Boigneberg	B-loc
+
+Het	B-loc
+Foreest	I-loc
+
+Steenberg	B-loc
+
+Leberg	B-loc
+
+Berendries	B-loc
+
+Valkenberg	B-loc
+
+Tenbosse	B-loc
+
+Muur-Kapelmuur	B-loc
+
+Bosberg	B-loc
+
+Wielertoeristen	O
+
+Sinds	O
+1999	O
+kunnen	O
+wielertoeristen	O
+de	O
+dag	O
+vóór	O
+de	O
+Ronde	B-eve
+het	O
+parcours	O
+,	O
+of	O
+een	O
+deel	O
+daarvan	O
+,	O
+afleggen	O
+.	O
+
+Het	O
+is	O
+één	O
+van	O
+de	O
+populairste	O
+koersen	O
+voor	O
+wielertoeristen	O
+.	O
+
+Overzicht	O
+winnaars	O
+
+2006	O
+-	O
+Tom	B-per
+Boonen	I-per
+(	O
+)	O
+
+2005	O
+-	O
+Tom	B-per
+Boonen	I-per
+(	O
+)	O
+
+2004	O
+-	O
+Steffen	B-per
+Wesemann	I-per
+(	O
+)	O
+
+2003	O
+-	O
+Peter	B-per
+Van	I-per
+Petegem	I-per
+(	O
+)	O
+
+2002	O
+-	O
+Andrea	B-per
+Tafi	I-per
+(	O
+)	O
+
+2001	O
+-	O
+Gianluca	B-per
+Bortolami	I-per
+(	O
+)	O
+
+2000	O
+-	O
+Andrei	B-per
+Tchmil	I-per
+(	O
+)	O
+
+1999	O
+-	O
+Peter	B-per
+Van	I-per
+Petegem	I-per
+(	O
+)	O
+
+1998	O
+-	O
+Johan	B-per
+Museeuw	I-per
+(	O
+)	O
+
+1997	O
+-	O
+Rolf	B-per
+Sørensen	I-per
+(	O
+)	O
+
+1996	O
+-	O
+Michele	B-per
+Bartoli	I-per
+(	O
+)	O
+
+1995	O
+-	O
+Johan	B-per
+Museeuw	I-per
+(	O
+)	O
+
+1994	O
+-	O
+Gianni	B-per
+Bugno	I-per
+(	O
+)	O
+
+1993	O
+-	O
+Johan	B-per
+Museeuw	I-per
+(	O
+)	O
+
+1992	O
+-	O
+Jacky	B-per
+Durand	I-per
+(	O
+)	O
+
+1991	O
+-	O
+Edwig	B-per
+Van	I-per
+Hooydonck	I-per
+(	O
+)	O
+
+1990	O
+-	O
+Moreno	B-per
+Argentin	I-per
+(	O
+)	O
+
+1989	O
+-	O
+Edwig	B-per
+Van	I-per
+Hooydonck	I-per
+(	O
+)	O
+
+1988	O
+-	O
+Eddy	B-per
+Planckaert	I-per
+(	O
+)	O
+
+1987	O
+-	O
+Claude	B-per
+Criquielion	I-per
+(	O
+)	O
+
+1986	O
+-	O
+Adri	B-per
+van	I-per
+der	I-per
+Poel	I-per
+(	O
+)	O
+
+1985	O
+-	O
+Eric	B-per
+Vanderaerden	I-per
+(	O
+)	O
+
+1984	O
+-	O
+Johan	B-per
+Lammerts	I-per
+(	O
+)	O
+
+1983	O
+-	O
+Jan	B-per
+Raas	I-per
+(	O
+)	O
+
+1982	O
+-	O
+René	B-per
+Martens	I-per
+(	O
+)	O
+
+1981	O
+-	O
+Hennie	B-per
+Kuiper	I-per
+(	O
+)	O
+
+1980	O
+-	O
+Michel	B-per
+Pollentier	I-per
+(	O
+)	O
+
+1979	O
+-	O
+Jan	B-per
+Raas	I-per
+(	O
+)	O
+
+1978	O
+-	O
+Walter	B-per
+Godefroot	I-per
+(	O
+)	O
+
+1977	O
+-	O
+Roger	B-per
+De	I-per
+Vlaeminck	I-per
+(	O
+)	O
+
+1976	O
+-	O
+Walter	B-per
+Planckaert	I-per
+(	O
+)	O
+
+1975	O
+-	O
+Eddy	B-per
+Merckx	I-per
+(	O
+)	O
+
+1974	O
+-	O
+Cees	B-per
+Bal	I-per
+(	O
+)	O
+
+1973	O
+-	O
+Eric	B-per
+Leman	I-per
+(	O
+)	O
+
+1972	O
+-	O
+Eric	B-per
+Leman	I-per
+(	O
+)	O
+
+1971	O
+-	O
+Evert	B-per
+Dolman	I-per
+(	O
+)	O
+
+1970	O
+-	O
+Eric	B-per
+Leman	I-per
+(	O
+)	O
+
+1969	O
+-	O
+Eddy	B-per
+Merckx	I-per
+(	O
+)	O
+
+1968	O
+-	O
+Walter	B-per
+Godefroot	I-per
+(	O
+)	O
+
+1967	O
+-	O
+Dino	B-per
+Zandegu	I-per
+(	O
+)	O
+
+1966	O
+-	O
+Ward	B-per
+Sels	I-per
+(	O
+)	O
+
+1965	O
+-	O
+Jo	B-per
+de	I-per
+Roo	I-per
+(	O
+)	O
+
+1964	O
+-	O
+Rudi	B-per
+Altig	I-per
+(	O
+)	O
+
+1963	O
+-	O
+Noël	B-per
+Foré	I-per
+(	O
+)	O
+
+1962	O
+-	O
+Rik	B-per
+Van	I-per
+Looy	I-per
+(	O
+)	O
+
+1961	O
+-	O
+Tom	B-per
+Simpson	I-per
+(	O
+)	O
+
+1960	O
+-	O
+Arthur	B-per
+De	I-per
+Cabooter	I-per
+(	O
+)	O
+
+1959	O
+-	O
+Rik	B-per
+Van	I-per
+Looy	I-per
+(	O
+)	O
+
+1958	O
+-	O
+Germain	B-per
+Derijcke	I-per
+(	O
+)	O
+
+1957	O
+-	O
+Fred	B-per
+De	I-per
+Bruyne	I-per
+(	O
+)	O
+
+1956	O
+-	O
+Jean	B-per
+Forestier	I-per
+(	O
+)	O
+
+1955	O
+-	O
+Louison	B-per
+Bobet	I-per
+(	O
+)	O
+
+1954	O
+-	O
+Raymond	B-per
+Impanis	I-per
+(	O
+)	O
+
+1953	O
+-	O
+Wim	B-per
+van	I-per
+Est	I-per
+(	O
+)	O
+
+1952	O
+-	O
+Roger	B-per
+Decock	I-per
+(	O
+)	O
+
+1951	O
+-	O
+Fiorenzo	B-per
+Magni	I-per
+(	O
+)	O
+
+1950	O
+-	O
+Fiorenzo	B-per
+Magni	I-per
+(	O
+)	O
+
+1949	O
+-	O
+Fiorenzo	B-per
+Magni	I-per
+(	O
+)	O
+
+1948	O
+-	O
+Briek	B-per
+Schotte	I-per
+(	O
+)	O
+
+1947	O
+-	O
+Emiel	B-per
+Faignaert	I-per
+(	O
+)	O
+
+1946	O
+-	O
+Rik	B-per
+Van	I-per
+Steenbergen	I-per
+(	O
+)	O
+
+1945	O
+-	O
+Sylvain	B-per
+Grysolle	I-per
+(	O
+)	O
+
+1944	O
+-	O
+Rik	B-per
+Van	I-per
+Steenbergen	I-per
+(	O
+)	O
+
+1943	O
+-	O
+Achiel	B-per
+Buysse	I-per
+(	O
+)	O
+
+1942	O
+-	O
+Briek	B-per
+Schotte	I-per
+(	O
+)	O
+
+1941	O
+-	O
+Achiel	B-per
+Buysse	I-per
+(	O
+)	O
+
+1940	O
+-	O
+Achiel	B-per
+Buysse	I-per
+(	O
+)	O
+
+1939	O
+-	O
+Karel	B-per
+Kaers	I-per
+(	O
+)	O
+
+1938	O
+-	O
+Edgard	B-per
+De	I-per
+Caluwé	I-per
+(	O
+)	O
+
+1937	O
+-	O
+Michel	B-per
+D'Hooghe	I-per
+(	O
+)	O
+
+1936	O
+-	O
+Louis	B-per
+Hardiquest	I-per
+(	O
+)	O
+
+1935	O
+-	O
+Louis	B-per
+Duerloo	I-per
+(	O
+)	O
+
+1934	O
+-	O
+Gaston	B-per
+Rebry	I-per
+(	O
+)	O
+
+1933	O
+-	O
+Alfons	B-per
+Schepers	I-per
+(	O
+)	O
+
+1932	O
+-	O
+Romain	B-per
+Gijssels	I-per
+(	O
+)	O
+
+1931	O
+-	O
+Romain	B-per
+Gijssels	I-per
+(	O
+)	O
+
+1930	O
+-	O
+Frans	B-per
+Bonduel	I-per
+(	O
+)	O
+
+1929	O
+-	O
+Jef	B-per
+Dervaes	I-per
+(	O
+)	O
+
+1928	O
+-	O
+Jan	B-per
+Mertens	I-per
+(	O
+)	O
+
+1927	O
+-	O
+Gerard	B-per
+Debaets	I-per
+(	O
+)	O
+
+1926	O
+-	O
+Denis	B-per
+Verschueren	I-per
+(	O
+)	O
+
+1925	O
+-	O
+Julien	B-per
+Delbecque	I-per
+(	O
+)	O
+
+1924	O
+-	O
+Gerard	B-per
+Debaets	I-per
+(	O
+)	O
+
+1923	O
+-	O
+Henri	B-per
+Suter	I-per
+(	O
+)	O
+
+1922	O
+-	O
+Léon	B-per
+Devos	I-per
+(	O
+)	O
+
+1921	O
+-	O
+René	B-per
+Vermandel	I-per
+(	O
+)	O
+
+1920	O
+-	O
+Jules	B-per
+Van	I-per
+Hevel	I-per
+(	O
+)	O
+
+1919	O
+-	O
+Henri	B-per
+Van	I-per
+Lerberghe	I-per
+(	O
+)	O
+
+1914	O
+-	O
+Marcel	B-per
+Buysse	I-per
+(	O
+)	O
+
+1913	O
+-	O
+Paul	B-per
+Deman	I-per
+(	O
+)	O
+
+Overwinningen	O
+per	O
+land	O
+
+Zie	O
+ook	O
+
+Ronde	B-eve
+van	I-eve
+Vlaanderen	I-eve
+2006	I-eve
+:	O
+het	O
+verloop	O
+en	O
+klassement	O
+van	O
+de	O
+wedstrijd	O
+in	O
+2006	O
+.	O
+
+Externe	O
+links	O
+
+Officiële	O
+website	O
+

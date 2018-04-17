@@ -1,0 +1,46 @@
+DUISBURG	B-loc
+-	O
+
+Jean	B-per
+Paul	I-per
+de	I-per
+Bruijn	I-per
+is	O
+de	O
+nieuwe	O
+Europese	B-loc
+kampioen	O
+bandstoten	O
+.	O
+
+De	O
+Zeeuwse	B-loc
+biljarter	O
+versloeg	O
+in	O
+de	O
+finale	O
+in	O
+Duisburg	B-loc
+de	O
+Duitser	B-loc
+Fabian	B-per
+Blondeel	I-per
+.	O
+
+De	B-per
+Bruijn	I-per
+tikte	O
+de	O
+150	O
+caramboles	O
+in	O
+26	O
+beurten	O
+bijeen	O
+(	O
+moyenne	O
+5,77	O
+)	O
+.	O
+

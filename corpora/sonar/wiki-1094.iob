@@ -1,0 +1,96 @@
+Mol	B-misc
+
+Mol	B-misc
+kan	O
+betrekking	O
+hebben	O
+op	O
+:	O
+
+mol	O
+(	O
+dier	O
+)	O
+,	O
+ondergronds	O
+levend	O
+zoogdier	O
+;	O
+
+mol	O
+(	O
+muziek	O
+)	O
+,	O
+muziekteken	O
+om	O
+aan	O
+te	O
+geven	O
+dat	O
+een	O
+toon	O
+een	O
+halve	O
+noot	O
+moet	O
+worden	O
+verlaagd	O
+;	O
+
+mol	O
+(	O
+eenheid	O
+)	O
+,	O
+eenheid	O
+voor	O
+hoeveelheid	O
+stof	O
+in	O
+het	O
+Internationaal	B-misc
+Stelsel	I-misc
+van	I-misc
+Eenheden	I-misc
+;	O
+
+Mol	B-loc
+(	O
+België	B-loc
+)	O
+,	O
+plaats	O
+in	O
+België	B-loc
+;	O
+
+spion	O
+,	O
+infiltrant	O
+;	O
+
+De	B-pro
+Mol	I-pro
+,	O
+saboteur	O
+in	O
+het	O
+gelijknamige	O
+televisieprogramma	O
+.	O
+
+Mol	B-org
+(	O
+bedrijf	O
+)	O
+,	O
+Belgisch	B-loc
+bedrijf	O
+
+Albert	B-per
+Mol	I-per
+,	O
+Nederlands	B-loc
+acteur	O
+

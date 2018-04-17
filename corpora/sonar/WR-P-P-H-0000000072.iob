@@ -1,0 +1,78 @@
+SAPPORO	B-loc
+-	O
+
+Met	O
+Shinji	B-per
+Ono	I-per
+lijkt	O
+Feyenoord	B-org
+een	O
+goede	O
+slag	O
+te	O
+hebben	O
+geslagen	O
+.	O
+
+De	O
+Japanse	B-loc
+international	O
+was	O
+de	O
+opvallendste	O
+speler	O
+in	O
+de	O
+interland	O
+tegen	O
+Paraguay	B-loc
+,	O
+in	O
+het	O
+kader	O
+van	O
+de	O
+Kirin	B-eve
+Cup	I-eve
+.	O
+
+Ono	B-per
+bereidde	O
+beide	O
+treffers	O
+van	O
+Yanasigawa	B-per
+voor	O
+.	O
+
+Japan	B-loc
+won	O
+het	O
+duel	O
+met	O
+2	O
+-	O
+0	O
+.	O
+
+Ono	B-per
+komt	O
+in	O
+de	O
+zomer	O
+naar	O
+Rotterdam	B-loc
+.	O
+
+De	O
+middenvelder	O
+drukte	O
+zijn	O
+stempel	O
+op	O
+het	O
+duel	O
+tegen	O
+Paraguay	B-loc
+.	O
+

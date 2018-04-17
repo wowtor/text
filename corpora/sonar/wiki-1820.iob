@@ -1,0 +1,256 @@
+Vlaams	B-loc
+Gewest	I-loc
+
+Het	O
+Vlaams	B-loc
+Gewest	I-loc
+is	O
+een	O
+deel	O
+van	O
+België	B-loc
+,	O
+met	O
+als	O
+hoofdstad	O
+Brussel	B-loc
+.	O
+
+Meestal	O
+wordt	O
+het	O
+«	O
+Vlaams	B-loc
+Gewest	I-loc
+»	O
+gewoon	O
+Vlaanderen	B-loc
+genoemd	O
+,	O
+het	O
+gewest	O
+is	O
+een	O
+deel	O
+van	O
+de	O
+Belgische	B-loc
+structuur	O
+van	O
+«	O
+gemeenschappen	O
+en	O
+gewesten	O
+»	O
+.	O
+
+De	O
+officiële	O
+taal	O
+is	O
+Nederlands	B-pro
+.	O
+
+Door	O
+de	O
+onmiddellijke	O
+fusie	O
+van	O
+de	O
+Vlaamse	B-loc
+gewestelijke	O
+en	O
+gemeenschapsinstellingen	O
+(	O
+wat	O
+bij	O
+het	O
+Waalse	B-loc
+gewest	O
+en	O
+de	O
+Franse	B-loc
+gemeenschap	O
+níét	O
+het	O
+geval	O
+is	O
+)	O
+bestaan	O
+er	O
+in	O
+praktijk	O
+géén	O
+aparte	O
+diensten	O
+,	O
+noch	O
+bestuursraden	O
+,	O
+noch	O
+een	O
+deelregering	O
+voor	O
+het	O
+Vlaamse	B-loc
+gewest	O
+.	O
+
+De	O
+bevoegdheden	O
+van	O
+het	O
+Gewest	B-loc
+zijn	O
+vastgelegd	O
+in	O
+de	O
+Belgische	B-loc
+Grondwet	O
+en	O
+de	O
+Bijzondere	O
+Wet	O
+op	O
+de	O
+Hervorming	O
+van	O
+de	O
+Instellingen	O
+.	O
+
+Het	O
+heeft	O
+geen	O
+bevoegdheden	O
+in	O
+Brussel	B-loc
+.	O
+
+Zie	O
+:	O
+Vlaanderen	B-loc
+.	O
+
+De	O
+ISO	B-misc
+3166-2-code	O
+van	O
+het	O
+Vlaams	B-loc
+Gewest	I-loc
+is	O
+«	O
+BE-VLG	B-misc
+»	O
+.	O
+
+Provincies	O
+van	O
+Vlaanderen	B-loc
+(	O
+gewest	O
+)	O
+
+Antwerpen	B-loc
+
+Limburg	B-loc
+
+Oost-Vlaanderen	B-loc
+
+Vlaams-Brabant	B-loc
+
+West-Vlaanderen	B-loc
+
+Oppervlakte	O
+en	O
+bevolking	O
+
+(	O
+cijfers	O
+van	O
+1-1-2006	O
+)	O
+
+oppervlakte	O
+:	O
+13.521	O
+km²	O
+;	O
+41,5%	O
+van	O
+de	O
+Belgische	B-loc
+oppervlakte	O
+
+bevolking	O
+:	O
+6.078.600	O
+;	O
+57,8%	O
+van	O
+de	O
+Belgische	B-loc
+bevolking	O
+
+Verkeer	O
+en	O
+Vervoer	O
+
+De	O
+Vlaamse	B-org
+Vervoermaatschappij	I-org
+De	I-org
+Lijn	I-org
+is	O
+verantwoordelijk	O
+voor	O
+het	O
+vervoer	O
+per	O
+bus	O
+en	O
+tram	O
+binnen	O
+het	O
+Vlaams	B-loc
+Gewest	I-loc
+.	O
+
+Het	O
+Vlaams	B-loc
+Gewest	I-loc
+beheert	O
+ook	O
+de	O
+gewestwegen	O
+in	O
+Vlaanderen	B-loc
+.	O
+
+Zie	O
+ook	O
+
+Vlaanderen	B-loc
+
+Lijst	O
+van	O
+Vlaamse	B-loc
+gemeenten	O
+
+Vlaamse	B-loc
+vlaggen	O
+
+Externe	O
+links	O
+
+Dag	O
+Vlaanderen	B-loc
+
+Toerisme	O
+Vlaanderen	B-loc
+
+website	O
+Vlaamse	B-loc
+overheid	O
+

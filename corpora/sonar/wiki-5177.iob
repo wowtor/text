@@ -1,0 +1,87 @@
+Aalst	B-loc
+
+Aalst	B-loc
+kan	O
+op	O
+meerdere	O
+plaatsen	O
+duiden	O
+:	O
+
+Aalst	B-loc
+(	O
+Oost-Vlaanderen	B-loc
+)	O
+,	O
+stad	O
+in	O
+Oost-Vlaanderen	B-loc
+.	O
+
+Aalst	B-loc
+(	O
+Limburg	B-loc
+)	O
+,	O
+deelgemeente	O
+van	O
+Sint-Truiden	B-loc
+in	O
+Belgisch-Limburg	B-loc
+.	O
+
+Aalst	B-loc
+(	O
+Noord-Brabant	B-loc
+)	O
+«	O
+(	O
+Kerkeind	B-loc
+,	O
+Haestlo	B-loc
+)	O
+,	O
+»	O
+dorp	O
+en	O
+voormalige	O
+heerlijkheid	O
+in	O
+de	O
+gemeente	O
+Waalre	B-loc
+.	O
+
+Aalst	B-loc
+(	O
+Zaltbommel	B-loc
+)	O
+«	O
+(	O
+Alisti	B-loc
+)	O
+,	O
+»	O
+plaats	O
+aan	O
+de	O
+Afgedamde	B-loc
+Maas	I-loc
+in	O
+Gelderland	B-loc
+.	O
+
+Aalst	B-loc
+(	O
+Buren	B-loc
+)	O
+,	O
+gehucht	O
+en	O
+polder	O
+nabij	O
+Lienden	B-loc
+in	O
+Gelderland	B-loc
+.	O
+

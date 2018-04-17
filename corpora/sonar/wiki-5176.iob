@@ -1,0 +1,424 @@
+Merelbeke	B-loc
+
+Merelbeke	B-loc
+is	O
+een	O
+gemeente	O
+in	O
+het	O
+Arrondissement	B-loc
+Gent	I-loc
+(	O
+Oost-Vlaanderen	B-loc
+,	O
+Vlaanderen	B-loc
+,	O
+België	B-loc
+)	O
+.	O
+
+De	O
+gemeente	O
+telt	O
+ruim	O
+22.000	O
+inwoners	O
+.	O
+
+Geschiedenis	O
+
+De	O
+gemeente	O
+Merelbeke	B-loc
+is	O
+vooral	O
+in	O
+'s	O
+lands	O
+geschiedenis	O
+bekend	O
+omwille	O
+van	O
+2	O
+felle	O
+bombardementen	O
+op	O
+het	O
+Vormingsstation	B-loc
+Merelbeke	I-loc
+.	O
+
+Op	O
+10	O
+april	O
+1944	O
+en	O
+op	O
+3	O
+mei	O
+1944	O
+hebben	O
+de	O
+geallieerden	O
+met	O
+een	O
+bommentapijt	O
+de	O
+landing	O
+van	O
+Normandië	B-loc
+voorbereid	O
+(	O
+en	O
+dus	O
+het	O
+einde	O
+van	O
+Wereldoorlog	B-eve
+II	I-eve
+door	O
+de	O
+bevoorrading	O
+per	O
+spoor	O
+van	O
+de	O
+Duitse	B-loc
+stellingen	O
+aldaar	O
+"	O
+lam	O
+te	O
+leggen	O
+"	O
+.	O
+
+Dit	O
+is	O
+hen	O
+ook	O
+gelukt	O
+(	O
+hoezeer	O
+de	O
+Duitsers	B-loc
+ook	O
+poogden	O
+om	O
+dit	O
+te	O
+verhullen	O
+door	O
+vrij	O
+snel	O
+al	O
+één	O
+spoor	O
+terug	O
+beschikbaar	O
+te	O
+maken	O
+voor	O
+sporadisch	O
+verkeer	O
+)	O
+.	O
+
+Pittig	O
+detail	O
+:	O
+hoewel	O
+het	O
+station	O
+de	O
+naam	O
+Station	B-loc
+Merelbeke	I-loc
+draagt	O
+,	O
+bevindt	O
+zich	O
+dat	O
+gedeeltelijk	O
+op	O
+het	O
+grondgebied	O
+van	O
+de	O
+voormalige	O
+gemeente	O
+Gentbrugge	B-loc
+(	O
+nu	O
+groot	O
+Gent	B-loc
+)	O
+en	O
+,	O
+wat	O
+het	O
+vormingsstation	O
+betreft	O
+,	O
+op	O
+het	O
+grondgebied	O
+van	O
+de	O
+gemeente	O
+Melle	B-loc
+.	O
+
+Waarschijnlijk	O
+is	O
+dit	O
+te	O
+wijten	O
+aan	O
+het	O
+feit	O
+dat	O
+men	O
+op	O
+te	O
+Melle	B-loc
+Centrum	I-loc
+gelijktijdig	O
+een	O
+station	O
+bouwde	O
+en	O
+er	O
+reeds	O
+twee	O
+stations	O
+te	O
+Gentbrugge	B-loc
+waren	O
+.	O
+
+Deelgemeenten	O
+
+Merelbeke	B-loc
+bestaat	O
+uit	O
+zes	O
+deelgemeenten	O
+:	O
+Merelbeke	B-loc
+zelf	O
+,	O
+Lemberge	B-loc
+dat	O
+in	O
+1965	O
+werd	O
+aangehecht	O
+en	O
+verder	O
+Bottelare	B-loc
+,	O
+Melsen	B-loc
+,	O
+Munte	B-loc
+en	O
+Schelderode	B-loc
+die	O
+in	O
+1977	O
+werden	O
+aangehecht	O
+.	O
+
+De	O
+gemeente	O
+Merelbeke	B-loc
+grenst	O
+aan	O
+volgende	O
+deelgemeenten	O
+:	O
+
+a.	O
+Melle	B-loc
+
+b.	O
+Gontrode	B-loc
+(	O
+Melle	B-loc
+)	O
+
+c.	O
+Landskouter	B-loc
+(	O
+Oosterzele	B-loc
+)	O
+
+d.	O
+Moortsele	B-loc
+(	O
+Oosterzele	B-loc
+)	O
+
+e.	O
+Scheldewindeke	B-loc
+(	O
+Oosterzele	B-loc
+)	O
+
+f.	O
+Baaigem	B-loc
+(	O
+Gavere	B-loc
+)	O
+
+g.	O
+Gavere	B-loc
+
+h.	O
+Vurste	B-loc
+(	O
+Gavere	B-loc
+)	O
+
+i.	O
+Zevergem	B-loc
+(	O
+De	B-loc
+Pinte	I-loc
+)	O
+
+j.	O
+Zwijnaarde	B-loc
+(	O
+Gent	B-loc
+)	O
+
+k.	O
+Gent	B-loc
+
+l.	O
+Ledeberg	B-loc
+(	O
+Gent	B-loc
+)	O
+
+m	O
+.	O
+
+Gentbrugge	B-loc
+(	O
+Gent	B-loc
+)	O
+
+Tabel	O
+
+Kaart	O
+
+Demografische	O
+evolutie	O
+
+1965	O
+:	O
+afstand	O
+van	O
+Lemberge	B-loc
+(	O
++4,20	O
+km²	O
+met	O
+515	O
+inwoners	O
+)	O
+
+1977	O
+:	O
+aanhechting	O
+van	O
+Bottelare	B-loc
+,	O
+Melsen	B-loc
+,	O
+Munte	B-loc
+en	O
+Schelderode	B-loc
+;	O
+aanhechting	O
+van	O
+gebiedsdelen	O
+van	O
+Zwijnaarde	B-loc
+,	O
+Zevergem	B-loc
+en	O
+Vurste	B-loc
+;	O
+afstand	O
+van	O
+gebiedsdelen	O
+van	O
+Merelbeke	B-loc
+aan	O
+Gent	B-loc
+,	O
+van	O
+Melsen	B-loc
+en	O
+Schelderode	B-loc
+aan	O
+De	B-loc
+Pinte	I-loc
+(	O
++17,60	O
+km²	O
+met	O
+4.685	O
+inwoners	O
+)	O
+
+Sportclubs	O
+
+Voetbal	O
+
+KFC	B-org
+Merelbeke	I-org
+
+SK	B-org
+Merelbeke	I-org
+
+SV	B-org
+Melsen	I-org
+
+ESA	B-org
+Bottelare	I-org
+
+Tennis	O
+
+Proserve	O
+
+Korfbal	O
+
+Floriant	O
+Merelbeke	B-loc
+
+Gerelateerde	O
+onderwerpen	O
+
+Lijst	O
+van	O
+Vlaamse	B-loc
+gemeenten	O
+
+Lijst	O
+van	O
+Belgische	B-loc
+gemeenten	O
+
+Externe	O
+link	O
+
+Website	O
+van	O
+de	O
+gemeente	O
+
